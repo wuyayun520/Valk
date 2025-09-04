@@ -1,0 +1,132 @@
+{
+  "dance_videos": [
+    {
+      "id": 1,
+      "title": "Street Dance Basics - Body Rhythm Training",
+      "description": "Basic street dance tutorial for beginners, focusing on body rhythm and sense of timing",
+      "filename": "assets/Video/dance_1.mp4",
+      "difficulty": "Beginner",
+      "category": "Basic Training"
+    },
+    {
+      "id": 2,
+      "title": "Street Dance Fundamentals - Footwork Techniques",
+      "description": "Detailed explanation of basic footwork movements in street dance, including slides and kicks",
+      "filename": "assets/Video/dance_2.mp4",
+      "difficulty": "Beginner",
+      "category": "Footwork Skills"
+    },
+    {
+      "id": 3,
+      "title": "Street Dance Intermediate - Arm Movement Coordination",
+      "description": "Improve arm movement coordination and learn more complex street dance combinations",
+      "filename": "assets/Video/dance_3.mp4",
+      "difficulty": "Intermediate",
+      "category": "Arm Coordination"
+    },
+    {
+      "id": 4,
+      "title": "Street Dance Techniques - Spinning and Balance",
+      "description": "Learn spinning techniques and balance control in street dance to enhance performance",
+      "filename": "assets/Video/dance_4.mp4",
+      "difficulty": "Intermediate",
+      "category": "Technique Training"
+    },
+    {
+      "id": 5,
+      "title": "Street Dance Combinations - Basic Movement Sequences",
+      "description": "Combine basic movements into complete dance segments to improve fluidity",
+      "filename": "assets/Video/dance_5.mp4",
+      "difficulty": "Intermediate",
+      "category": "Combination Training"
+    },
+    {
+      "id": 6,
+      "title": "Street Dance Styles - Hip-Hop Basic Groove",
+      "description": "Learn basic Hip-Hop style street dance groove and body control",
+      "filename": "assets/Video/dance_6.mp4",
+      "difficulty": "Beginner",
+      "category": "Style Training"
+    },
+    {
+      "id": 7,
+      "title": "Street Dance Techniques - Jumping and Explosiveness",
+      "description": "Train jumping techniques and explosiveness to enhance visual impact",
+      "filename": "assets/Video/dance_7.mp4",
+      "difficulty": "Intermediate",
+      "category": "Technique Training"
+    },
+    {
+      "id": 8,
+      "title": "Street Dance Basics - Rhythm Development",
+      "description": "Develop musical rhythm through simple movements for advanced learning foundation",
+      "filename": "assets/Video/dance_8.mp4",
+      "difficulty": "Beginner",
+      "category": "Rhythm Training"
+    },
+    {
+      "id": 9,
+      "title": "Street Dance Introduction - Body Coordination",
+      "description": "Improve coordination between body parts and learn basic street dance movements",
+      "filename": "assets/Video/dance_9.mp4",
+      "difficulty": "Beginner",
+      "category": "Coordination Training"
+    },
+    {
+      "id": 10,
+      "title": "Street Dance Advanced - Complex Combination Moves",
+      "description": "Learn more complex street dance combinations to improve skill level",
+      "filename": "assets/Video/dance_10.mp4",
+      "difficulty": "Advanced",
+      "category": "Advanced Techniques"
+    },
+    {
+      "id": 11,
+      "title": "Street Dance Masterclass - Advanced Technique Showcase",
+      "description": "Showcase advanced street dance techniques for dancers with foundation",
+      "filename": "assets/Video/dance_11.mp4",
+      "difficulty": "Advanced",
+      "category": "Master Classes"
+    },
+    {
+      "id": 12,
+      "title": "Street Dance Styles - Breaking Basics",
+      "description": "Learn basic movements and techniques in Breaking style street dance",
+      "filename": "assets/Video/dance_12.mp4",
+      "difficulty": "Intermediate",
+      "category": "Breaking Style"
+    },
+    {
+      "id": 13,
+      "title": "Street Dance Warm-up - Body Preparation",
+      "description": "Pre-dance warm-up exercises to prevent injury and improve training effectiveness",
+      "filename": "assets/Video/dance_13.mp4",
+      "difficulty": "Beginner",
+      "category": "Warm-up Exercises"
+    }
+  ],
+  "metadata": {
+    "total_videos": 13,
+    "difficulty_distribution": {
+      "Beginner": 6,
+      "Intermediate": 4,
+      "Advanced": 3
+    },
+    "category_distribution": {
+      "Basic Training": 1,
+      "Footwork Skills": 1,
+      "Arm Coordination": 1,
+      "Technique Training": 2,
+      "Combination Training": 1,
+      "Style Training": 1,
+      "Rhythm Training": 1,
+      "Coordination Training": 1,
+      "Advanced Techniques": 1,
+      "Master Classes": 1,
+      "Breaking Style": 1,
+      "Warm-up Exercises": 1
+    },
+    "created_date": "2024-12-19",
+    "description": "Complete street dance tutorial video collection, from basic introduction to advanced techniques, suitable for dancers of different levels"
+  }
+}

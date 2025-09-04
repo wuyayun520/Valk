@@ -1,0 +1,636 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcus 'Break' Johnson",
+      "age": 24,
+      "gender": "male",
+      "location": "Los Angeles, CA",
+      "dance_style": "Breaking",
+      "specialties": ["Power Moves", "Footwork", "Freezes"],
+      "experience_years": 8,
+      "bio": "Veteran B-boy from Los Angeles, specializing in power moves and floor techniques. Champion of multiple international street dance competitions and a core figure in the local street dance community.",
+      "achievements": [
+        "Red Bull BC One 2022 Los Angeles Regional Champion",
+        "World of Dance 2021 Group Competition Runner-up",
+        "Battle of the Year 2020 US Team Member"
+      ],
+      "social_media": {
+        "instagram": "@marcus_break_johnson",
+        "youtube": "Marcus Break Channel",
+        "tiktok": "@marcus_break"
+      },
+      "images": {
+        "profile_pic": "assets/user/1/usericon.jpg",
+        "background": "assets/user/1/userbg.jpg",
+        "dance_photos": [
+          "assets/user/1/pic_1.jpg",
+          "assets/user/1/pic_2.jpg",
+          "assets/user/1/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "power_moves": 9,
+        "footwork": 8,
+        "freezes": 9,
+        "musicality": 7,
+        "creativity": 8
+      },
+      "crew": "Los Angeles Breakers",
+      "teaching": true,
+      "workshops": ["Basic Breaking Techniques", "Advanced Power Moves", "Musicality Training"]
+    },
+    {
+      "id": 2,
+      "name": "Aisha 'Flow' Rodriguez",
+      "age": 22,
+      "gender": "female",
+      "location": "Miami, FL",
+      "dance_style": "Popping & Locking",
+      "specialties": ["Popping", "Locking", "Animation", "Robot"],
+      "experience_years": 6,
+      "bio": "Miami's Popping Queen, known for smooth mechanical dance moves and unique robot style. Expert at blending classical Popping with modern elements to create distinctive dance language.",
+      "achievements": [
+        "Juste Debout 2023 Popping US Champion",
+        "World Hip Hop Dance Championship 2022 Group Champion",
+        "Hip Hop International 2021 Individual Runner-up"
+      ],
+      "social_media": {
+        "instagram": "@aisha_flow_rodriguez",
+        "youtube": "Aisha Flow Dance",
+        "tiktok": "@aisha_flow"
+      },
+      "images": {
+        "profile_pic": "assets/user/2/usericon.jpg",
+        "background": "assets/user/2/userbg.jpg",
+        "dance_photos": [
+          "assets/user/2/pic_1.jpg",
+          "assets/user/2/pic_2.jpg",
+          "assets/user/2/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "popping": 9,
+        "locking": 8,
+        "animation": 9,
+        "robot": 9,
+        "musicality": 8,
+        "creativity": 9
+      },
+      "crew": "Miami Flow Masters",
+      "teaching": true,
+      "workshops": ["Popping Basics to Advanced", "Locking Techniques", "Robot Dance Style"]
+    },
+    {
+      "id": 3,
+      "name": "Tyler 'Wave' Chen",
+      "age": 26,
+      "gender": "male",
+      "location": "New York, NY",
+      "dance_style": "Waving & Tutting",
+      "specialties": ["Waving", "Tutting", "Finger Tutting", "King Tut"],
+      "experience_years": 10,
+      "bio": "New York's Waving Master, famous for precise finger movements and smooth wave effects. Perfectly combines Egyptian mural art with modern street dance to create unique visual impact.",
+      "achievements": [
+        "World of Dance 2023 Waving Champion",
+        "Hip Hop International 2022 Individual Champion",
+        "Juste Debout 2021 Waving Runner-up",
+        "Featured Performer at Multiple International Street Dance Festivals"
+      ],
+      "social_media": {
+        "instagram": "@tyler_wave_chen",
+        "youtube": "Tyler Wave Studio",
+        "tiktok": "@tyler_wave"
+      },
+      "images": {
+        "profile_pic": "assets/user/3/usericon.jpg",
+        "background": "assets/user/3/userbg.jpg",
+        "dance_photos": [
+          "assets/user/3/pic_1.jpg",
+          "assets/user/3/pic_2.jpg",
+          "assets/user/3/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "waving": 10,
+        "tutting": 10,
+        "finger_tutting": 9,
+        "king_tut": 9,
+        "musicality": 8,
+        "creativity": 9
+      },
+      "crew": "New York Wave Collective",
+      "teaching": true,
+      "workshops": ["Waving Techniques", "Tutting Art", "Finger Movement Training", "Egyptian Style Dance"]
+    },
+    {
+      "id": 4,
+      "name": "Sofia 'Krump' Martinez",
+      "age": 20,
+      "gender": "female",
+      "location": "Chicago, IL",
+      "dance_style": "Krumping",
+      "specialties": ["Krumping", "Stomping", "Chest Pops", "Arm Swings"],
+      "experience_years": 5,
+      "bio": "Chicago's Krump Queen, known for passionate dance expression and powerful stage presence. Perfectly releases inner emotions through Krump movements, igniting the audience with every performance.",
+      "achievements": [
+        "Krump Kings & Queens 2023 Women's Champion",
+        "World of Dance 2022 Krump Runner-up",
+        "Chicago Dance Festival 2021 Best Performance Award",
+        "Invited Judge at Multiple Krump Competitions"
+      ],
+      "social_media": {
+        "instagram": "@sofia_krump_martinez",
+        "youtube": "Sofia Krump World",
+        "tiktok": "@sofia_krump"
+      },
+      "images": {
+        "profile_pic": "assets/user/4/usericon.jpg",
+        "background": "assets/user/4/userbg.jpg",
+        "dance_photos": [
+          "assets/user/4/pic_1.jpg",
+          "assets/user/4/pic_2.jpg",
+          "assets/user/4/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "krumping": 9,
+        "stomping": 8,
+        "chest_pops": 9,
+        "arm_swings": 8,
+        "musicality": 7,
+        "creativity": 8
+      },
+      "crew": "Chicago Krump Family",
+      "teaching": true,
+      "workshops": ["Krump Basics", "Emotional Expression Training", "Power Move Techniques", "Stage Presence Enhancement"]
+    },
+    {
+      "id": 5,
+      "name": "Jake 'Flex' Thompson",
+      "age": 28,
+      "gender": "male",
+      "location": "Houston, TX",
+      "dance_style": "Flexing & Contortion",
+      "specialties": ["Flexing", "Contortion", "Flexibility Moves", "Liquid Dancing"],
+      "experience_years": 12,
+      "bio": "Houston's Flexing Master, famous for amazing body flexibility and unique bone breaking movements. Perfectly combines street dance with acrobatics to create stunning visual effects.",
+      "achievements": [
+        "World of Dance 2024 Flexing Champion",
+        "Hip Hop International 2023 Individual Champion",
+        "Juste Debout 2022 Flexing Champion",
+        "Featured Performer at Multiple International Street Dance Festivals"
+      ],
+      "social_media": {
+        "instagram": "@jake_flex_thompson",
+        "youtube": "Jake Flex Studio",
+        "tiktok": "@jake_flex"
+      },
+      "images": {
+        "profile_pic": "assets/user/5/usericon.jpg",
+        "background": "assets/user/5/userbg.jpg",
+        "dance_photos": [
+          "assets/user/5/pic_1.jpg",
+          "assets/user/5/pic_2.jpg",
+          "assets/user/5/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "flexing": 10,
+        "contortion": 10,
+        "flexibility_moves": 9,
+        "liquid_dancing": 8,
+        "musicality": 7,
+        "creativity": 9
+      },
+      "crew": "Houston Flex Crew",
+      "teaching": true,
+              "workshops": ["Flexing Basics", "Contortion Techniques", "Body Flexibility Training", "Liquid Dance Style"]
+    },
+    {
+      "id": 6,
+      "name": "Maya 'House' Williams",
+      "age": 25,
+      "gender": "female",
+      "location": "Detroit, MI",
+      "dance_style": "House Dance",
+      "specialties": ["House", "Footwork", "Jacking", "Lofting"],
+      "experience_years": 7,
+      "bio": "Detroit's House dancer, known for smooth footwork and unique Jacking movements. Perfectly blends House music soul with modern dance to create vibrant dance style.",
+      "achievements": [
+        "House Dance International 2023 Women's Champion",
+        "World of Dance 2022 House Runner-up",
+        "Detroit Dance Festival 2021 Best Performance Award",
+        "Featured Performer at Multiple House Music Festivals"
+      ],
+      "social_media": {
+        "instagram": "@maya_house_williams",
+        "youtube": "Maya House Dance",
+        "tiktok": "@maya_house"
+      },
+      "images": {
+        "profile_pic": "assets/user/6/usericon.jpg",
+        "background": "assets/user/6/userbg.jpg",
+        "dance_photos": [
+          "assets/user/6/pic_1.jpg",
+          "assets/user/6/pic_2.jpg",
+          "assets/user/6/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "house": 9,
+        "footwork": 9,
+        "jacking": 8,
+        "lofting": 8,
+        "musicality": 9,
+        "creativity": 8
+      },
+      "crew": "Detroit House Collective",
+      "teaching": true,
+      "workshops": ["House Basics", "Footwork Training", "Jacking Movements", "Musicality Enhancement"]
+    },
+    {
+      "id": 7,
+      "name": "Carlos 'Vogue' Rodriguez",
+      "age": 23,
+      "gender": "male",
+      "location": "San Francisco, CA",
+      "dance_style": "Voguing",
+      "specialties": ["Voguing", "Hand Performance", "Catwalk", "Duckwalk"],
+      "experience_years": 6,
+      "bio": "San Francisco's Voguing dancer, known for elegant hand performances and unique catwalk style. Perfectly combines fashion elements with dance to create charming performance style.",
+      "achievements": [
+        "Vogue Knights 2023 Men's Champion",
+        "House of Latex Ball 2022 Best Newcomer Award",
+        "San Francisco Pride 2021 Performance Guest",
+        "Featured Performer at Multiple LGBTQ+ Cultural Events"
+      ],
+      "social_media": {
+        "instagram": "@carlos_vogue_rodriguez",
+        "youtube": "Carlos Vogue World",
+        "tiktok": "@carlos_vogue"
+      },
+      "images": {
+        "profile_pic": "assets/user/7/usericon.jpg",
+        "background": "assets/user/7/userbg.jpg",
+        "dance_photos": [
+          "assets/user/7/pic_1.jpg",
+          "assets/user/7/pic_2.jpg",
+          "assets/user/7/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "voguing": 9,
+        "hand_performance": 9,
+        "catwalk": 8,
+        "duckwalk": 8,
+        "musicality": 7,
+        "creativity": 9
+      },
+      "crew": "San Francisco Vogue House",
+      "teaching": true,
+      "workshops": ["Voguing Basics", "Hand Performance Techniques", "Catwalk Training", "Fashion Dance Style"]
+    },
+    {
+      "id": 8,
+      "name": "Emma 'Jazz' Anderson",
+      "age": 21,
+      "gender": "female",
+      "location": "Boston, MA",
+      "dance_style": "Jazz Funk & Hip Hop",
+      "specialties": ["Jazz Funk", "Hip Hop", "Contemporary", "Commercial"],
+      "experience_years": 4,
+      "bio": "Boston's Jazz Funk dancer, known for elegant dance poses and modern performance style. Perfectly blends classical jazz with modern street dance to create unique dance language.",
+      "achievements": [
+        "World of Dance 2023 Jazz Funk Runner-up",
+        "Hip Hop International 2022 Group Champion",
+        "Boston Dance Festival 2021 Best Newcomer Award",
+        "Featured Performer at Multiple Commercial Performances"
+      ],
+      "social_media": {
+        "instagram": "@emma_jazz_anderson",
+        "youtube": "Emma Jazz Dance",
+        "tiktok": "@emma_jazz"
+      },
+      "images": {
+        "profile_pic": "assets/user/8/usericon.jpg",
+        "background": "assets/user/8/userbg.jpg",
+        "dance_photos": [
+          "assets/user/8/pic_1.jpg",
+          "assets/user/8/pic_2.jpg",
+          "assets/user/8/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "jazz_funk": 8,
+        "hip_hop": 8,
+        "contemporary": 7,
+        "commercial": 8,
+        "musicality": 9,
+        "creativity": 8
+      },
+      "crew": "Boston Jazz Collective",
+      "teaching": true,
+      "workshops": ["Jazz Funk Basics", "Hip Hop Techniques", "Modern Dance Training", "Commercial Dance Style"]
+    },
+    {
+      "id": 9,
+      "name": "David 'Litefeet' Kim",
+      "age": 19,
+      "gender": "male",
+      "location": "Atlanta, GA",
+      "dance_style": "Litefeet",
+      "specialties": ["Litefeet", "Shuffling", "Gliding", "Tutting"],
+      "experience_years": 3,
+      "bio": "Atlanta's Litefeet dancer, known for light footsteps and smooth gliding movements. Perfectly combines modern electronic dance music with street dance to create vibrant dance style.",
+      "achievements": [
+        "Litefeet World Championship 2023 Newcomer Champion",
+        "Atlanta Dance Battle 2022 Best Newcomer Award",
+        "Georgia Dance Festival 2021 Performance Guest",
+        "Featured Performer at Multiple Electronic Music Festivals"
+      ],
+      "social_media": {
+        "instagram": "@david_litefeet_kim",
+        "youtube": "David Litefeet Studio",
+        "tiktok": "@david_litefeet"
+      },
+      "images": {
+        "profile_pic": "assets/user/9/usericon.jpg",
+        "background": "assets/user/9/userbg.jpg",
+        "dance_photos": [
+          "assets/user/9/pic_1.jpg",
+          "assets/user/9/pic_2.jpg",
+          "assets/user/9/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "litefeet": 8,
+        "shuffling": 8,
+        "gliding": 7,
+        "tutting": 7,
+        "musicality": 8,
+        "creativity": 8
+      },
+      "crew": "Atlanta Litefeet Crew",
+      "teaching": false,
+      "workshops": []
+    },
+    {
+      "id": 10,
+      "name": "Sarah 'Waacking' Johnson",
+      "age": 27,
+      "gender": "female",
+      "location": "Seattle, WA",
+      "dance_style": "Waacking",
+      "specialties": ["Waacking", "Punking", "Arm Movements", "Disco"],
+      "experience_years": 9,
+      "bio": "Seattle's Waacking dancer, known for elegant arm movements and vibrant performance style. Perfectly blends 70s disco culture with modern street dance to create unique dance charm.",
+      "achievements": [
+        "Waack City 2023 Women's Champion",
+        "World of Dance 2022 Waacking Runner-up",
+        "Seattle Pride 2021 Performance Guest",
+        "Featured Performer at Multiple Disco Music Festivals"
+      ],
+      "social_media": {
+        "instagram": "@sarah_waacking_johnson",
+        "youtube": "Sarah Waacking World",
+        "tiktok": "@sarah_waacking"
+      },
+      "images": {
+        "profile_pic": "assets/user/10/usericon.jpg",
+        "background": "assets/user/10/userbg.jpg",
+        "dance_photos": [
+          "assets/user/10/pic_1.jpg",
+          "assets/user/10/pic_2.jpg",
+          "assets/user/10/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "waacking": 9,
+        "punking": 8,
+        "arm_movements": 9,
+        "disco": 8,
+        "musicality": 9,
+        "creativity": 8
+      },
+      "crew": "Seattle Waacking House",
+      "teaching": true,
+      "workshops": ["Waacking Basics", "Punking Techniques", "Arm Movement Training", "Disco Dance Style"]
+    },
+    {
+      "id": 11,
+      "name": "Alex 'C-Walk' Davis",
+      "age": 23,
+      "gender": "male",
+      "location": "Las Vegas, NV",
+      "dance_style": "C-Walk",
+      "specialties": ["C-Walk", "Street Walking", "V-Step", "Heel-Toe"],
+      "experience_years": 5,
+      "bio": "Las Vegas C-Walk dancer, known for unique foot combinations and smooth sliding movements. Incorporates West Coast culture into dance to create street-charming performance style.",
+      "achievements": [
+        "West Coast Dance Championship 2023 C-Walk Champion",
+        "Las Vegas Street Dance Battle 2022 Individual Runner-up",
+        "Nevada Dance Festival 2021 Best Newcomer Award",
+        "Featured Performer at Multiple Street Culture Festivals"
+      ],
+      "social_media": {
+        "instagram": "@alex_cwalk_davis",
+        "youtube": "Alex C-Walk Studio",
+        "tiktok": "@alex_cwalk"
+      },
+      "images": {
+        "profile_pic": "assets/user/11/usericon.jpg",
+        "background": "assets/user/11/userbg.jpg",
+        "dance_photos": [
+          "assets/user/11/pic_1.jpg",
+          "assets/user/11/pic_2.jpg",
+          "assets/user/11/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "c_walk": 9,
+        "gangsta_walking": 8,
+        "v_step": 8,
+        "heel_toe": 7,
+        "musicality": 8,
+        "creativity": 8
+      },
+      "crew": "Las Vegas C-Walk Crew",
+      "teaching": true,
+      "workshops": ["C-Walk Basics", "Foot Combination Training", "West Coast Style", "Street Dance Culture"]
+    },
+    {
+      "id": 12,
+      "name": "Nina 'Dancehall' Thompson",
+      "age": 26,
+      "gender": "female",
+      "location": "Orlando, FL",
+      "dance_style": "Dancehall",
+      "specialties": ["Dancehall", "Reggae", "Afrobeat", "Caribbean"],
+      "experience_years": 7,
+      "bio": "Orlando's Dancehall dancer, known for vibrant Caribbean style and unique hip movements. Perfectly blends Jamaican reggae music with modern dance to create tropical performance.",
+      "achievements": [
+        "Dancehall Queen Competition 2023 US Regional Champion",
+        "World of Dance 2022 Dancehall Runner-up",
+        "Florida Caribbean Festival 2021 Best Performance Award",
+        "Featured Performer at Multiple Reggae Music Festivals"
+      ],
+      "social_media": {
+        "instagram": "@nina_dancehall_thompson",
+        "youtube": "Nina Dancehall World",
+        "tiktok": "@nina_dancehall"
+      },
+      "images": {
+        "profile_pic": "assets/user/12/usericon.jpg",
+        "background": "assets/user/12/userbg.jpg",
+        "dance_photos": [
+          "assets/user/12/pic_1.jpg",
+          "assets/user/12/pic_2.jpg",
+          "assets/user/12/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "dancehall": 9,
+        "reggae": 8,
+        "afrobeat": 8,
+        "caribbean": 9,
+        "musicality": 9,
+        "creativity": 8
+      },
+      "crew": "Orlando Dancehall Collective",
+      "teaching": true,
+      "workshops": ["Dancehall Basics", "Reggae Dance Techniques", "Caribbean Style", "Hip Movement Training"]
+    },
+    {
+      "id": 13,
+      "name": "Mike 'Turfing' Wilson",
+      "age": 24,
+      "gender": "male",
+      "location": "Oakland, CA",
+      "dance_style": "Turfing",
+      "specialties": ["Turfing", "Tutting", "Gliding", "Oakland Style"],
+      "experience_years": 6,
+      "bio": "Oakland's Turfing dancer, known for unique Oakland style and smooth gliding movements. Perfectly combines West Coast hip-hop culture with modern street dance to create regionally distinctive dance language.",
+      "achievements": [
+        "Turf Wars 2023 Individual Champion",
+        "Oakland Dance Battle 2022 Best Performance Award",
+        "California Street Dance Championship 2021 Runner-up",
+        "Featured Performer at Multiple Hip-Hop Music Festivals"
+      ],
+      "social_media": {
+        "instagram": "@mike_turfing_wilson",
+        "youtube": "Mike Turfing Studio",
+        "tiktok": "@mike_turfing"
+      },
+      "images": {
+        "profile_pic": "assets/user/13/usericon.jpg",
+        "background": "assets/user/13/userbg.jpg",
+        "dance_photos": [
+          "assets/user/13/pic_1.jpg",
+          "assets/user/13/pic_2.jpg",
+          "assets/user/13/pic_3.jpg"
+        ]
+      },
+      "skills": {
+        "turfing": 9,
+        "tutting": 8,
+        "gliding": 8,
+        "oakland_style": 9,
+        "musicality": 7,
+        "creativity": 8
+      },
+      "crew": "Oakland Turf Crew",
+      "teaching": true,
+      "workshops": ["Turfing Basics", "Oakland Style", "Gliding Movement Training", "West Coast Hip-Hop Culture"]
+    },
+    {
+      "id": 14,
+      "name": "Lily 'Contemporary' Park",
+      "age": 18,
+      "gender": "female",
+      "location": "Portland, OR",
+      "dance_style": "Contemporary Hip Hop",
+      "specialties": ["Contemporary", "Hip Hop", "Modern Dance", "Fusion"],
+      "experience_years": 2,
+      "bio": "Portland's emerging dancer, known for elegant modern dance poses and unique fusion style. Perfectly combines contemporary dance with modern street dance to create artistic performance style.",
+      "achievements": [
+        "Portland Youth Dance Festival 2023 Best Newcomer Award",
+        "Oregon Dance Championship 2022 Contemporary Runner-up",
+        "Pacific Northwest Dance Competition 2021 Performance Guest",
+        "Featured Performer at Multiple Art Festivals"
+      ],
+      "social_media": {
+        "instagram": "@lily_contemporary_park",
+        "youtube": "Lily Contemporary Dance",
+        "tiktok": "@lily_contemporary"
+      },
+      "images": {
+        "profile_pic": "assets/user/14/usericon.jpg",
+        "background": "assets/user/14/userbg.jpg",
+        "dance_photos": [
+          "assets/user/14/pic_1.jpg"
+        ]
+      },
+      "skills": {
+        "contemporary": 7,
+        "hip_hop": 6,
+        "modern_dance": 7,
+        "fusion": 6,
+        "musicality": 8,
+        "creativity": 7
+      },
+      "crew": "Portland Contemporary Collective",
+      "teaching": false,
+      "workshops": []
+    },
+    {
+      "id": 15,
+      "name": "Jordan 'Experimental' Lee",
+      "age": 29,
+      "gender": "male",
+      "location": "Austin, TX",
+      "dance_style": "Experimental Dance",
+      "specialties": ["Experimental", "Fusion", "Performance Art", "Multimedia"],
+      "experience_years": 11,
+      "bio": "Austin's experimental dance artist, known for innovative performance forms and unique artistic expression. Perfectly combines multiple dance styles with multimedia art to create avant-garde performance experience.",
+      "achievements": [
+        "Austin Experimental Arts Festival 2023 Best Performance Award",
+        "Texas Dance Festival 2022 Innovation Award",
+        "South by Southwest 2021 Performance Guest",
+        "Featured Performer at Multiple Art Festivals and Museums"
+      ],
+      "social_media": {
+        "instagram": "@jordan_experimental_lee",
+        "youtube": "Jordan Experimental Arts",
+        "tiktok": "@jordan_experimental"
+      },
+      "images": {
+        "profile_pic": "assets/user/15/usericon.jpg",
+        "background": "assets/user/15/userbg.jpg",
+        "dance_photos": [
+          "assets/user/15/pic_1.jpg"
+        ]
+      },
+      "skills": {
+        "experimental": 9,
+        "fusion": 9,
+        "performance_art": 8,
+        "multimedia": 8,
+        "musicality": 7,
+        "creativity": 10
+      },
+      "crew": "Austin Experimental Arts Collective",
+      "teaching": true,
+      "workshops": ["Experimental Dance Creation", "Fusion Style Training", "Performance Art Techniques", "Multimedia Dance Production"]
+    }
+  ],
+  "metadata": {
+    "total_users": 15,
+            "dance_styles_covered": ["Breaking", "Popping", "Locking", "Waving", "Tutting", "Krumping", "Flexing", "Contortion", "House", "Voguing", "Jazz Funk", "Litefeet", "Waacking", "C-Walk", "Dancehall", "Turfing", "Contemporary Hip Hop", "Experimental Dance"],
+    "locations": ["Los Angeles", "Miami", "New York", "Chicago", "Houston", "Detroit", "San Francisco", "Boston", "Atlanta", "Seattle", "Las Vegas", "Orlando", "Oakland", "Portland", "Austin"],
+    "experience_range": "2-12 years",
+    "age_range": "18-29",
+    "created_date": "2024-12-19",
+    "description": "This is a collection of excellent street dance user profiles from various locations across the United States, covering multiple street dance styles and techniques. Each user has rich competition experience and teaching capabilities."
+  }
+}

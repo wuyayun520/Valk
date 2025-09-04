@@ -1,0 +1,109 @@
+{
+  "dance_types": [
+    {
+      "id": 1,
+      "image_file": "assets/dancetype/Electric.jpg",
+      "dance_name": "Electric Boogie",
+      "origin": "Late 1970s to early 1980s",
+      "origin_place": "West Coast, USA",
+      "description": "Electric Boogie is a street dance style based on electronic music, emphasizing body rhythm and sense of beat. Dancers create futuristic dance effects through smooth body movements and unique footwork, synchronized with electronic music beats. This dance style incorporates various elements including Popping, Wave and other techniques, making it one of the most expressive styles in modern street dance.",
+      "characteristics": [
+        "Emphasizes body rhythm and sense of beat",
+        "Synchronized with electronic music beats",
+        "Incorporates various street dance techniques",
+        "Features futuristic and technological feel",
+        "Smooth and expressive movements"
+      ],
+      "difficulty_level": "Intermediate",
+      "music_style": "Electronic music, House music"
+    },
+    {
+      "id": 2,
+      "image_file": "assets/dancetype/house.jpg",
+      "dance_name": "House Dance",
+      "origin": "1980s to 1990s",
+      "origin_place": "Chicago, USA",
+      "description": "House Dance is a street dance style based on House music, developed during the 1980s to 1990s. It extensively incorporates various dance elements including Breaking, Hip-Hop, Salsa, Tap, and Ballet, forming a dance style characterized by rich and light footwork variations to express House music. House Dance emphasizes the complexity and flexibility of footwork, where dancers create elegant and energetic dance effects through fast and precise foot movements combined with body rhythm.",
+      "characteristics": [
+        "Focuses on rich and light footwork variations",
+        "Incorporates various dance elements",
+        "Emphasizes complexity and flexibility of footwork",
+        "Elegant and energetic movements",
+        "Closely integrated with House music"
+      ],
+      "difficulty_level": "Intermediate to Advanced",
+      "music_style": "House music, Electronic dance music"
+    },
+    {
+      "id": 3,
+      "image_file": "assets/dancetype/locking.jpg",
+      "dance_name": "Locking",
+      "origin": "1970s",
+      "origin_place": "Los Angeles, USA",
+      "description": "Locking is a street dance style created by Don Campbell in Los Angeles during the 1970s. Its characteristics include fast and distinct arm and hand movements, combined with relatively relaxed hips and legs. Movements are typically large and exaggerated, highly rhythmic, and closely integrated with music. Locking dancers often enhance their performance through exaggerated facial expressions and audience interaction, possessing strong comedic and entertainment value.",
+      "characteristics": [
+        "Fast arm and hand movements",
+        "Sudden freezes (Locks)",
+        "Exaggerated facial expressions",
+        "Audience interaction",
+        "Strong comedic and entertainment value"
+      ],
+      "difficulty_level": "Intermediate",
+      "music_style": "Funk music, Disco music"
+    },
+    {
+      "id": 4,
+      "image_file": "assets/dancetype/popping.jpg",
+      "dance_name": "Popping",
+      "origin": "Early 1970s",
+      "origin_place": "Fresno, California, USA",
+      "description": "Popping is a street dance style originating from Fresno, California in the early 1970s. Dancers rapidly contract and relax muscles in various body parts to create a vibrating sensation, producing a robotic mechanical feel. Popping emphasizes independent control of different body parts, where dancers use specific body techniques to create seemingly impossible dance illusions. This dance style requires extremely strong muscle control and sense of rhythm.",
+      "characteristics": [
+        "Rapid muscle contraction and relaxation",
+        "Creates vibrating effects",
+        "Robotic mechanical feel",
+        "Independent control of different body parts",
+        "Creates impossible dance illusions"
+      ],
+      "difficulty_level": "Advanced",
+      "music_style": "Funk music, Electronic music"
+    },
+    {
+      "id": 5,
+      "image_file": "assets/dancetype/Turbo.jpg",
+      "dance_name": "Turbo",
+      "origin": "1990s",
+      "origin_place": "West Coast, USA",
+      "description": "Turbo is a relatively new street dance style originating from the West Coast of the USA in the 1990s. This dance style is characterized by fast, continuous movements and strong rhythmic sense. Dancers create turbine-like rotating visual effects through high-speed body movements and complex footwork combinations. Turbo incorporates various street dance elements including Popping, Locking and other techniques, forming a unique dance style.",
+      "characteristics": [
+        "Fast and continuous movements",
+        "Strong rhythmic sense",
+        "High-speed body movements",
+        "Complex footwork combinations",
+        "Turbine-like rotating visual effects"
+      ],
+      "difficulty_level": "Advanced",
+      "music_style": "Electronic music, Techno music"
+    },
+    {
+      "id": 6,
+      "image_file": "assets/dancetype/Wave.jpg",
+      "dance_name": "Wave",
+      "origin": "1970s",
+      "origin_place": "West Coast, USA",
+      "description": "Wave is a street dance style characterized by wave-like fluid movements, originating from the West Coast of the USA in the 1970s. Dancers create wave-like visual effects through continuous flowing body movements. Wave emphasizes the continuity and fluidity of movements, requiring dancers to have good body coordination and sense of rhythm. This dance style is often combined with other street dance techniques and is one of the most artistic and expressive styles in street dance.",
+      "characteristics": [
+        "Wave-like fluid movements",
+        "Continuous flowing movements",
+        "Emphasizes movement continuity",
+        "Good body coordination ability",
+        "Highly artistic and expressive"
+      ],
+      "difficulty_level": "Intermediate to Advanced",
+      "music_style": "Funk music, Electronic music"
+    }
+  ],
+  "total_count": 6,
+  "created_date": "2024-12-19",
+  "description": "Street dance type identification and introduction data, containing 6 different street dance styles and their detailed characteristics"
+}
