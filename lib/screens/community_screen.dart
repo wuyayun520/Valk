@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'dart:math';
 import 'package:video_player/video_player.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/app_colors.dart';
 import 'user_detail_screen.dart';
 import 'video_player_screen.dart';
@@ -17,13 +18,16 @@ class _CommunityScreenState extends State<CommunityScreen> {
   List<Map<String, dynamic>> _users = [];
   List<Map<String, dynamic>> _topUsers = [];
   List<Map<String, dynamic>> _danceVideos = [];
+  Set<String> _hiddenVideoIds = {}; // 存储隐藏的视频ID
   bool _isLoading = true;
+  int _refreshCounter = 0; // 用于强制刷新
 
   @override
   void initState() {
     super.initState();
     _loadUsers();
     _loadDanceVideos();
+    _loadHiddenVideos();
   }
 
   Future<void> _loadUsers() async {
@@ -56,6 +60,49 @@ class _CommunityScreenState extends State<CommunityScreen> {
     }
   }
 
+  // Load hidden videos from local storage
+  Future<void> _loadHiddenVideos() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final hiddenVideosJson = prefs.getStringList('hidden_videos') ?? [];
+      setState(() {
+        _hiddenVideoIds = hiddenVideosJson.toSet();
+      });
+      print('Loaded hidden videos: $_hiddenVideoIds');
+    } catch (e) {
+      print('Error loading hidden videos: $e');
+    }
+  }
+
+  // Save hidden videos to local storage
+  Future<void> _saveHiddenVideos() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList('hidden_videos', _hiddenVideoIds.toList());
+      print('Saved hidden videos: $_hiddenVideoIds');
+    } catch (e) {
+      print('Error saving hidden videos: $e');
+    }
+  }
+
+  // Clear all hidden videos (for testing or reset functionality)
+  // Uncomment this method if you need to reset hidden videos
+  /*
+  Future<void> _clearHiddenVideos() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.remove('hidden_videos');
+      setState(() {
+        _hiddenVideoIds.clear();
+        _refreshCounter++;
+      });
+      print('Cleared all hidden videos');
+    } catch (e) {
+      print('Error clearing hidden videos: $e');
+    }
+  }
+  */
+
   void _selectRandomTopUsers() {
     if (_users.isNotEmpty) {
       final random = Random();
@@ -70,6 +117,129 @@ class _CommunityScreenState extends State<CommunityScreen> {
         _topUsers[i]['displayLikes'] = '${likeCount}.${random.nextInt(10)}k';
       }
     }
+  }
+
+  // Show not interested confirmation dialog
+  void _showNotInterestedDialog(Map<String, dynamic> video) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Confirm Action',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: const Text(
+            'Are you sure you want to mark this video as not interested?\nYou will no longer see this video after hiding it.',
+            style: TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _hideVideo(video);
+              },
+              child: Text(
+                'Confirm',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Hide video
+  void _hideVideo(Map<String, dynamic> video) async {
+    // Convert to string to ensure type compatibility
+    final videoId = (video['id'] ?? video['filename']).toString();
+    
+    print('Hiding video with ID: $videoId');
+    print('Current hidden videos: $_hiddenVideoIds');
+    
+    // Add to hidden list
+    _hiddenVideoIds.add(videoId);
+    
+    print('After hiding, hidden videos: $_hiddenVideoIds');
+    print('Total videos: ${_danceVideos.length}');
+    print('Visible videos: ${_danceVideos.where((video) => !_hiddenVideoIds.contains((video['id'] ?? video['filename']).toString())).length}');
+    
+    // Save to local storage
+    await _saveHiddenVideos();
+    
+    // Force rebuild by incrementing refresh counter
+    setState(() {
+      _refreshCounter++;
+    });
+    
+    // Show notification message
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: const Text(
+          'Video hidden',
+          style: TextStyle(color: Colors.white),
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildVideoList() {
+    final visibleVideos = _danceVideos.where((video) => !_hiddenVideoIds.contains((video['id'] ?? video['filename']).toString())).toList();
+    print('Building video list - Total: ${_danceVideos.length}, Visible: ${visibleVideos.length}, Hidden: ${_hiddenVideoIds.length}, Refresh: $_refreshCounter');
+    
+    if (visibleVideos.isEmpty) {
+      return const Center(
+        child: Padding(
+          padding: EdgeInsets.all(32.0),
+          child: Text(
+            'No videos to display',
+            style: TextStyle(
+              fontSize: 16,
+              color: Colors.grey,
+            ),
+          ),
+        ),
+      );
+    }
+    
+    return ListView.builder(
+      shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
+      itemCount: visibleVideos.length,
+      itemBuilder: (context, index) {
+        final video = visibleVideos[index];
+        return _buildVideoCard(video);
+      },
+    );
   }
 
   @override
@@ -153,14 +323,9 @@ class _CommunityScreenState extends State<CommunityScreen> {
                   children: [
                     // Video list
                     if (_danceVideos.isNotEmpty) ...[
-                      ListView.builder(
-                        shrinkWrap: true,
-                        physics: const NeverScrollableScrollPhysics(),
-                        itemCount: _danceVideos.length,
-                        itemBuilder: (context, index) {
-                          final video = _danceVideos[index];
-                          return _buildVideoCard(video);
-                        },
+                      KeyedSubtree(
+                        key: ValueKey('video_list_$_refreshCounter'),
+                        child: _buildVideoList(),
                       ),
                     ] else ...[
                       Center(
@@ -299,7 +464,6 @@ class _CommunityScreenState extends State<CommunityScreen> {
                 top: 16,
                 right: 16,
                 child: Container(
-                  
                   child: Image.asset(
                     'assets/images/valk_home_play.png',
                     width: 50,
@@ -312,6 +476,28 @@ class _CommunityScreenState extends State<CommunityScreen> {
                         size: 30,
                       );
                     },
+                  ),
+                ),
+              ),
+              // Not interested button
+              Positioned(
+                top: 16,
+                left: 16,
+                child: GestureDetector(
+                  onTap: () {
+                    _showNotInterestedDialog(video);
+                  },
+                  child: Container(
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: Colors.black.withOpacity(0.6),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Icon(
+                      Icons.close,
+                      color: Colors.white,
+                      size: 20,
+                    ),
                   ),
                 ),
               ),

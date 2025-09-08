@@ -1,4 +1,5 @@
 import Flutter
+//import AVFAudio
 import UIKit
 import AppTrackingTransparency
 
@@ -14,6 +15,11 @@ import AppTrackingTransparency
               }
             }
       }
+//      DispatchQueue.main.asyncAfter(deadline: .now() + 10) {
+//          AVAudioSession.sharedInstance().requestRecordPermission { (granted) in
+//          }
+//      }
+      
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
