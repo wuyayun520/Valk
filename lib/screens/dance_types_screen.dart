@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import '../constants/app_colors.dart';
 
@@ -12,15 +13,19 @@ class DanceTypesScreen extends StatefulWidget {
 
 class _DanceTypesScreenState extends State<DanceTypesScreen> {
   List<Map<String, dynamic>> _danceTypes = [];
+  List<Map<String, dynamic>> _filteredDanceTypes = [];
   int _currentIndex = 0;
   bool _isLoading = true;
   FlutterTts? _flutterTts;
   bool _isSpeaking = false;
+  Set<String> _reportedDanceTypes = {}; // 存储已举报的舞蹈类型ID
+  int _refreshCounter = 0; // 用于强制刷新
 
   @override
   void initState() {
     super.initState();
     _loadDanceTypes();
+    _loadReportedDanceTypes();
     _initTts();
   }
 
@@ -63,6 +68,7 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
       final data = await json.decode(response);
       setState(() {
         _danceTypes = List<Map<String, dynamic>>.from(data['dance_types']);
+        _filterDanceTypes();
         _isLoading = false;
       });
     } catch (e) {
@@ -73,8 +79,49 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
     }
   }
 
+  // Load reported dance types from local storage
+  Future<void> _loadReportedDanceTypes() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final reportedDanceTypesJson = prefs.getStringList('reported_dance_types') ?? [];
+      setState(() {
+        _reportedDanceTypes = reportedDanceTypesJson.toSet();
+      });
+      print('Loaded reported dance types: $_reportedDanceTypes');
+    } catch (e) {
+      print('Error loading reported dance types: $e');
+    }
+  }
+
+  // Save reported dance types to local storage
+  Future<void> _saveReportedDanceTypes() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList('reported_dance_types', _reportedDanceTypes.toList());
+      print('Saved reported dance types: $_reportedDanceTypes');
+    } catch (e) {
+      print('Error saving reported dance types: $e');
+    }
+  }
+
+  // Filter dance types to exclude reported ones
+  void _filterDanceTypes() {
+    _filteredDanceTypes = _danceTypes.where((danceType) {
+      final danceId = (danceType['id'] ?? danceType['dance_name']).toString();
+      return !_reportedDanceTypes.contains(danceId);
+    }).toList();
+    
+    // Adjust current index if needed
+    if (_currentIndex >= _filteredDanceTypes.length) {
+      _currentIndex = _filteredDanceTypes.length - 1;
+    }
+    if (_currentIndex < 0 && _filteredDanceTypes.isNotEmpty) {
+      _currentIndex = 0;
+    }
+  }
+
   void _nextDanceType() {
-    if (_currentIndex < _danceTypes.length - 1) {
+    if (_currentIndex < _filteredDanceTypes.length - 1) {
       setState(() {
         _currentIndex++;
       });
@@ -106,6 +153,101 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
     }
   }
 
+  // Show report confirmation dialog
+  void _showReportDialog(Map<String, dynamic> danceType) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Report Content',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: const Text(
+            'Are you sure you want to report this dance type?\nIt will be hidden from your view.',
+            style: TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _reportDanceType(danceType);
+              },
+              child: Text(
+                'Report',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Report dance type
+  void _reportDanceType(Map<String, dynamic> danceType) async {
+    final danceId = (danceType['id'] ?? danceType['dance_name']).toString();
+    
+    print('Reporting dance type with ID: $danceId');
+    print('Current reported dance types: $_reportedDanceTypes');
+    
+    // Add to reported list
+    _reportedDanceTypes.add(danceId);
+    
+    // Save to local storage
+    await _saveReportedDanceTypes();
+    
+    // Filter dance types
+    _filterDanceTypes();
+    
+    // Force rebuild
+    setState(() {
+      _refreshCounter++;
+    });
+    
+    print('After reporting, reported dance types: $_reportedDanceTypes');
+    print('Total dance types: ${_danceTypes.length}');
+    print('Visible dance types: ${_filteredDanceTypes.length}');
+    
+    // Show notification message
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: const Text(
+          'Dance type reported and hidden',
+          style: TextStyle(color: Colors.white),
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     if (_isLoading) {
@@ -119,7 +261,7 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
       );
     }
 
-    if (_danceTypes.isEmpty) {
+    if (_filteredDanceTypes.isEmpty) {
       return Scaffold(
         backgroundColor: AppColors.background,
         appBar: AppBar(
@@ -128,17 +270,19 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
           foregroundColor: Colors.white,
         ),
         body: const Center(
-          child: Text('No dance types found'),
+          child: Text('No dance types available'),
         ),
       );
     }
 
-    final currentDance = _danceTypes[_currentIndex];
+    final currentDance = _filteredDanceTypes[_currentIndex];
 
     return Scaffold(
       backgroundColor: AppColors.background,
-      body: Stack(
-        children: [
+      body: KeyedSubtree(
+        key: ValueKey('dance_types_$_refreshCounter'),
+        child: Stack(
+          children: [
           // Background image
           Positioned.fill(
             child: Image.asset(
@@ -189,24 +333,46 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
             ),
           ),
 
-          // Page indicator (top right)
+          // Page indicator and report button (top right)
           Positioned(
             top: 50,
             right: 20,
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-              decoration: BoxDecoration(
-                color: Colors.black.withOpacity(0.3),
-                borderRadius: BorderRadius.circular(20),
-              ),
-              child: Text(
-                '${_currentIndex + 1} / ${_danceTypes.length}',
-                style: const TextStyle(
-                  color: Colors.white,
-                  fontSize: 14,
-                  fontWeight: FontWeight.w500,
+            child: Row(
+              children: [
+                // Report button
+                GestureDetector(
+                  onTap: () => _showReportDialog(currentDance),
+                  child: Container(
+                    margin: const EdgeInsets.only(right: 12),
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: Colors.red.withOpacity(0.7),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: const Icon(
+                      Icons.report,
+                      color: Colors.white,
+                      size: 20,
+                    ),
+                  ),
                 ),
-              ),
+                // Page indicator
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.3),
+                    borderRadius: BorderRadius.circular(20),
+                  ),
+                  child: Text(
+                    '${_currentIndex + 1} / ${_filteredDanceTypes.length}',
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 14,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                ),
+              ],
             ),
           ),
 
@@ -263,19 +429,19 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
                 
                 // Next button
                 GestureDetector(
-                  onTap: _currentIndex < _danceTypes.length - 1 ? _nextDanceType : null,
+                  onTap: _currentIndex < _filteredDanceTypes.length - 1 ? _nextDanceType : null,
                   child: Container(
                     margin: const EdgeInsets.only(right: 20),
                     padding: const EdgeInsets.all(16),
                     decoration: BoxDecoration(
-                      color: _currentIndex < _danceTypes.length - 1
+                      color: _currentIndex < _filteredDanceTypes.length - 1
                         ? Colors.white.withOpacity(0.2)
                         : Colors.white.withOpacity(0.1),
                       borderRadius: BorderRadius.circular(30),
                     ),
                     child: Icon(
                       Icons.arrow_forward_ios,
-                      color: _currentIndex < _danceTypes.length - 1 ? Colors.white : Colors.white54,
+                      color: _currentIndex < _filteredDanceTypes.length - 1 ? Colors.white : Colors.white54,
                       size: 24,
                     ),
                   ),
@@ -348,6 +514,7 @@ class _DanceTypesScreenState extends State<DanceTypesScreen> {
             ),
           ),
         ],
+        ),
       ),
     );
   }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../constants/app_colors.dart';
 import 'main_screen.dart';
 import 'privacy_policy_screen.dart';
@@ -14,6 +15,25 @@ class LoginScreen extends StatefulWidget {
 
 class _LoginScreenState extends State<LoginScreen> {
   bool _agreedToTerms = true;
+
+  // Launch external URL
+  Future<void> _launchUrl(String url) async {
+    final Uri uri = Uri.parse(url);
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri, mode: LaunchMode.externalApplication);
+    } else {
+      // Show error message if URL cannot be launched
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: const Text('Could not open the link'),
+            backgroundColor: Colors.red,
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      }
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -157,7 +177,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                           );
                                         },
                                     ),
-                                    const TextSpan(text: ' and '),
+                                    const TextSpan(text: ', '),
                                     TextSpan(
                                       text: 'Privacy Policy',
                                       style: TextStyle(
@@ -172,6 +192,19 @@ class _LoginScreenState extends State<LoginScreen> {
                                               builder: (context) => const PrivacyPolicyScreen(),
                                             ),
                                           );
+                                        },
+                                    ),
+                                    const TextSpan(text: ' and '),
+                                    TextSpan(
+                                      text: 'EULA',
+                                      style: TextStyle(
+                                        color: AppColors.primary,
+                                        fontWeight: FontWeight.w600,
+                                        decoration: TextDecoration.underline,
+                                      ),
+                                      recognizer: TapGestureRecognizer()
+                                        ..onTap = () {
+                                          _launchUrl('https://www.apple.com/legal/internet-services/itunes/dev/stdeula');
                                         },
                                     ),
                                   ],
