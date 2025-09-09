@@ -4,6 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/app_colors.dart';
 import 'user_detail_screen.dart';
 import 'dance_types_screen.dart';
+import 'inapppurchases_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -18,7 +19,9 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Map<String, dynamic>> _filteredUsers = [];
   bool _isLoading = true;
   Set<String> _reportedUserIds = {}; // 存储已举报的用户ID
+  Set<String> _unlockedUserIds = {}; // 存储已解锁的用户ID
   int _refreshCounter = 0; // 用于强制刷新
+  int _userCoins = 0; // 用户金币数量
 
   final List<Map<String, String>> _danceStyles = [
     {
@@ -43,6 +46,18 @@ class _HomeScreenState extends State<HomeScreen> {
     super.initState();
     _loadUsers();
     _loadReportedUsers();
+    _loadUnlockedUsers();
+    _loadUserCoins();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // Reload data when screen becomes visible (e.g., returning from purchase page)
+    if (ModalRoute.of(context)?.isCurrent == true) {
+      _loadUserCoins();
+      _loadUnlockedUsers();
+    }
   }
 
   void _loadUsers() async {
@@ -84,6 +99,59 @@ class _HomeScreenState extends State<HomeScreen> {
       print('Saved reported users: $_reportedUserIds');
     } catch (e) {
       print('Error saving reported users: $e');
+    }
+  }
+
+  // Load unlocked users from local storage
+  Future<void> _loadUnlockedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final unlockedUsersJson = prefs.getStringList('unlocked_users') ?? [];
+      setState(() {
+        _unlockedUserIds = unlockedUsersJson.toSet();
+      });
+      print('Loaded unlocked users: $_unlockedUserIds');
+    } catch (e) {
+      print('Error loading unlocked users: $e');
+    }
+  }
+
+  // Save unlocked users to local storage
+  Future<void> _saveUnlockedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList('unlocked_users', _unlockedUserIds.toList());
+      print('Saved unlocked users: $_unlockedUserIds');
+    } catch (e) {
+      print('Error saving unlocked users: $e');
+    }
+  }
+
+  // Load user coins from local storage
+  Future<void> _loadUserCoins() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final coins = prefs.getInt('petCoins') ?? 0;
+      setState(() {
+        _userCoins = coins;
+      });
+      print('Loaded user coins: $_userCoins');
+    } catch (e) {
+      print('Error loading user coins: $e');
+    }
+  }
+
+  // Save user coins to local storage
+  Future<void> _saveUserCoins(int coins) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setInt('petCoins', coins);
+      setState(() {
+        _userCoins = coins;
+      });
+      print('Saved user coins: $_userCoins');
+    } catch (e) {
+      print('Error saving user coins: $e');
     }
   }
 
@@ -208,6 +276,247 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
+  // Handle user tap - check coins and unlock if needed
+  void _handleUserTap(Map<String, dynamic> user) async {
+    final userId = (user['id'] ?? user['name']).toString();
+    
+    // Check if user is already unlocked
+    if (_unlockedUserIds.contains(userId)) {
+      // User already unlocked, navigate directly
+      _navigateToUserDetail(user);
+      return;
+    }
+    
+    // Reload latest coins before checking
+    await _loadUserCoins();
+    
+    // Check if user has enough coins
+    const int unlockCost = 8;
+    if (_userCoins < unlockCost) {
+      // Not enough coins, show dialog
+      _showInsufficientCoinsDialog();
+      return;
+    }
+    
+    // User has enough coins, show unlock confirmation
+    _showUnlockConfirmationDialog(user, unlockCost);
+  }
+
+  // Show insufficient coins dialog
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Insufficient Credits',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: const Text(
+            'You need 8 Street Dance Credits to unlock this user.\nWould you like to purchase more credits?',
+            style: TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              child: Text(
+                'Purchase Credits',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Show unlock confirmation dialog
+  void _showUnlockConfirmationDialog(Map<String, dynamic> user, int cost) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Unlock User',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Text(
+            'Unlock ${user['name']} for $cost Street Dance Credits?',
+            style: const TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _unlockUser(user, cost);
+              },
+              child: Text(
+                'Unlock',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Unlock user and deduct coins
+  void _unlockUser(Map<String, dynamic> user, int cost) async {
+    final userId = (user['id'] ?? user['name']).toString();
+    
+    // Add to unlocked list
+    _unlockedUserIds.add(userId);
+    await _saveUnlockedUsers();
+    
+    // Deduct coins
+    final newCoinAmount = _userCoins - cost;
+    await _saveUserCoins(newCoinAmount);
+    
+    // Show success message
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text(
+          'Unlocked ${user['name']} for $cost credits',
+          style: const TextStyle(color: Colors.white),
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+    );
+    
+    // Navigate to user detail
+    _navigateToUserDetail(user);
+  }
+
+  // Navigate to user detail screen
+  void _navigateToUserDetail(Map<String, dynamic> user) {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => UserDetailScreen(user: user),
+      ),
+    );
+  }
+
+  // Build unlock price indicator
+  Widget _buildUnlockPriceIndicator(Map<String, dynamic> user) {
+    final userId = (user['id'] ?? user['name']).toString();
+    final isUnlocked = _unlockedUserIds.contains(userId);
+    
+    if (isUnlocked) {
+      // User is already unlocked, show unlocked indicator
+      return Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+        decoration: BoxDecoration(
+          color: AppColors.success.withOpacity(0.9),
+          borderRadius: BorderRadius.circular(12),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            const Icon(
+              Icons.check_circle,
+              color: Colors.white,
+              size: 12,
+            ),
+            const SizedBox(width: 4),
+            const Text(
+              'Unlocked',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 10,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ],
+        ),
+      );
+    } else {
+      // User is locked, show unlock price
+      return Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+        decoration: BoxDecoration(
+          color: AppColors.primary.withOpacity(0.9),
+          borderRadius: BorderRadius.circular(12),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            const Icon(
+              Icons.lock,
+              color: Colors.white,
+              size: 12,
+            ),
+            const SizedBox(width: 4),
+            const Text(
+              '8 Credits',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 10,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ],
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -306,11 +615,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     
                     return GestureDetector(
                       onTap: () {
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => UserDetailScreen(user: user),
-                          ),
-                        );
+                        _handleUserTap(user);
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -358,7 +663,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 ),
                               ),
 
-                              // User name overlay
+                              // User name and unlock price overlay
                               Positioned(
                                 bottom: 0,
                                 left: 0,
@@ -375,15 +680,24 @@ class _HomeScreenState extends State<HomeScreen> {
                                       ],
                                     ),
                                   ),
-                                  child: Text(
-                                    user['name'],
-                                    style: const TextStyle(
-                                      color: Colors.white,
-                                      fontSize: 14,
-                                      fontWeight: FontWeight.w600,
-                                    ),
-                                    maxLines: 2,
-                                    overflow: TextOverflow.ellipsis,
+                                  child: Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: [
+                                      Text(
+                                        user['name'],
+                                        style: const TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 14,
+                                          fontWeight: FontWeight.w600,
+                                        ),
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                      ),
+                                      const SizedBox(height: 4),
+                                      // Unlock price indicator
+                                      _buildUnlockPriceIndicator(user),
+                                    ],
                                   ),
                                 ),
                               ),

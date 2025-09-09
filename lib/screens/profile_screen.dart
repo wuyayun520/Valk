@@ -7,6 +7,8 @@ import 'follow_list_screen.dart';
 import 'about_us_screen.dart';
 import 'privacy_policy_screen.dart';
 import 'terms_of_service_screen.dart';
+import 'inapppurchases_screen.dart';
+import 'subscriptions_screen.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -20,6 +22,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   String? _avatarFileName;
   int _followingCount = 0;
   int _followersCount = 0;
+  bool _isVip = false; // VIP状态
   final ImagePicker _picker = ImagePicker();
 
   @override
@@ -28,6 +31,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
     // Delay loading to ensure app is fully initialized
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _loadUserData();
+      _loadVipStatus();
     });
   }
 
@@ -37,6 +41,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
     // Only refresh data when the screen becomes visible
     if (ModalRoute.of(context)?.isCurrent == true) {
       _loadUserData();
+      _loadVipStatus();
     }
   }
 
@@ -60,6 +65,19 @@ class _ProfileScreenState extends State<ProfileScreen> {
         _followingCount = 0;
         _followersCount = 0;
       });
+    }
+  }
+
+  // Load VIP status from local storage
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _isVip = prefs.getBool('isVip') ?? false;
+      });
+      print('Loaded VIP status: $_isVip');
+    } catch (e) {
+      print('Error loading VIP status: $e');
     }
   }
 
@@ -183,6 +201,149 @@ class _ProfileScreenState extends State<ProfileScreen> {
     });
   }
 
+  // Show VIP required dialog for avatar modification
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'VIP Required',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Avatar customization is only available for Valk Dance Premium members.\n\nSubscribe now to unlock unlimited profile customization!',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 16),
+              // Subscription plans
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppColors.primary.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: AppColors.primary.withOpacity(0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Weekly Plan:',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        Text(
+                          '\$12.99/week',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                            color: AppColors.primary,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Monthly Plan:',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        Text(
+                          '\$49.99/month',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                            color: AppColors.primary,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToSubscriptions();
+              },
+              child: Text(
+                'Subscribe Now',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Navigate to subscriptions page
+  void _navigateToSubscriptions() async {
+    await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    );
+    
+    // 返回时重新加载VIP状态
+    await _loadVipStatus();
+  }
+
+  // Handle avatar tap with VIP check
+  void _handleAvatarTap() async {
+    // 重新加载VIP状态以确保最新
+    await _loadVipStatus();
+    
+    if (_isVip) {
+      // VIP用户直接修改头像
+      _pickImage();
+    } else {
+      // 非VIP用户显示订阅提示
+      _showVipRequiredDialog();
+    }
+  }
+
   Widget _buildOptionItem({
     required String icon,
     required String title,
@@ -245,12 +406,71 @@ class _ProfileScreenState extends State<ProfileScreen> {
     );
   }
 
+  Widget _buildWalletOption() {
+    return GestureDetector(
+      onTap: () {
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const InAppPurchasesPage(),
+          ),
+        );
+      },
+      child: Container(
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: Colors.white,
+          borderRadius: BorderRadius.circular(12),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.05),
+              blurRadius: 10,
+              offset: const Offset(0, 5),
+            ),
+          ],
+        ),
+        child: Row(
+          children: [
+            // Wallet Icon
+            Container(
+              width: 24,
+              height: 24,
+              child: Icon(
+                Icons.account_balance_wallet,
+                size: 24,
+                color: Colors.blue[600],
+              ),
+            ),
+            const SizedBox(width: 16),
+            // Title
+            Expanded(
+              child: Text(
+                'Wallet',
+                style: const TextStyle(
+                  fontSize: 16,
+                  fontWeight: FontWeight.w500,
+                  color: Colors.black87,
+                ),
+              ),
+            ),
+            // Arrow icon
+            Icon(
+              Icons.arrow_forward_ios,
+              size: 16,
+              color: Colors.grey[400],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.background,
-      body: Column(
-        children: [
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
           // Background image with user info overlay
           Container(
             width: double.infinity,
@@ -277,7 +497,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     children: [
                       // Profile picture
                       GestureDetector(
-                        onTap: _pickImage,
+                        onTap: _handleAvatarTap,
                         child: Container(
                           width: 80,
                           height: 80,
@@ -443,6 +663,77 @@ class _ProfileScreenState extends State<ProfileScreen> {
             padding: const EdgeInsets.all(20),
             child: Column(
               children: [
+                // VIP Club banner
+                GestureDetector(
+                  onTap: () {
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionsPage(),
+                      ),
+                    );
+                  },
+                  child: Container(
+                    width: double.infinity,
+                    height: 75,
+                    margin: const EdgeInsets.only(bottom: 20),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(16),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.black.withOpacity(0.1),
+                          blurRadius: 10,
+                          offset: const Offset(0, 5),
+                        ),
+                      ],
+                    ),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(16),
+                      child: Image.asset(
+                        'assets/images/valk_vip.png',
+                        fit: BoxFit.cover,
+                        errorBuilder: (context, error, stackTrace) {
+                          return Container(
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                begin: Alignment.topLeft,
+                                end: Alignment.bottomRight,
+                                colors: [
+                                  AppColors.primary,
+                                  AppColors.primary.withOpacity(0.8),
+                                ],
+                              ),
+                              borderRadius: BorderRadius.circular(16),
+                            ),
+                            child: const Center(
+                              child: Column(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
+                                  Icon(
+                                    Icons.star,
+                                    color: Colors.white,
+                                    size: 40,
+                                  ),
+                                  SizedBox(height: 8),
+                                  Text(
+                                    'VIP Club',
+                                    style: TextStyle(
+                                      color: Colors.white,
+                                      fontSize: 20,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ),
+                ),
+                // Wallet option
+                _buildWalletOption(),
+                const SizedBox(height: 16),
                 // About Us option
                 _buildOptionItem(
                   icon: 'assets/images/valk_me_about_us.png',
@@ -484,13 +775,10 @@ class _ProfileScreenState extends State<ProfileScreen> {
               ],
             ),
           ),
-          // Rest of the content area
-          Expanded(
-            child: Container(
-              color: AppColors.background,
-            ),
-          ),
+          // Add bottom padding for better scrolling experience
+          const SizedBox(height: 20),
         ],
+        ),
       ),
     );
   }

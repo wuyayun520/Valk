@@ -6,6 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/app_colors.dart';
 import 'user_detail_screen.dart';
 import 'video_player_screen.dart';
+import 'subscriptions_screen.dart';
 
 class CommunityScreen extends StatefulWidget {
   const CommunityScreen({super.key});
@@ -21,6 +22,7 @@ class _CommunityScreenState extends State<CommunityScreen> {
   Set<String> _hiddenVideoIds = {}; // 存储隐藏的视频ID
   bool _isLoading = true;
   int _refreshCounter = 0; // 用于强制刷新
+  bool _isVip = false; // VIP状态
 
   @override
   void initState() {
@@ -28,6 +30,14 @@ class _CommunityScreenState extends State<CommunityScreen> {
     _loadUsers();
     _loadDanceVideos();
     _loadHiddenVideos();
+    _loadVipStatus();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 当页面重新获得焦点时，重新加载VIP状态
+    _loadVipStatus();
   }
 
   Future<void> _loadUsers() async {
@@ -85,6 +95,19 @@ class _CommunityScreenState extends State<CommunityScreen> {
     }
   }
 
+  // Load VIP status from local storage
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _isVip = prefs.getBool('isVip') ?? false;
+      });
+      print('Loaded VIP status: $_isVip');
+    } catch (e) {
+      print('Error loading VIP status: $e');
+    }
+  }
+
   // Clear all hidden videos (for testing or reset functionality)
   // Uncomment this method if you need to reset hidden videos
   /*
@@ -117,6 +140,163 @@ class _CommunityScreenState extends State<CommunityScreen> {
         _topUsers[i]['displayLikes'] = '${likeCount}.${random.nextInt(10)}k';
       }
     }
+  }
+
+  // Show VIP required dialog
+  void _showVipRequiredDialog(Map<String, dynamic> video) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'VIP Required',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'This tutorial video is only available for Valk Dance Premium members.\n\nSubscribe now to unlock unlimited access to all street dance tutorial videos!',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 16),
+              // Subscription plans
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppColors.primary.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: AppColors.primary.withOpacity(0.3),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Weekly Plan:',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        Text(
+                          '\$12.99/week',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                            color: AppColors.primary,
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Monthly Plan:',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                        Text(
+                          '\$49.99/month',
+                          style: TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.bold,
+                            color: AppColors.primary,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToSubscriptions();
+              },
+              child: Text(
+                'Subscribe Now',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Navigate to subscriptions page
+  void _navigateToSubscriptions() async {
+    await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    );
+    
+    // 返回时重新加载VIP状态
+    await _loadVipStatus();
+  }
+
+  // Handle video tap with VIP check
+  void _handleVideoTap(Map<String, dynamic> video) async {
+    // 重新加载VIP状态以确保最新
+    await _loadVipStatus();
+    
+    if (_isVip) {
+      // VIP用户直接播放视频
+      _playVideo(video);
+    } else {
+      // 非VIP用户显示订阅提示
+      _showVipRequiredDialog(video);
+    }
+  }
+
+  // Play video
+  void _playVideo(Map<String, dynamic> video) {
+    final videoPath = video['filename'] as String;
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => VideoPlayerScreen(
+          videoPath: videoPath,
+          videoTitle: video['title'],
+          videoDescription: video['description'],
+        ),
+      ),
+    );
   }
 
   // Show not interested confirmation dialog
@@ -403,15 +583,7 @@ class _CommunityScreenState extends State<CommunityScreen> {
     
     return GestureDetector(
       onTap: () {
-        Navigator.of(context).push(
-          MaterialPageRoute(
-            builder: (context) => VideoPlayerScreen(
-              videoPath: videoPath,
-              videoTitle: video['title'],
-              videoDescription: video['description'],
-            ),
-          ),
-        );
+        _handleVideoTap(video);
       },
       child: Container(
         margin: const EdgeInsets.only(bottom: 16),
