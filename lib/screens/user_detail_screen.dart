@@ -23,11 +23,13 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
   AudioPlayer? _audioPlayer;
   Duration _duration = Duration.zero;
   Duration _position = Duration.zero;
+  Set<String> _reportedUserIds = {}; // 存储已举报的用户ID
 
   @override
   void initState() {
     super.initState();
     _checkBlockStatus();
+    _loadReportedUsers();
     _checkFollowStatus();
     _selectRandomAudio();
     _initAudioPlayer();
@@ -49,6 +51,122 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
   StreamSubscription<Duration>? _durationSubscription;
   StreamSubscription<Duration>? _positionSubscription;
   StreamSubscription<void>? _completionSubscription;
+
+  // Load reported users from local storage
+  Future<void> _loadReportedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final reportedUsersJson = prefs.getStringList('reported_users') ?? [];
+      setState(() {
+        _reportedUserIds = reportedUsersJson.toSet();
+      });
+      print('Loaded reported users: $_reportedUserIds');
+    } catch (e) {
+      print('Error loading reported users: $e');
+    }
+  }
+
+  // Save reported users to local storage
+  Future<void> _saveReportedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList('reported_users', _reportedUserIds.toList());
+      print('Saved reported users: $_reportedUserIds');
+    } catch (e) {
+      print('Error saving reported users: $e');
+    }
+  }
+
+  // Show report confirmation dialog
+  void _showReportDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Report User',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: const Text(
+            'Are you sure you want to report this user?\nThey will be hidden from your view.',
+            style: TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _reportUser();
+              },
+              child: Text(
+                'Report',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Report user
+  void _reportUser() async {
+    final userId = (widget.user['id'] ?? widget.user['name']).toString();
+    
+    print('Reporting user with ID: $userId');
+    print('Current reported users: $_reportedUserIds');
+    
+    // Add to reported list
+    _reportedUserIds.add(userId);
+    
+    // Save to local storage
+    await _saveReportedUsers();
+    
+    // Force rebuild
+    setState(() {});
+    
+    print('After reporting, reported users: $_reportedUserIds');
+    
+    // Show notification message
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: const Text(
+          'User reported and hidden',
+          style: TextStyle(color: Colors.white),
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+    );
+    
+    // Navigate back to previous screen
+    Navigator.of(context).pop();
+  }
 
   void _initAudioPlayer() {
     _audioPlayer = AudioPlayer();
@@ -257,20 +375,42 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
               Positioned(
                 top: 40,
                 right: 20,
-                child: GestureDetector(
-                  onTap: () => Navigator.of(context).pop(),
-                  child: Container(
-                    padding: const EdgeInsets.all(8),
-                    decoration: BoxDecoration(
-                      color: Colors.black.withOpacity(0.6),
-                      borderRadius: BorderRadius.circular(20),
+                child: Row(
+                  children: [
+                    // Report button
+                    GestureDetector(
+                      onTap: () => _showReportDialog(),
+                      child: Container(
+                        margin: const EdgeInsets.only(right: 12),
+                        padding: const EdgeInsets.all(8),
+                        decoration: BoxDecoration(
+                          color: Colors.red.withOpacity(0.8),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: const Icon(
+                          Icons.report,
+                          color: Colors.white,
+                          size: 20,
+                        ),
+                      ),
                     ),
-                    child: const Icon(
-                      Icons.close,
-                      color: Colors.white,
-                      size: 24,
+                    // Close button
+                    GestureDetector(
+                      onTap: () => Navigator.of(context).pop(),
+                      child: Container(
+                        padding: const EdgeInsets.all(8),
+                        decoration: BoxDecoration(
+                          color: Colors.black.withOpacity(0.6),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: const Icon(
+                          Icons.close,
+                          color: Colors.white,
+                          size: 24,
+                        ),
+                      ),
                     ),
-                  ),
+                  ],
                 ),
               ),
             ],
@@ -316,118 +456,119 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
                       ),
                     ),
                   ),
-                  // User info overlay
-                  Positioned(
-                    bottom: 20,
-                    left: 20,
-                    right: 20,
-                    child: Row(
-                      children: [
-                        // Profile picture
-                        Container(
-                          width: 80,
-                          height: 80,
-                          decoration: BoxDecoration(
-                            borderRadius: BorderRadius.circular(40),
-                            border: Border.all(
-                              color: Colors.white,
-                              width: 3,
-                            ),
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.black.withOpacity(0.3),
-                                blurRadius: 10,
-                                offset: const Offset(0, 5),
+                  // User info overlay (only show if not blocked or reported)
+                  if (!_isBlocked && !_reportedUserIds.contains((widget.user['id'] ?? widget.user['name']).toString()))
+                    Positioned(
+                      bottom: 20,
+                      left: 20,
+                      right: 20,
+                      child: Row(
+                        children: [
+                          // Profile picture
+                          Container(
+                            width: 80,
+                            height: 80,
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(40),
+                              border: Border.all(
+                                color: Colors.white,
+                                width: 3,
                               ),
-                            ],
-                          ),
-                          child: ClipRRect(
-                            borderRadius: BorderRadius.circular(37),
-                            child: Image.asset(
-                              widget.user['images']['profile_pic'] ?? 'assets/user/default.jpg',
-                              fit: BoxFit.cover,
-                            ),
-                          ),
-                        ),
-                        const SizedBox(width: 20),
-                        // User name and basic info
-                        Expanded(
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                widget.user['name'],
-                                style: const TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 24,
-                                  fontWeight: FontWeight.bold,
+                              boxShadow: [
+                                BoxShadow(
+                                  color: Colors.black.withOpacity(0.3),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 5),
                                 ),
+                              ],
+                            ),
+                            child: ClipRRect(
+                              borderRadius: BorderRadius.circular(37),
+                              child: Image.asset(
+                                widget.user['images']['profile_pic'] ?? 'assets/user/default.jpg',
+                                fit: BoxFit.cover,
                               ),
-                              const SizedBox(height: 8),
-                              Text(
-                                '${widget.user['age']} • ${widget.user['gender'] == 'male' ? 'Male' : 'Female'}',
-                                style: const TextStyle(
-                                  color: Colors.white70,
-                                  fontSize: 16,
-                                ),
-                              ),
-                              const SizedBox(height: 4),
-                              // Location and Follow button in the same row
-                              Row(
-                                children: [
-                                  Text(
-                                    widget.user['location'],
-                                    style: const TextStyle(
-                                      color: Colors.white70,
-                                      fontSize: 14,
-                                    ),
+                            ),
+                          ),
+                          const SizedBox(width: 20),
+                          // User name and basic info
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  widget.user['name'],
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 24,
+                                    fontWeight: FontWeight.bold,
                                   ),
-                                  const SizedBox(width: 40),
-                                  // Follow button
-                                  GestureDetector(
-                                    onTap: _toggleFollowUser,
-                                    child: Container(
-                                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                                      decoration: BoxDecoration(
-                                        color: _isFollowing ? Colors.orange : AppColors.primary,
-                                        borderRadius: BorderRadius.circular(16),
-                                        boxShadow: [
-                                          BoxShadow(
-                                            color: Colors.black.withOpacity(0.3),
-                                            blurRadius: 6,
-                                            offset: const Offset(0, 3),
-                                          ),
-                                        ],
+                                ),
+                                const SizedBox(height: 8),
+                                Text(
+                                  '${widget.user['age']} • ${widget.user['gender'] == 'male' ? 'Male' : 'Female'}',
+                                  style: const TextStyle(
+                                    color: Colors.white70,
+                                    fontSize: 16,
+                                  ),
+                                ),
+                                const SizedBox(height: 4),
+                                // Location and Follow button in the same row
+                                Row(
+                                  children: [
+                                    Text(
+                                      widget.user['location'],
+                                      style: const TextStyle(
+                                        color: Colors.white70,
+                                        fontSize: 14,
                                       ),
-                                      child: Row(
-                                        mainAxisSize: MainAxisSize.min,
-                                        children: [
-                                          Icon(
-                                            _isFollowing ? Icons.person_remove : Icons.person_add,
-                                            color: Colors.white,
-                                            size: 14,
-                                          ),
-                                          const SizedBox(width: 4),
-                                          Text(
-                                            _isFollowing ? 'Following' : 'Follow',
-                                            style: const TextStyle(
-                                              color: Colors.white,
-                                              fontSize: 12,
-                                              fontWeight: FontWeight.w600,
+                                    ),
+                                    const SizedBox(width: 40),
+                                    // Follow button
+                                    GestureDetector(
+                                      onTap: _toggleFollowUser,
+                                      child: Container(
+                                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                                        decoration: BoxDecoration(
+                                          color: _isFollowing ? Colors.orange : AppColors.primary,
+                                          borderRadius: BorderRadius.circular(16),
+                                          boxShadow: [
+                                            BoxShadow(
+                                              color: Colors.black.withOpacity(0.3),
+                                              blurRadius: 6,
+                                              offset: const Offset(0, 3),
                                             ),
-                                          ),
-                                        ],
+                                          ],
+                                        ),
+                                        child: Row(
+                                          mainAxisSize: MainAxisSize.min,
+                                          children: [
+                                            Icon(
+                                              _isFollowing ? Icons.person_remove : Icons.person_add,
+                                              color: Colors.white,
+                                              size: 14,
+                                            ),
+                                            const SizedBox(width: 4),
+                                            Text(
+                                              _isFollowing ? 'Following' : 'Follow',
+                                              style: const TextStyle(
+                                                color: Colors.white,
+                                                fontSize: 12,
+                                                fontWeight: FontWeight.w600,
+                                              ),
+                                            ),
+                                          ],
+                                        ),
                                       ),
                                     ),
-                                  ),
-                                ],
-                              ),
-                            ],
+                                  ],
+                                ),
+                              ],
+                            ),
                           ),
-                        ),
-                      ],
+                        ],
+                      ),
                     ),
-                  ),
                 ],
               ),
             ),
@@ -466,7 +607,7 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
             ],
           ),
           // User content
-          if (!_isBlocked) ...[
+          if (!_isBlocked && !_reportedUserIds.contains((widget.user['id'] ?? widget.user['name']).toString())) ...[
             SliverToBoxAdapter(
               child: Padding(
                 padding: const EdgeInsets.all(20),
@@ -1058,20 +1199,20 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
               ),
             ),
           ] else ...[
-            // Blocked user message
+            // Blocked or reported user message
             SliverFillRemaining(
               child: Center(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Icon(
-                      Icons.block,
+                      _isBlocked ? Icons.block : Icons.report,
                       size: 80,
                       color: Colors.grey[400],
                     ),
                     const SizedBox(height: 24),
                     Text(
-                      'User Blocked',
+                      _isBlocked ? 'User Blocked' : 'User Reported',
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
@@ -1080,7 +1221,9 @@ class _UserDetailScreenState extends State<UserDetailScreen> {
                     ),
                     const SizedBox(height: 16),
                     Text(
-                      'This user has been blocked.\nTap the person icon to unblock.',
+                      _isBlocked 
+                        ? 'This user has been blocked.\nTap the person icon to unblock.'
+                        : 'This user has been reported and hidden.\nThey will no longer appear in your feed.',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         fontSize: 16,

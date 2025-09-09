@@ -166,6 +166,96 @@ class _AboutUsScreenState extends State<AboutUsScreen> {
               
               const SizedBox(height: 24),
               
+              // Contact Information Card
+              Container(
+                padding: const EdgeInsets.all(20),
+                decoration: BoxDecoration(
+                  color: Colors.white,
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.05),
+                      blurRadius: 10,
+                      offset: const Offset(0, 5),
+                    ),
+                  ],
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      'Contact & Support',
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                        color: AppColors.primary,
+                      ),
+                    ),
+                    const SizedBox(height: 16),
+                    Text(
+                      'If you encounter any inappropriate content or behavior, please contact us immediately:',
+                      style: TextStyle(
+                        fontSize: 16,
+                        color: Colors.grey[700],
+                        height: 1.5,
+                      ),
+                    ),
+                    const SizedBox(height: 16),
+                    _buildContactItem(
+                      'Email',
+                      'support@valk.app',
+                      Icons.email,
+                    ),
+                    const SizedBox(height: 12),
+                    _buildContactItem(
+                      'Report Inappropriate Content',
+                      'report@valk.app',
+                      Icons.report,
+                    ),
+                    const SizedBox(height: 12),
+                    _buildContactItem(
+                      'General Inquiries',
+                      'info@valk.app',
+                      Icons.info,
+                    ),
+                    const SizedBox(height: 16),
+                    Container(
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.orange[50],
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(
+                          color: Colors.orange[200]!,
+                          width: 1,
+                        ),
+                      ),
+                      child: Row(
+                        children: [
+                          Icon(
+                            Icons.warning_amber,
+                            color: Colors.orange[600],
+                            size: 20,
+                          ),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              'We take user safety seriously. All reports are reviewed within 24 hours.',
+                              style: TextStyle(
+                                fontSize: 14,
+                                color: Colors.orange[800],
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              
+              const SizedBox(height: 24),
+              
               // App Description
               Container(
                 padding: const EdgeInsets.all(20),
@@ -232,6 +322,54 @@ class _AboutUsScreenState extends State<AboutUsScreen> {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildContactItem(String title, String value, IconData icon) {
+    return Container(
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: Colors.grey[50],
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(
+          color: Colors.grey[200]!,
+          width: 1,
+        ),
+      ),
+      child: Row(
+        children: [
+          Icon(
+            icon,
+            color: AppColors.primary,
+            size: 20,
+          ),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  title,
+                  style: TextStyle(
+                    fontSize: 14,
+                    color: Colors.grey[600],
+                    fontWeight: FontWeight.w500,
+                  ),
+                ),
+                const SizedBox(height: 2),
+                Text(
+                  value,
+                  style: const TextStyle(
+                    fontSize: 16,
+                    color: Colors.black87,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }

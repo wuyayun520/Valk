@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../constants/app_colors.dart';
 import 'user_detail_screen.dart';
 import 'dance_types_screen.dart';
@@ -14,7 +15,10 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   int _selectedIndex = 0;
   List<Map<String, dynamic>> _users = [];
+  List<Map<String, dynamic>> _filteredUsers = [];
   bool _isLoading = true;
+  Set<String> _reportedUserIds = {}; // 存储已举报的用户ID
+  int _refreshCounter = 0; // 用于强制刷新
 
   final List<Map<String, String>> _danceStyles = [
     {
@@ -38,6 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
     _loadUsers();
+    _loadReportedUsers();
   }
 
   void _loadUsers() async {
@@ -46,6 +51,7 @@ class _HomeScreenState extends State<HomeScreen> {
       final data = json.decode(response);
       setState(() {
         _users = List<Map<String, dynamic>>.from(data['users']);
+        _filterUsers();
         _isLoading = false;
       });
     } catch (e) {
@@ -56,17 +62,150 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
-  List<Map<String, dynamic>> get _filteredUsers {
+  // Load reported users from local storage
+  Future<void> _loadReportedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final reportedUsersJson = prefs.getStringList('reported_users') ?? [];
+      setState(() {
+        _reportedUserIds = reportedUsersJson.toSet();
+      });
+      print('Loaded reported users: $_reportedUserIds');
+    } catch (e) {
+      print('Error loading reported users: $e');
+    }
+  }
+
+  // Save reported users to local storage
+  Future<void> _saveReportedUsers() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList('reported_users', _reportedUserIds.toList());
+      print('Saved reported users: $_reportedUserIds');
+    } catch (e) {
+      print('Error saving reported users: $e');
+    }
+  }
+
+  // Filter users to exclude reported ones
+  void _filterUsers() {
+    _filteredUsers = _users.where((user) {
+      final userId = (user['id'] ?? user['name']).toString();
+      return !_reportedUserIds.contains(userId);
+    }).toList();
+  }
+
+  List<Map<String, dynamic>> get _displayedUsers {
+    final filtered = _filteredUsers.where((user) {
+      final userId = (user['id'] ?? user['name']).toString();
+      return !_reportedUserIds.contains(userId);
+    }).toList();
+    
     if (_selectedIndex == 0) {
       // Breaking - show first 5 users
-      return _users.take(5).toList();
+      return filtered.take(5).toList();
     } else if (_selectedIndex == 1) {
       // Popping - show users 6-10
-      return _users.skip(5).take(5).toList();
+      return filtered.skip(5).take(5).toList();
     } else {
       // Locking - show users 11-15
-      return _users.skip(10).take(5).toList();
+      return filtered.skip(10).take(5).toList();
     }
+  }
+
+  // Show report confirmation dialog
+  void _showReportDialog(Map<String, dynamic> user) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: const Text(
+            'Report User',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: const Text(
+            'Are you sure you want to report this user?\nThey will be hidden from your view.',
+            style: TextStyle(fontSize: 16),
+          ),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(12),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.grey,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _reportUser(user);
+              },
+              child: Text(
+                'Report',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: AppColors.primary,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // Report user
+  void _reportUser(Map<String, dynamic> user) async {
+    final userId = (user['id'] ?? user['name']).toString();
+    
+    print('Reporting user with ID: $userId');
+    print('Current reported users: $_reportedUserIds');
+    
+    // Add to reported list
+    _reportedUserIds.add(userId);
+    
+    // Save to local storage
+    await _saveReportedUsers();
+    
+    // Filter users
+    _filterUsers();
+    
+    // Force rebuild
+    setState(() {
+      _refreshCounter++;
+    });
+    
+    print('After reporting, reported users: $_reportedUserIds');
+    print('Total users: ${_users.length}');
+    print('Visible users: ${_filteredUsers.length}');
+    
+    // Show notification message
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: const Text(
+          'User reported and hidden',
+          style: TextStyle(color: Colors.white),
+        ),
+        backgroundColor: AppColors.primary,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+      ),
+    );
   }
 
   @override
@@ -150,16 +289,18 @@ class _HomeScreenState extends State<HomeScreen> {
             Expanded(
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16),
-                child: GridView.builder(
-                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 2,
-                    crossAxisSpacing: 12,
-                    mainAxisSpacing: 12,
-                    childAspectRatio: 0.75,
-                  ),
-                  itemCount: _filteredUsers.length,
+                child: KeyedSubtree(
+                  key: ValueKey('user_grid_$_refreshCounter'),
+                  child: GridView.builder(
+                    gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: 2,
+                      crossAxisSpacing: 12,
+                      mainAxisSpacing: 12,
+                      childAspectRatio: 0.75,
+                    ),
+                    itemCount: _displayedUsers.length,
                   itemBuilder: (context, index) {
-                    final user = _filteredUsers[index];
+                    final user = _displayedUsers[index];
                     final dancePhotos = List<String>.from(user['images']['dance_photos'] ?? []);
                     final mainImage = dancePhotos.isNotEmpty ? dancePhotos[0] : 'assets/user/default.jpg';
                     
@@ -191,6 +332,29 @@ class _HomeScreenState extends State<HomeScreen> {
                                 child: Image.asset(
                                   mainImage,
                                   fit: BoxFit.cover,
+                                ),
+                              ),
+
+                              // Report button
+                              Positioned(
+                                top: 8,
+                                right: 8,
+                                child: GestureDetector(
+                                  onTap: () {
+                                    _showReportDialog(user);
+                                  },
+                                  child: Container(
+                                    padding: const EdgeInsets.all(6),
+                                    decoration: BoxDecoration(
+                                      color: Colors.red.withOpacity(0.8),
+                                      borderRadius: BorderRadius.circular(15),
+                                    ),
+                                    child: const Icon(
+                                      Icons.report,
+                                      color: Colors.white,
+                                      size: 16,
+                                    ),
+                                  ),
                                 ),
                               ),
 
@@ -229,6 +393,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                     );
                   },
+                  ),
                 ),
               ),
             ),
