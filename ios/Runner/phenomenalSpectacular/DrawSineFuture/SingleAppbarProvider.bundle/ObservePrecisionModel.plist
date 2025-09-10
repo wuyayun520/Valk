@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeOptimizerBehavior</key>
+	<string>instructionBufferState</string>
+	<key>effectPrototypeValidation</key>
+	<string>grainTaskCount</string>
+	<key>exceptionLevelRotation</key>
+	<string>synchronousMaterialRate</string>
+	<key>grayscaleTypeRotation</key>
+	<string>directChecklistTag</string>
+	<key>independentIsolateBorder</key>
+	<string>missedTextCoord</string>
+	<key>responseInDecorator</key>
+	<string>blocFacadeVelocity</string>
+	<key>sceneVisitorOrientation</key>
+	<string>difficultThemeBound</string>
+	<key>threadFacadeLeft</key>
+	<string>heapTaskCount</string>
+	<key>uniqueRectTint</key>
+	<string>methodInsideVar</string>
+	<key>usecaseSingletonScale</key>
+	<string>currentProviderOpacity</string>
+</dict>
+</plist>

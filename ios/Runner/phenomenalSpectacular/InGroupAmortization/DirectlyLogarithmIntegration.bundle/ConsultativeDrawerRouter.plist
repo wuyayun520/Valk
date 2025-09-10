@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorThroughSingleton</key>
+	<string>denseMediaqueryFlags</string>
+	<key>beginnerCycleDuration</key>
+	<string>clipperIncludeSingleton</string>
+	<key>borderByFacade</key>
+	<string>advancedLayoutColor</string>
+	<key>flexibleSpineFeedback</key>
+	<string>hyperbolicOptimizerBehavior</string>
+	<key>iterativeChartValidation</key>
+	<string>ephemeralTabviewTheme</string>
+	<key>uniformReducerState</key>
+	<string>cosineBesideFlyweight</string>
+</dict>
+</plist>

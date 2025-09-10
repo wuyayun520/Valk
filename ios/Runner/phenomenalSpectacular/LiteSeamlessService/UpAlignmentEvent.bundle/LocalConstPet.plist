@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVariableSpeed</key>
+	<string>sceneDespiteVar</string>
+	<key>kernelLayerCenter</key>
+	<string>cardValueTag</string>
+	<key>layoutExceptVariable</key>
+	<string>positionEnvironmentSize</string>
+	<key>tappableKernelMargin</key>
+	<string>dedicatedBufferMargin</string>
+	<key>topicOperationSkewy</key>
+	<string>timerThanShape</string>
+</dict>
+</plist>

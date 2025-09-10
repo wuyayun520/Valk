@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStrategyVisibility</key>
+	<string>compositionalRequestSize</string>
+	<key>consumerVisitorValidation</key>
+	<string>builderWithoutState</string>
+	<key>cubeInsideScope</key>
+	<string>pointIncludeVisitor</string>
+	<key>diffableRowSkewx</key>
+	<string>textureWithShape</string>
+	<key>labelOrWork</key>
+	<string>segmentObserverSize</string>
+	<key>optimizerExceptActivity</key>
+	<string>materialActivityName</string>
+	<key>referenceAboutAdapter</key>
+	<string>decorationOperationEdge</string>
+	<key>spineStrategyTension</key>
+	<string>labelCommandState</string>
+</dict>
+</plist>

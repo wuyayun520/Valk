@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAsParameter</key>
+	<string>specifyBitrateIndex</string>
+	<key>extensionContainSingleton</key>
+	<string>largeDialogsForce</string>
+	<key>factoryAmongSystem</key>
+	<string>cursorExceptBridge</string>
+	<key>hierarchicalRowTail</key>
+	<string>responsiveLabelIndex</string>
+	<key>iterativePreviewFeedback</key>
+	<string>lastBoxshadowFeedback</string>
+	<key>lostObserverDuration</key>
+	<string>priorTextureTint</string>
+	<key>priorityParamPadding</key>
+	<string>callbackDuringState</string>
+	<key>retainedVectorType</key>
+	<string>blocTypeOpacity</string>
+</dict>
+</plist>

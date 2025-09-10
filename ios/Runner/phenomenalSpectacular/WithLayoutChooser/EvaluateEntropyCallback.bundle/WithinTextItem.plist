@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionCoord</key>
+	<string>listenerFormTheme</string>
+	<key>cupertinoMethodTransparency</key>
+	<string>protectedTextTransparency</string>
+	<key>curveSingletonName</key>
+	<string>pinchableReferenceFeedback</string>
+	<key>delegateAmongBuffer</key>
+	<string>sustainableBuilderVisibility</string>
+	<key>optionFrameworkPosition</key>
+	<string>curveFunctionOpacity</string>
+	<key>scrollablePrecisionStyle</key>
+	<string>completionAsFacade</string>
+	<key>sensorPatternFlags</key>
+	<string>expandedBridgeDirection</string>
+	<key>slashAdapterTransparency</key>
+	<string>promiseCompositeSaturation</string>
+</dict>
+</plist>

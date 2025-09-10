@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCycleForce</key>
+	<string>completerInterpreterAcceleration</string>
+	<key>captionDecoratorKind</key>
+	<string>independentIntensitySkewx</string>
+	<key>eventVersusStructure</key>
+	<string>sequentialPlateDuration</string>
+	<key>publicCubitStyle</key>
+	<string>navigatorPrototypePressure</string>
+	<key>requestForCommand</key>
+	<string>loopOrBuffer</string>
+	<key>synchronousDecorationShape</key>
+	<string>usecaseAsType</string>
+</dict>
+</plist>

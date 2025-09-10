@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchThanAction</key>
+	<string>accordionCommandSkewy</string>
+	<key>getxByKind</key>
+	<string>completerDuringForm</string>
+	<key>parallelExtensionRotation</key>
+	<string>imageScopeOpacity</string>
+	<key>parallelModelMargin</key>
+	<string>resilientRadioDirection</string>
+</dict>
+</plist>

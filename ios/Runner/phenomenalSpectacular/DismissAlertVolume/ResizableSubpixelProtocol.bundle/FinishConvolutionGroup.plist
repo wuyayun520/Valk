@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapFacadeShape</key>
+	<string>hashParamHead</string>
+	<key>sortedInteractorName</key>
+	<string>alertFacadeBottom</string>
+	<key>statelessCoordinatorValidation</key>
+	<string>sustainableConsumerTop</string>
+	<key>symbolOutsideMethod</key>
+	<string>configurationInFlyweight</string>
+	<key>uniformSpriteBottom</key>
+	<string>activeCollectionBottom</string>
+</dict>
+</plist>

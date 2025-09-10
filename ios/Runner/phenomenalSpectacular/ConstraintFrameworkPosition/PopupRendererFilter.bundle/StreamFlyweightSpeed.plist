@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventScopeVisible</key>
+	<string>immutableCosineType</string>
+	<key>iterativeObserverAlignment</key>
+	<string>permanentAnchorOrigin</string>
+	<key>layoutMediatorResponse</key>
+	<string>directDependencyBrightness</string>
+	<key>mobileResolverBrightness</key>
+	<string>progressbarVersusPattern</string>
+	<key>queryTierDensity</key>
+	<string>delegateViaSingleton</string>
+	<key>resultAndAction</key>
+	<string>documentForTask</string>
+	<key>smallUsecaseBound</key>
+	<string>substantialMetadataIndex</string>
+	<key>standaloneIndicatorShape</key>
+	<string>granularAsyncBrightness</string>
+	<key>unaryValueKind</key>
+	<string>configurationPrototypeShade</string>
+</dict>
+</plist>

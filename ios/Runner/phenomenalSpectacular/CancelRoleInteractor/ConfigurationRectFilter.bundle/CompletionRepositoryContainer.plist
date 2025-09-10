@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleOffsetIndex</key>
+	<string>signStateRate</string>
+	<key>logarithmParamSpacing</key>
+	<string>constraintAlongParam</string>
+	<key>lostBehaviorTheme</key>
+	<string>backwardParticleOrientation</string>
+	<key>providerExceptTask</key>
+	<string>sliderContainSingleton</string>
+	<key>switchAndAction</key>
+	<string>errorBeyondStage</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSpineVelocity</key>
+	<string>alignmentSingletonResponse</string>
+	<key>intensityLevelRight</key>
+	<string>normalReducerStatus</string>
+	<key>liteGrainInset</key>
+	<string>staticResolverDensity</string>
+	<key>localPlaybackPressure</key>
+	<string>cupertinoDecoratorType</string>
+</dict>
+</plist>

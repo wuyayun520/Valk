@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInContext</key>
+	<string>accordionLocalizationSkewy</string>
+	<key>factoryInsideContext</key>
+	<string>gradientOperationRight</string>
+	<key>localCubeBehavior</key>
+	<string>intuitiveControllerInteraction</string>
+	<key>logarithmFromObserver</key>
+	<string>primaryMenuOffset</string>
+	<key>rectLikeFramework</key>
+	<string>isolateLikeVar</string>
+	<key>resourceOutsideTier</key>
+	<string>modalWorkInteraction</string>
+	<key>stepDuringTask</key>
+	<string>menuAndComposite</string>
+	<key>tweenAwayMethod</key>
+	<string>constraintStateFormat</string>
+</dict>
+</plist>

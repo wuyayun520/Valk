@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSystemDuration</key>
+	<string>inheritedNormOpacity</string>
+	<key>normalObserverAlignment</key>
+	<string>denseTextTransparency</string>
+	<key>rowWithoutSingleton</key>
+	<string>commandByFacade</string>
+	<key>scrollAsVisitor</key>
+	<string>coordinatorAtTask</string>
+	<key>typicalLayoutValidation</key>
+	<string>mediaAwayAction</string>
+	<key>vectorStageType</key>
+	<string>stateAgainstActivity</string>
+</dict>
+</plist>

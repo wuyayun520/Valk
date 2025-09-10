@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCertificateInteraction</key>
+	<string>sharedLocalizationMargin</string>
+	<key>contractionAboutLayer</key>
+	<string>scrollableSpineCenter</string>
+	<key>delegateAsPrototype</key>
+	<string>dropdownbuttonDecoratorSpeed</string>
+	<key>overlayLevelFormat</key>
+	<string>sortedListenerPadding</string>
+	<key>storyboardProcessRotation</key>
+	<string>normalCellColor</string>
+	<key>uniformChannelCount</key>
+	<string>tabviewStructureStatus</string>
+</dict>
+</plist>

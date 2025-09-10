@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintActionVelocity</key>
+	<string>localizationInsideForm</string>
+	<key>cycleFacadeContrast</key>
+	<string>callbackOutsideFlyweight</string>
+	<key>mutableLayerAcceleration</key>
+	<string>fusedNotificationValidation</string>
+	<key>taskOperationRight</key>
+	<string>presenterFormBottom</string>
+</dict>
+</plist>

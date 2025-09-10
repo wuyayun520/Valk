@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperVisitorFrequency</key>
+	<string>commandBeyondParameter</string>
+	<key>descriptionStateSpeed</key>
+	<string>specifyMasterOpacity</string>
+	<key>gateVisitorDepth</key>
+	<string>progressbarMethodPosition</string>
+	<key>multiAwaitPosition</key>
+	<string>optimizerOfAdapter</string>
+	<key>permissiveOperationSpacing</key>
+	<string>alignmentInsideEnvironment</string>
+	<key>tabbarOfLevel</key>
+	<string>vectorForPrototype</string>
+	<key>unactivatedBatchSize</key>
+	<string>localizationWorkMomentum</string>
+</dict>
+</plist>

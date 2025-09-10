@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineProxyRotation</key>
+	<string>mobileNotificationTheme</string>
+	<key>layerStrategyRight</key>
+	<string>gridviewAroundSystem</string>
+	<key>mobileNearStyle</key>
+	<string>canvasPerObserver</string>
+	<key>resizableDependencyAcceleration</key>
+	<string>compositionFacadeValidation</string>
+	<key>subsequentCompletionEdge</key>
+	<string>radiusObserverIndex</string>
+</dict>
+</plist>

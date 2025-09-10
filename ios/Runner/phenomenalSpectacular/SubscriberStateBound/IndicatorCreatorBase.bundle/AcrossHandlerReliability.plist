@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedClipperOffset</key>
+	<string>concreteIconDistance</string>
+	<key>projectContainProcess</key>
+	<string>graphActionInterval</string>
+	<key>rowPlatformType</key>
+	<string>allocatorCycleTransparency</string>
+	<key>swiftNumberSaturation</key>
+	<string>awaitOutsidePhase</string>
+	<key>tensorPlateSaturation</key>
+	<string>originalAppbarDepth</string>
+	<key>threadFromDecorator</key>
+	<string>providerAsObserver</string>
+</dict>
+</plist>

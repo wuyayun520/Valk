@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGridAcceleration</key>
+	<string>monsterExceptStrategy</string>
+	<key>compositionAwaySingleton</key>
+	<string>flexibleControllerPadding</string>
+	<key>diversifiedControllerFormat</key>
+	<string>cubitViaContext</string>
+	<key>factoryMementoBehavior</key>
+	<string>delicateOptimizerSpeed</string>
+	<key>resizableInjectionInteraction</key>
+	<string>allocatorInsideJob</string>
+	<key>statefulReferenceContrast</key>
+	<string>numericalSliderRight</string>
+	<key>subtleDecorationDuration</key>
+	<string>significantManagerRotation</string>
+</dict>
+</plist>

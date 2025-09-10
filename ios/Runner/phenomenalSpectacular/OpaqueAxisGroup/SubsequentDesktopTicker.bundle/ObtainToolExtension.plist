@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerWithoutPattern</key>
+	<string>contractionStyleTint</string>
+	<key>masterDespiteObserver</key>
+	<string>checkboxVersusPhase</string>
+	<key>popupAtSystem</key>
+	<string>firstPromiseDistance</string>
+	<key>statePerPlatform</key>
+	<string>mobileDuringOperation</string>
+	<key>storageExceptActivity</key>
+	<string>transitionParamInteraction</string>
+	<key>textureSystemHead</key>
+	<string>transformerStageForce</string>
+</dict>
+</plist>

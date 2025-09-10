@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionObserverAlignment</key>
+	<string>spriteSinceStructure</string>
+	<key>fixedProfileVisibility</key>
+	<string>indicatorContainBuffer</string>
+	<key>layerForMediator</key>
+	<string>arithmeticWithVar</string>
+	<key>layoutSystemRotation</key>
+	<string>delegateNearVariable</string>
+	<key>serviceActionResponse</key>
+	<string>streamBesideAdapter</string>
+	<key>toolKindTag</key>
+	<string>futureOutsideDecorator</string>
+	<key>transitionInState</key>
+	<string>tickerAsComposite</string>
+</dict>
+</plist>

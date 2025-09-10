@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResultValidation</key>
+	<string>grayscaleWithoutChain</string>
+	<key>backwardBuilderLeft</key>
+	<string>stateBesideMethod</string>
+	<key>customizedLocalizationTag</key>
+	<string>capacitiesCycleFormat</string>
+	<key>effectShapeDistance</key>
+	<string>draggableCursorDirection</string>
+	<key>serviceLikeMode</key>
+	<string>cubeAlongOperation</string>
+	<key>symmetricReductionContrast</key>
+	<string>workflowAlongTemple</string>
+	<key>tappableAwaitDirection</key>
+	<string>spriteDespitePhase</string>
+</dict>
+</plist>

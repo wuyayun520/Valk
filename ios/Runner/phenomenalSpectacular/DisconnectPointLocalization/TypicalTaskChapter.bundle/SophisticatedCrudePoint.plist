@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOfParam</key>
+	<string>activeMemberRate</string>
+	<key>consultativeAlphaFrequency</key>
+	<string>fixedCaptionDelay</string>
+	<key>disparateBlocRight</key>
+	<string>resultPrototypeStyle</string>
+	<key>gridVarContrast</key>
+	<string>symmetricTopicOpacity</string>
+	<key>interactorFromAction</key>
+	<string>transformerVersusMemento</string>
+	<key>layoutPerTask</key>
+	<string>repositorySingletonTension</string>
+	<key>nextScrollStyle</key>
+	<string>eventUntilProcess</string>
+	<key>responsiveAnimationSpeed</key>
+	<string>topicLayerTheme</string>
+	<key>spriteOutsidePrototype</key>
+	<string>mainNotificationTheme</string>
+	<key>workflowStructureAppearance</key>
+	<string>timerSinceFunction</string>
+</dict>
+</plist>

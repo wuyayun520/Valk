@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNibName</key>
+	<string>chapterOrProxy</string>
+	<key>fixedButtonMargin</key>
+	<string>usedBatchIndex</string>
+	<key>methodUntilCycle</key>
+	<string>draggablePlateFormat</string>
+	<key>modalAgainstMediator</key>
+	<string>actionActivityBorder</string>
+	<key>numericalQueueOpacity</key>
+	<string>durationWithStructure</string>
+	<key>segmentActivityEdge</key>
+	<string>lossWithoutType</string>
+	<key>spotFunctionSpacing</key>
+	<string>flexibleDialogsTail</string>
+	<key>titleLayerRotation</key>
+	<string>primaryContainerDensity</string>
+</dict>
+</plist>

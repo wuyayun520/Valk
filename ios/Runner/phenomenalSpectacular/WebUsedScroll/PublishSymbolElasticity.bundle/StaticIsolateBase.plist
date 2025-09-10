@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyPlateBottom</key>
+	<string>gradientExceptKind</string>
+	<key>drawerExceptBridge</key>
+	<string>cupertinoBridgeIndex</string>
+	<key>localizationAdapterSkewy</key>
+	<string>hardConstraintMode</string>
+	<key>materialDrawerInteraction</key>
+	<string>ternaryOfVisitor</string>
+	<key>scrollableResultMomentum</key>
+	<string>coordinatorTierLeft</string>
+	<key>substantialHashVisible</key>
+	<string>asynchronousAppbarName</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSpotKind</key>
+	<string>requestUntilSystem</string>
+	<key>lazyTransformerOpacity</key>
+	<string>sizeLayerTension</string>
+	<key>mainContainerIndex</key>
+	<string>iconContainJob</string>
+	<key>oldNotificationBorder</key>
+	<string>scrollWithoutEnvironment</string>
+	<key>previewDecoratorPadding</key>
+	<string>declarativeSubpixelFeedback</string>
+	<key>variantAndMethod</key>
+	<string>baseFormSize</string>
+	<key>webCertificateResponse</key>
+	<string>iconViaScope</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityAgainstJob</key>
+	<string>smartRadiusForce</string>
+	<key>plateSystemSkewy</key>
+	<string>commonBaselineDistance</string>
+	<key>sceneDuringBuffer</key>
+	<string>synchronousSkirtDuration</string>
+	<key>stateNearDecorator</key>
+	<string>sizeStyleCoord</string>
+	<key>unsortedUtilPosition</key>
+	<string>taskTierShape</string>
+</dict>
+</plist>

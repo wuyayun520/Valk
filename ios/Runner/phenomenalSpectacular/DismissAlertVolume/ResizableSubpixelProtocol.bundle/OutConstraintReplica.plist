@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableLocalizationResponse</key>
+	<string>primarySessionDensity</string>
+	<key>dedicatedMediaqueryBottom</key>
+	<string>mediaqueryLayerState</string>
+	<key>immediateLayoutDensity</key>
+	<string>gateCycleForce</string>
+	<key>isolateAdapterSize</key>
+	<string>temporaryDelegateTag</string>
+	<key>layoutStageMargin</key>
+	<string>tabviewVersusPattern</string>
+	<key>segueLikeNumber</key>
+	<string>unaryContextFlags</string>
+	<key>sequentialHandlerFlags</key>
+	<string>compositionalRichtextFrequency</string>
+	<key>titleStrategyBrightness</key>
+	<string>layoutFlyweightFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDuringScope</key>
+	<string>draggableInteractorMargin</string>
+	<key>effectDecoratorSkewx</key>
+	<string>metadataInterpreterInset</string>
+	<key>granularRadiusLeft</key>
+	<string>opaqueStreamIndex</string>
+	<key>hashValueAcceleration</key>
+	<string>autoSingletonBound</string>
+	<key>materialLocalizationDepth</key>
+	<string>synchronousRadiusDistance</string>
+	<key>offsetProxyPosition</key>
+	<string>instructionMediatorBound</string>
+	<key>segueCompositeVisibility</key>
+	<string>exceptionAboutMediator</string>
+	<key>streamAtPlatform</key>
+	<string>resultUntilType</string>
+</dict>
+</plist>

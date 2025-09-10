@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLocalizationCount</key>
+	<string>scrollableResponseVisibility</string>
+	<key>dependencyAlongWork</key>
+	<string>imageContextInteraction</string>
+	<key>grainLevelOrientation</key>
+	<string>sliderBridgeDensity</string>
+	<key>layerInChain</key>
+	<string>configurationInsideFacade</string>
+	<key>listenerStructureContrast</key>
+	<string>containerAmongContext</string>
+	<key>rectStyleState</key>
+	<string>stampAroundStructure</string>
+	<key>responsiveTabbarResponse</key>
+	<string>streamParamRotation</string>
+	<key>signMementoDuration</key>
+	<string>promiseTaskKind</string>
+	<key>stateLikeSingleton</key>
+	<string>methodOutsideBuffer</string>
+</dict>
+</plist>

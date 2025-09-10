@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonPlatformTheme</key>
+	<string>unaryBeyondLevel</string>
+	<key>gateVarFrequency</key>
+	<string>synchronousSinkKind</string>
+	<key>matrixFromMediator</key>
+	<string>directlyPriorityRotation</string>
+	<key>storyboardAsPrototype</key>
+	<string>inactiveUnaryInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionContextAppearance</key>
+	<string>permissiveGestureBehavior</string>
+	<key>commonFutureAcceleration</key>
+	<string>modulusAmongParam</string>
+	<key>coordinatorFromValue</key>
+	<string>spotBeyondJob</string>
+	<key>gridviewFacadeCount</key>
+	<string>eventAmongMediator</string>
+	<key>observerLevelKind</key>
+	<string>listviewActionFeedback</string>
+	<key>pageviewOrStructure</key>
+	<string>tweenAmongProxy</string>
+	<key>petOfState</key>
+	<string>lazyMenuSkewx</string>
+	<key>primarySpineBehavior</key>
+	<string>gradientInsidePrototype</string>
+	<key>publicApertureEdge</key>
+	<string>sortedGrainBound</string>
+	<key>specifierStyleVisibility</key>
+	<string>firstResolverSize</string>
+</dict>
+</plist>

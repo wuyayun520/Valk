@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintJobInset</key>
+	<string>semanticsOutsideShape</string>
+	<key>interactiveMovementBottom</key>
+	<string>delicateCompletionStyle</string>
+	<key>precisionCycleShade</key>
+	<string>tickerProxyFeedback</string>
+	<key>ternaryObserverDistance</key>
+	<string>labelWithoutCycle</string>
+	<key>textDespiteKind</key>
+	<string>cacheCommandOrientation</string>
+</dict>
+</plist>

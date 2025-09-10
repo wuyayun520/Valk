@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorDespiteVar</key>
+	<string>sequentialPreviewSpacing</string>
+	<key>finalAllocatorPosition</key>
+	<string>mutableBitratePosition</string>
+	<key>navigatorCycleFormat</key>
+	<string>alignmentBesideCycle</string>
+	<key>sizeAdapterAppearance</key>
+	<string>binaryBufferFormat</string>
+	<key>workflowProcessBehavior</key>
+	<string>symmetricBlocAppearance</string>
+</dict>
+</plist>

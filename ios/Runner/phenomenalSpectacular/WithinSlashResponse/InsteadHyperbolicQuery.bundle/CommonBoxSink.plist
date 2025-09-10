@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInTier</key>
+	<string>managerFormCenter</string>
+	<key>observerInShape</key>
+	<string>mobileChainBottom</string>
+	<key>radioValueSpacing</key>
+	<string>stackForBridge</string>
+	<key>standaloneMissionSaturation</key>
+	<string>descriptorAdapterHead</string>
+	<key>unactivatedControllerState</key>
+	<string>storeBufferAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveButtonForce</key>
+	<string>rapidListenerCenter</string>
+	<key>blocFlyweightLeft</key>
+	<string>viewCyclePressure</string>
+	<key>durationStateFeedback</key>
+	<string>commonNotificationDensity</string>
+	<key>granularSubscriptionSkewy</key>
+	<string>navigatorNearParameter</string>
+	<key>listenerWithoutProcess</key>
+	<string>accordionActionSkewx</string>
+</dict>
+</plist>

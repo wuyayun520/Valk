@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalPreviewInteraction</key>
+	<string>swiftOfScope</string>
+	<key>interactorSingletonAlignment</key>
+	<string>asyncAboutActivity</string>
+	<key>multiPointContrast</key>
+	<string>progressbarShapeAppearance</string>
+	<key>permanentMonsterShade</key>
+	<string>crucialBoxshadowBehavior</string>
+	<key>unactivatedStateContrast</key>
+	<string>uniformNavigationCount</string>
+</dict>
+</plist>

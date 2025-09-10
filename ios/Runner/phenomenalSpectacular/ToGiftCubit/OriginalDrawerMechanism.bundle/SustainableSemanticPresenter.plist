@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStateDuration</key>
+	<string>paddingStageMomentum</string>
+	<key>curveDespiteCommand</key>
+	<string>immediateCurvePosition</string>
+	<key>gridviewByLayer</key>
+	<string>dynamicProgressbarContrast</string>
+	<key>keyStateValidation</key>
+	<string>projectionModeSkewx</string>
+	<key>logarithmSingletonType</key>
+	<string>brushMementoType</string>
+	<key>multiResolverAcceleration</key>
+	<string>gramBridgeState</string>
+	<key>petActionIndex</key>
+	<string>histogramAwayMediator</string>
+	<key>temporaryTitleVelocity</key>
+	<string>routeAboutWork</string>
+	<key>usedGridRate</key>
+	<string>subtleFeatureAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPatternBottom</key>
+	<string>dedicatedAccessoryDistance</string>
+	<key>associatedControllerLeft</key>
+	<string>sharedLabelColor</string>
+	<key>cartesianArithmeticCoord</key>
+	<string>usedCallbackScale</string>
+	<key>chartModeVisible</key>
+	<string>titleUntilLevel</string>
+	<key>grayscaleOperationDelay</key>
+	<string>challengeMediatorCoord</string>
+	<key>groupContextPressure</key>
+	<string>modelContextPressure</string>
+</dict>
+</plist>

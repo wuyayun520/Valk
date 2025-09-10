@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstSizeStyle</key>
+	<string>webRemainderStyle</string>
+	<key>independentAlignmentPadding</key>
+	<string>semanticButtonTransparency</string>
+	<key>inkwellBufferFormat</key>
+	<string>reusableRiverpodTop</string>
+	<key>interactorWithPhase</key>
+	<string>alphaVariableTint</string>
+	<key>navigatorVarInterval</key>
+	<string>composableObserverCenter</string>
+	<key>resourceContainAction</key>
+	<string>routeTierCount</string>
+	<key>spotNearSingleton</key>
+	<string>cacheSinceLayer</string>
+	<key>timerOfPlatform</key>
+	<string>unaryExceptTier</string>
+</dict>
+</plist>

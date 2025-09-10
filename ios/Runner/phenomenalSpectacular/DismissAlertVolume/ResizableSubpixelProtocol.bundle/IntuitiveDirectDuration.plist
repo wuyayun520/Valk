@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsContextFlags</key>
+	<string>inheritedSliderTag</string>
+	<key>controllerAgainstContext</key>
+	<string>pointAdapterCoord</string>
+	<key>eventStateDistance</key>
+	<string>elasticSingletonBorder</string>
+	<key>heroFlyweightSize</key>
+	<string>concreteReferenceDuration</string>
+	<key>marginOperationInteraction</key>
+	<string>asyncOperationRate</string>
+	<key>prevDelegateVisible</key>
+	<string>pointLayerAlignment</string>
+	<key>providerThroughStructure</key>
+	<string>specifyAssetScale</string>
+	<key>singletonProxyMomentum</key>
+	<string>sortedProviderDepth</string>
+	<key>usecaseActionCenter</key>
+	<string>sliderLayerStyle</string>
+</dict>
+</plist>

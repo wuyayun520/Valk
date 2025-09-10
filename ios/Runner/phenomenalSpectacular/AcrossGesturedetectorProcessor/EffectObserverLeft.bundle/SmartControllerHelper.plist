@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCommandBorder</key>
+	<string>mobileNearBridge</string>
+	<key>disabledGramRotation</key>
+	<string>interfaceAsMemento</string>
+	<key>equipmentActionName</key>
+	<string>ignoredIsolatePressure</string>
+	<key>menuAlongOperation</key>
+	<string>offsetAgainstContext</string>
+	<key>popupWithoutAction</key>
+	<string>navigatorNearFacade</string>
+	<key>rectFormSpeed</key>
+	<string>painterSinceShape</string>
+	<key>subscriptionBeyondProxy</key>
+	<string>responsiveSignFeedback</string>
+	<key>usageDuringVisitor</key>
+	<string>hyperbolicTextTransparency</string>
+</dict>
+</plist>

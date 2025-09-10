@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConsumerStyle</key>
+	<string>lazyTickerFeedback</string>
+	<key>composableFrameInset</key>
+	<string>interfaceWithoutTask</string>
+	<key>coordinatorThroughFlyweight</key>
+	<string>asynchronousSliderIndex</string>
+	<key>effectDespiteInterpreter</key>
+	<string>diffableBatchTag</string>
+	<key>pageviewMethodRight</key>
+	<string>inactiveSpecifierIndex</string>
+	<key>petPerChain</key>
+	<string>visibleLogarithmContrast</string>
+	<key>taskInterpreterType</key>
+	<string>topicScopeDepth</string>
+</dict>
+</plist>

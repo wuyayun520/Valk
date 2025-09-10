@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCheckboxLocation</key>
+	<string>canvasPerLevel</string>
+	<key>interpolationForPrototype</key>
+	<string>independentVariantLeft</string>
+	<key>modulusTierDensity</key>
+	<string>ephemeralSpotLocation</string>
+	<key>singletonFacadeRight</key>
+	<string>priorityForVar</string>
+	<key>spriteTypeDirection</key>
+	<string>priorAssetTop</string>
+</dict>
+</plist>

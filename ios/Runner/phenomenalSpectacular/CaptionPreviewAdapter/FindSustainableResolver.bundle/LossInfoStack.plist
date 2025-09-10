@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitWithDecorator</key>
+	<string>factoryAroundLayer</string>
+	<key>materialUntilState</key>
+	<string>imperativeCatalystTheme</string>
+	<key>positionMediatorMode</key>
+	<string>themeCompositeCoord</string>
+	<key>transitionTaskDirection</key>
+	<string>layerPhaseCount</string>
+</dict>
+</plist>

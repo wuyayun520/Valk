@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContainDecorator</key>
+	<string>euclideanBulletFeedback</string>
+	<key>bulletLikePlatform</key>
+	<string>spriteOfPattern</string>
+	<key>decorationObserverOffset</key>
+	<string>statefulAspectVelocity</string>
+	<key>delegateContainPlatform</key>
+	<string>catalystBesideInterpreter</string>
+	<key>directParticleVisible</key>
+	<string>composableCacheTop</string>
+	<key>entityThroughLevel</key>
+	<string>metadataActivityStyle</string>
+	<key>immutableTickerHue</key>
+	<string>rowStateVisible</string>
+	<key>textTaskSpacing</key>
+	<string>borderScopeDirection</string>
+</dict>
+</plist>

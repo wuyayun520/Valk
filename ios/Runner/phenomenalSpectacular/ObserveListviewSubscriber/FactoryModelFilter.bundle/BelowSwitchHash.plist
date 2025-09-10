@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventVarValidation</key>
+	<string>boxCommandSaturation</string>
+	<key>grainEnvironmentDirection</key>
+	<string>commandThanTask</string>
+	<key>liteSwiftPosition</key>
+	<string>referenceAtParameter</string>
+	<key>referenceCycleAppearance</key>
+	<string>repositoryBeyondEnvironment</string>
+	<key>sliderDecoratorName</key>
+	<string>viewValueSkewy</string>
+	<key>subsequentUnaryTag</key>
+	<string>managerBeyondFacade</string>
+	<key>timerDecoratorOrientation</key>
+	<string>durationOperationFeedback</string>
+</dict>
+</plist>

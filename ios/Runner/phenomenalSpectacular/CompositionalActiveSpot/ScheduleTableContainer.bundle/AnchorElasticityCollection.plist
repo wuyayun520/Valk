@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateIncludeContext</key>
+	<string>inheritedStreamStyle</string>
+	<key>cursorContextFlags</key>
+	<string>temporaryAnimationPadding</string>
+	<key>explicitPlateVisible</key>
+	<string>menuCommandMode</string>
+	<key>flexAsPlatform</key>
+	<string>textfieldDuringVariable</string>
+	<key>futureByStyle</key>
+	<string>characterAsSingleton</string>
+	<key>stampValueHue</key>
+	<string>durationFormColor</string>
+	<key>storeOutsideJob</key>
+	<string>modelMethodName</string>
+	<key>subtleTangentMomentum</key>
+	<string>decorationStyleSaturation</string>
+</dict>
+</plist>

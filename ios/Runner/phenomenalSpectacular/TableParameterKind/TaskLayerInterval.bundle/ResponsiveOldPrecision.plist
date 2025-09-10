@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellWorkCoord</key>
+	<string>dependencyMementoInteraction</string>
+	<key>curveForPlatform</key>
+	<string>responsiveUtilMode</string>
+	<key>finalZoneTag</key>
+	<string>diffableLossInterval</string>
+	<key>isolateTypeCount</key>
+	<string>dedicatedQueueDepth</string>
+	<key>layoutAsProxy</key>
+	<string>storageExceptKind</string>
+	<key>playbackAroundNumber</key>
+	<string>smartTaskBound</string>
+	<key>subpixelVariableRight</key>
+	<string>awaitAboutVariable</string>
+	<key>tweenParameterVisible</key>
+	<string>tickerAgainstComposite</string>
+</dict>
+</plist>

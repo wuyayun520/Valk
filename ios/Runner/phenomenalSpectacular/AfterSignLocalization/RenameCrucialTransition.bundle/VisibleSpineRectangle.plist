@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilMediator</key>
+	<string>modelAtLayer</string>
+	<key>builderFormSize</key>
+	<string>customSymbolDepth</string>
+	<key>greatBaselineState</key>
+	<string>spriteByParam</string>
+	<key>intensityCycleOrientation</key>
+	<string>notificationOutsideTask</string>
+	<key>mobilePlaybackOrientation</key>
+	<string>concreteStreamTransparency</string>
+	<key>reactiveMetadataContrast</key>
+	<string>dropdownbuttonActionScale</string>
+	<key>singleAspectOffset</key>
+	<string>durationUntilType</string>
+</dict>
+</plist>

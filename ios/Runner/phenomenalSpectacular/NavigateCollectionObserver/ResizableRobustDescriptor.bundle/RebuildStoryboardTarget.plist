@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRichtextDelay</key>
+	<string>projectionAgainstParam</string>
+	<key>delegatePerParam</key>
+	<string>cursorInterpreterDirection</string>
+	<key>dependencyOfParameter</key>
+	<string>semanticSubscriptionOrientation</string>
+	<key>kernelAroundFunction</key>
+	<string>viewPlatformTint</string>
+	<key>loopAmongObserver</key>
+	<string>builderDespiteScope</string>
+	<key>modelThroughFramework</key>
+	<string>completerForBridge</string>
+</dict>
+</plist>

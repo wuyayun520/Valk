@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridBesideMethod</key>
+	<string>sharedSegmentOpacity</string>
+	<key>lostSliderAcceleration</key>
+	<string>mediocreHandlerAppearance</string>
+	<key>offsetLikeCommand</key>
+	<string>displayableDecorationOffset</string>
+	<key>robustStatelessFlags</key>
+	<string>containerTempleBound</string>
+	<key>sinkAboutEnvironment</key>
+	<string>concurrentCapsuleBorder</string>
+	<key>streamMethodMargin</key>
+	<string>streamAmongCommand</string>
+	<key>subscriptionAgainstSystem</key>
+	<string>groupStructureTint</string>
+	<key>typicalControllerBehavior</key>
+	<string>accessibleRouteTheme</string>
+	<key>usedLogarithmFlags</key>
+	<string>catalystMediatorResponse</string>
+</dict>
+</plist>

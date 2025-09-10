@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationContextTail</key>
+	<string>singleVectorTransparency</string>
+	<key>descriptionFunctionRotation</key>
+	<string>iconFromDecorator</string>
+	<key>factoryModeTransparency</key>
+	<string>builderInAction</string>
+	<key>independentReferenceFlags</key>
+	<string>transitionAtOperation</string>
+	<key>marginCommandDensity</key>
+	<string>autoThreadShade</string>
+	<key>movementParamMode</key>
+	<string>similarSingletonContrast</string>
+	<key>operationFacadeShape</key>
+	<string>integerAndMode</string>
+	<key>parallelResponseFlags</key>
+	<string>cacheShapeHead</string>
+	<key>toolOutsideType</key>
+	<string>crucialMusicOrientation</string>
+</dict>
+</plist>

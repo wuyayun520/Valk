@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFlyweightTint</key>
+	<string>interpolationAtType</string>
+	<key>arithmeticRectBrightness</key>
+	<string>seamlessStoryboardValidation</string>
+	<key>customInterfaceTension</key>
+	<string>localizationParamSaturation</string>
+	<key>descriptorAgainstVisitor</key>
+	<string>otherHandlerVelocity</string>
+	<key>displayablePositionSpacing</key>
+	<string>textureModeName</string>
+	<key>frameSingletonInset</key>
+	<string>roleAndStyle</string>
+	<key>sceneContainStrategy</key>
+	<string>ephemeralCharacterSize</string>
+	<key>statefulStreamVisibility</key>
+	<string>entityLayerSize</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferScopeDensity</key>
+	<string>activatedFlexSkewy</string>
+	<key>dialogsVarPressure</key>
+	<string>cupertinoAspectInteraction</string>
+	<key>discardedNavigatorOrigin</key>
+	<string>bitrateBufferAlignment</string>
+	<key>grainMethodDelay</key>
+	<string>alphaOrStage</string>
+	<key>mediumCharacterOffset</key>
+	<string>integerWithoutVisitor</string>
+	<key>navigatorFromInterpreter</key>
+	<string>tabviewValueTop</string>
+	<key>requestDecoratorAlignment</key>
+	<string>scaffoldBesideStructure</string>
+	<key>tappableStepSaturation</key>
+	<string>descriptorVariableSkewy</string>
+	<key>themeActionSkewy</key>
+	<string>difficultLayoutTheme</string>
+</dict>
+</plist>

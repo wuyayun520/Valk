@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAndInterpreter</key>
+	<string>resilientGemTop</string>
+	<key>dropdownbuttonStageOpacity</key>
+	<string>grayscaleNearAction</string>
+	<key>globalNavigatorResponse</key>
+	<string>routeForValue</string>
+	<key>immediateExponentAppearance</key>
+	<string>intensityTaskState</string>
+	<key>immutableIsolateOrigin</key>
+	<string>gradientLevelTension</string>
+	<key>intermediateQueueSkewy</key>
+	<string>interactiveTexturePressure</string>
+	<key>queueAmongCycle</key>
+	<string>mediumRequestDuration</string>
+	<key>reactiveDrawerDensity</key>
+	<string>presenterAdapterSkewy</string>
+	<key>textfieldBeyondActivity</key>
+	<string>concurrentLabelValidation</string>
+</dict>
+</plist>

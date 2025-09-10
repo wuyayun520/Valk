@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLevelBehavior</key>
+	<string>respectiveControllerBrightness</string>
+	<key>durationBridgeDensity</key>
+	<string>segueAlongBuffer</string>
+	<key>equalizationWithEnvironment</key>
+	<string>coordinatorContextOrientation</string>
+	<key>expandedExceptNumber</key>
+	<string>semanticAlignmentBrightness</string>
+	<key>listviewBesideActivity</key>
+	<string>typicalRoleName</string>
+	<key>secondParticleBrightness</key>
+	<string>publicMapDuration</string>
+	<key>subscriptionBeyondInterpreter</key>
+	<string>errorInCommand</string>
+	<key>timerProcessFrequency</key>
+	<string>captionBeyondJob</string>
+	<key>usecaseStateAcceleration</key>
+	<string>grainNearMemento</string>
+</dict>
+</plist>

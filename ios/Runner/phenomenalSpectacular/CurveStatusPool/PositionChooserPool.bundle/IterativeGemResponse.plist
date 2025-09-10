@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintMementoTint</key>
+	<string>commonCompleterTint</string>
+	<key>consultativeTransitionSkewx</key>
+	<string>activatedReducerStyle</string>
+	<key>heapVersusCycle</key>
+	<string>originalLayerBorder</string>
+	<key>modalLevelDepth</key>
+	<string>cubitAtContext</string>
+	<key>providerAdapterCount</key>
+	<string>directAnimationDelay</string>
+	<key>providerFormCount</key>
+	<string>missedSymbolDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProxyTop</key>
+	<string>materialBatchResponse</string>
+	<key>boxshadowWithoutActivity</key>
+	<string>textureStyleVisibility</string>
+	<key>controllerAsChain</key>
+	<string>permissiveFrameBorder</string>
+	<key>cubitChainMode</key>
+	<string>subpixelPerTask</string>
+	<key>effectFrameworkSize</key>
+	<string>repositoryDecoratorFlags</string>
+	<key>hashStyleFlags</key>
+	<string>indicatorAroundParam</string>
+	<key>menuOperationSpeed</key>
+	<string>sequentialAssetResponse</string>
+	<key>roleBeyondPhase</key>
+	<string>kernelPerFacade</string>
+</dict>
+</plist>

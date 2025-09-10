@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDespiteSingleton</key>
+	<string>containerThroughPlatform</string>
+	<key>boxshadowSinceBridge</key>
+	<string>listviewAtAction</string>
+	<key>configurationWorkSpacing</key>
+	<string>asyncCertificateMode</string>
+	<key>consultativeStorageVisibility</key>
+	<string>capacitiesAndVariable</string>
+	<key>gateByType</key>
+	<string>retainedCapsuleScale</string>
+	<key>transitionProcessColor</key>
+	<string>columnActionDelay</string>
+</dict>
+</plist>

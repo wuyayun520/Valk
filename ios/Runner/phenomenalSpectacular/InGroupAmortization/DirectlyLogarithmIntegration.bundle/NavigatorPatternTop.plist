@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDescriptionEdge</key>
+	<string>transitionOrTier</string>
+	<key>isolateThroughVariable</key>
+	<string>gemAwayEnvironment</string>
+	<key>layerAmongScope</key>
+	<string>containerStageName</string>
+	<key>notificationChainState</key>
+	<string>graphThroughMethod</string>
+	<key>taskCommandOrientation</key>
+	<string>granularServiceHue</string>
+</dict>
+</plist>

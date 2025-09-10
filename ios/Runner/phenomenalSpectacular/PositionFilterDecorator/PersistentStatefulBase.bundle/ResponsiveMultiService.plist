@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleObserverOpacity</key>
+	<string>animationAroundCycle</string>
+	<key>entityCommandColor</key>
+	<string>mobxPlatformAppearance</string>
+	<key>keyContainerAlignment</key>
+	<string>queueActionIndex</string>
+	<key>liteStorageBound</key>
+	<string>stampAmongLevel</string>
+	<key>queueViaAdapter</key>
+	<string>navigatorParameterDistance</string>
+	<key>sinkWithoutInterpreter</key>
+	<string>immutableCallbackState</string>
+</dict>
+</plist>

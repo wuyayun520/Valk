@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowForMediator</key>
+	<string>giftOutsideType</string>
+	<key>disabledTopicStyle</key>
+	<string>disabledDecorationMargin</string>
+	<key>gradientPhaseInterval</key>
+	<string>mapAtStage</string>
+	<key>modelBufferDelay</key>
+	<string>tickerPrototypeRate</string>
+	<key>pointBufferMargin</key>
+	<string>synchronousSignBottom</string>
+	<key>rowJobEdge</key>
+	<string>effectJobVelocity</string>
+</dict>
+</plist>

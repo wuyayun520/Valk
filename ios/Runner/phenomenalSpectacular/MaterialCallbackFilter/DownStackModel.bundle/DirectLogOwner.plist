@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRichtextOrigin</key>
+	<string>mobxWithFramework</string>
+	<key>customizedTabviewTail</key>
+	<string>scrollableInkwellSkewx</string>
+	<key>descriptionActionPosition</key>
+	<string>effectKindDirection</string>
+	<key>frameShapeDuration</key>
+	<string>composableImageOpacity</string>
+	<key>grainAmongBridge</key>
+	<string>custompaintContainDecorator</string>
+	<key>largeChecklistFrequency</key>
+	<string>standaloneLabelDuration</string>
+	<key>parallelNavigatorInterval</key>
+	<string>ephemeralGridColor</string>
+	<key>sinkAroundTask</key>
+	<string>materialContextBorder</string>
+</dict>
+</plist>

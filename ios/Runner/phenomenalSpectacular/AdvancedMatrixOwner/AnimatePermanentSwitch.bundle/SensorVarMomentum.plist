@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInsideWork</key>
+	<string>activatedHistogramRotation</string>
+	<key>callbackDuringFlyweight</key>
+	<string>screenStageRight</string>
+	<key>factorySystemPosition</key>
+	<string>logarithmInLayer</string>
+	<key>fragmentInsideAction</key>
+	<string>controllerStateBound</string>
+	<key>popupSinceLevel</key>
+	<string>roleFromContext</string>
+	<key>relationalCapsuleFormat</key>
+	<string>uniqueNodeResponse</string>
+</dict>
+</plist>

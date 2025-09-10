@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxActionVisible</key>
+	<string>symbolWithParameter</string>
+	<key>numericalEffectState</key>
+	<string>anchorAroundCycle</string>
+	<key>semanticsFromBridge</key>
+	<string>sessionDecoratorOffset</string>
+</dict>
+</plist>

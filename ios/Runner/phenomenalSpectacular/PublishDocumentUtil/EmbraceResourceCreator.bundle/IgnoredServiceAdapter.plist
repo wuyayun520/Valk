@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchIncludeLayer</key>
+	<string>menuAboutOperation</string>
+	<key>featureStrategyOrientation</key>
+	<string>composableAspectFeedback</string>
+	<key>positionWithoutPlatform</key>
+	<string>awaitEnvironmentInset</string>
+	<key>semanticParticleVisibility</key>
+	<string>labelAroundMode</string>
+	<key>transitionLikeLayer</key>
+	<string>threadForScope</string>
+</dict>
+</plist>

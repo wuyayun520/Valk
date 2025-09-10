@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsSystem</key>
+	<string>storageBufferLocation</string>
+	<key>composableContainerOrientation</key>
+	<string>allocatorAwayLevel</string>
+	<key>promiseOrProxy</key>
+	<string>switchInWork</string>
+	<key>radioDecoratorAlignment</key>
+	<string>descriptionParamAlignment</string>
+	<key>segueWithoutBuffer</key>
+	<string>prevApertureFrequency</string>
+	<key>sinkAroundBridge</key>
+	<string>currentProfileBrightness</string>
+	<key>specifyStampBrightness</key>
+	<string>radiusStructureTension</string>
+	<key>subscriptionChainVisibility</key>
+	<string>sliderMethodOrientation</string>
+</dict>
+</plist>

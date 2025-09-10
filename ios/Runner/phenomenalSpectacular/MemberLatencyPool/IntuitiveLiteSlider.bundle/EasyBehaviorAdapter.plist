@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterVersusPrototype</key>
+	<string>previewWithoutVar</string>
+	<key>delegateWithoutStructure</key>
+	<string>activeCardTheme</string>
+	<key>graphicSinceMode</key>
+	<string>blocSinceMode</string>
+	<key>gridviewOutsideNumber</key>
+	<string>assetCommandRotation</string>
+	<key>promiseEnvironmentName</key>
+	<string>smartStackPosition</string>
+	<key>scaffoldLayerPressure</key>
+	<string>drawerAroundKind</string>
+	<key>spotPhaseHue</key>
+	<string>painterWithParameter</string>
+</dict>
+</plist>

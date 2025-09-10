@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParameterTransparency</key>
+	<string>actionWithoutJob</string>
+	<key>firstReferenceDepth</key>
+	<string>configurationBySystem</string>
+	<key>futureForParameter</key>
+	<string>builderBridgeMargin</string>
+	<key>localizationAgainstMemento</key>
+	<string>desktopBoxDelay</string>
+	<key>nextApertureShape</key>
+	<string>storeBeyondTask</string>
+	<key>respectiveNotificationPressure</key>
+	<string>resourceActionLocation</string>
+	<key>routeExceptLevel</key>
+	<string>modalAlongNumber</string>
+	<key>switchTierFeedback</key>
+	<string>toolFacadeStatus</string>
+</dict>
+</plist>

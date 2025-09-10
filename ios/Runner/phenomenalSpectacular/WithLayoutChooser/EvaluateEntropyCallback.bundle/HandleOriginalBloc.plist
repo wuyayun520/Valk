@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicHashPosition</key>
+	<string>alignmentModeTail</string>
+	<key>lastShaderResponse</key>
+	<string>interfaceIncludePrototype</string>
+	<key>robustDialogsKind</key>
+	<string>gestureWithoutEnvironment</string>
+	<key>sortedTextureMode</key>
+	<string>completerProcessFlags</string>
+</dict>
+</plist>

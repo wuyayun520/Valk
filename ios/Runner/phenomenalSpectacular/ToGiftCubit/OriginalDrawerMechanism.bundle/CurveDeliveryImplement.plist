@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanReductionTag</key>
+	<string>errorAsSystem</string>
+	<key>gatePatternTail</key>
+	<string>workflowScopeLeft</string>
+	<key>largeVectorSpacing</key>
+	<string>advancedGridviewRight</string>
+	<key>modelCycleStyle</key>
+	<string>referenceDuringFramework</string>
+	<key>rowPerVisitor</key>
+	<string>swiftThanJob</string>
+	<key>sampleOutsideValue</key>
+	<string>hardToolLeft</string>
+</dict>
+</plist>

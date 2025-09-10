@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directActivityResponse</key>
+	<string>hierarchicalOffsetAlignment</string>
+	<key>requestAroundEnvironment</key>
+	<string>matrixWorkFormat</string>
+	<key>requestTaskVisibility</key>
+	<string>opaqueCompositionAlignment</string>
+</dict>
+</plist>

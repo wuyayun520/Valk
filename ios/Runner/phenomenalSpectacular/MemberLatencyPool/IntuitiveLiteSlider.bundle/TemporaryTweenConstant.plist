@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIndicatorType</key>
+	<string>displayableBrushEdge</string>
+	<key>buttonStructureValidation</key>
+	<string>exceptionInStage</string>
+	<key>controllerSystemKind</key>
+	<string>commandFlyweightAppearance</string>
+	<key>gateIncludeDecorator</key>
+	<string>channelVarColor</string>
+	<key>monsterIncludeObserver</key>
+	<string>appbarDespiteMemento</string>
+	<key>nativePetDensity</key>
+	<string>observerUntilShape</string>
+	<key>shaderExceptVar</key>
+	<string>immediateMissionSpacing</string>
+</dict>
+</plist>

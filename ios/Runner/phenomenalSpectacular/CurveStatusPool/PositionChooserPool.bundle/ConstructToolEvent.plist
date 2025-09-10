@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNavigationForce</key>
+	<string>tappableCachePadding</string>
+	<key>commandAdapterInset</key>
+	<string>grainStyleFlags</string>
+	<key>cupertinoTransformerColor</key>
+	<string>difficultCompleterBottom</string>
+	<key>firstCubeInteraction</key>
+	<string>tickerPlatformVelocity</string>
+	<key>riverpodMediatorAcceleration</key>
+	<string>gramNumberTint</string>
+	<key>segmentObserverDirection</key>
+	<string>dialogsAgainstShape</string>
+	<key>sliderFacadeFeedback</key>
+	<string>marginAmongCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitScreenShape</key>
+	<string>aspectBridgeOpacity</string>
+	<key>missedEventAppearance</key>
+	<string>decorationFrameworkSpacing</string>
+	<key>overlayWorkBorder</key>
+	<string>adaptiveGesturedetectorOpacity</string>
+	<key>providerFlyweightTail</key>
+	<string>gramBesideVariable</string>
+	<key>resilientReducerOrientation</key>
+	<string>durationSystemIndex</string>
+	<key>resourceThroughMediator</key>
+	<string>bufferBufferCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPrototypeForce</key>
+	<string>intuitiveRiverpodTheme</string>
+	<key>checkboxParamScale</key>
+	<string>sizeNumberAppearance</string>
+	<key>imageStrategyFrequency</key>
+	<string>queueMementoBehavior</string>
+	<key>independentCardAlignment</key>
+	<string>checklistThroughState</string>
+</dict>
+</plist>

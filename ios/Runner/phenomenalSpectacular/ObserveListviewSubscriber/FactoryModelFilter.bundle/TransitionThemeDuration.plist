@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryLayerSpacing</key>
+	<string>responsiveDecorationSize</string>
+	<key>containerInNumber</key>
+	<string>accordionSceneBehavior</string>
+	<key>containerOrPlatform</key>
+	<string>transitionOutsideCommand</string>
+	<key>eventContainType</key>
+	<string>descriptorContainTier</string>
+	<key>granularTransitionPadding</key>
+	<string>serviceAtSystem</string>
+	<key>radioPhaseTail</key>
+	<string>bulletVarFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDelegateSkewx</key>
+	<string>resilientEntitySkewy</string>
+	<key>largeSubscriptionState</key>
+	<string>optionPerChain</string>
+	<key>observerBesideOperation</key>
+	<string>futureStyleBehavior</string>
+	<key>petActionStyle</key>
+	<string>largeTransitionPadding</string>
+	<key>relationalMobileMomentum</key>
+	<string>backwardProjectionSpeed</string>
+	<key>respectiveBuilderMomentum</key>
+	<string>liteLogarithmScale</string>
+</dict>
+</plist>

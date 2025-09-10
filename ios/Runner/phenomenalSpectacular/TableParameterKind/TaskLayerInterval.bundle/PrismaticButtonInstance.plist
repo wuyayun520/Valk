@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderLikeLevel</key>
+	<string>pinchableViewName</string>
+	<key>eagerSizeOffset</key>
+	<string>priorCheckboxResponse</string>
+	<key>extensionBridgeVisibility</key>
+	<string>ternaryCycleLocation</string>
+	<key>iconModeColor</key>
+	<string>tickerPlatformFormat</string>
+	<key>interpolationAboutScope</key>
+	<string>blocCommandIndex</string>
+	<key>layerSingletonFrequency</key>
+	<string>draggableCubeShade</string>
+	<key>logarithmPlatformAlignment</key>
+	<string>signatureMediatorSpeed</string>
+	<key>semanticAnimationDelay</key>
+	<string>popupFrameworkRotation</string>
+	<key>taskShapeDepth</key>
+	<string>chapterNumberOffset</string>
+</dict>
+</plist>

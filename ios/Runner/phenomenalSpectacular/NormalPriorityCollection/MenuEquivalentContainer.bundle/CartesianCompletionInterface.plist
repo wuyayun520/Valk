@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStageSkewx</key>
+	<string>gateByComposite</string>
+	<key>builderSinceKind</key>
+	<string>musicOutsideDecorator</string>
+	<key>concurrentResourceInterval</key>
+	<string>titleAtMediator</string>
+	<key>entityVarSize</key>
+	<string>serviceSinceShape</string>
+	<key>firstBufferSkewx</key>
+	<string>previewAndStyle</string>
+	<key>grainProxyBehavior</key>
+	<string>diversifiedTextMargin</string>
+	<key>isolateProcessInterval</key>
+	<string>resourceNumberAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCurveFeedback</key>
+	<string>isolateThroughCommand</string>
+	<key>axisCycleAppearance</key>
+	<string>criticalSpecifierHue</string>
+	<key>cardOrParameter</key>
+	<string>projectionPerStructure</string>
+	<key>eagerControllerValidation</key>
+	<string>menuDespiteInterpreter</string>
+	<key>pivotalBoxDelay</key>
+	<string>grainParameterBound</string>
+	<key>swiftViaScope</key>
+	<string>oldEventMode</string>
+	<key>tabviewParameterDensity</key>
+	<string>allocatorParameterTail</string>
+</dict>
+</plist>

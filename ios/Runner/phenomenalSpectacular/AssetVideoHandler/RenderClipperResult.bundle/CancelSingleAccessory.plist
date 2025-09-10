@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterExceptSingleton</key>
+	<string>alertFormPressure</string>
+	<key>delegatePerComposite</key>
+	<string>iterativeActionOffset</string>
+	<key>immediateAppbarRate</key>
+	<string>pointShapeBound</string>
+	<key>listenerLayerAlignment</key>
+	<string>checklistDespiteProcess</string>
+	<key>lossWorkContrast</key>
+	<string>seamlessSpriteScale</string>
+	<key>publicInkwellCount</key>
+	<string>respectiveScrollAppearance</string>
+	<key>subscriptionByValue</key>
+	<string>channelValuePosition</string>
+	<key>taskInterpreterSaturation</key>
+	<string>disabledMethodContrast</string>
+	<key>textfieldVariableDelay</key>
+	<string>resourceExceptAction</string>
+	<key>webDropdownbuttonMargin</key>
+	<string>effectForObserver</string>
+</dict>
+</plist>

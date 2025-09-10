@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPresenterMargin</key>
+	<string>lazyEqualizationFrequency</string>
+	<key>directlyNavigatorTag</key>
+	<string>hardIndicatorSkewx</string>
+	<key>localTransitionScale</key>
+	<string>skirtFormTheme</string>
+	<key>unactivatedNodeTransparency</key>
+	<string>basicCoordinatorVisibility</string>
+</dict>
+</plist>

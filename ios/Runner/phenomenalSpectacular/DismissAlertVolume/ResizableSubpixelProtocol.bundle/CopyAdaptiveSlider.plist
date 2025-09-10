@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInContext</key>
+	<string>methodNearObserver</string>
+	<key>binaryExceptSingleton</key>
+	<string>deferredAppbarCoord</string>
+	<key>convolutionLevelEdge</key>
+	<string>nodeActivityAlignment</string>
+	<key>labelAtPrototype</key>
+	<string>layerLevelContrast</string>
+	<key>persistentPopupAppearance</key>
+	<string>particlePerEnvironment</string>
+	<key>scaleAgainstShape</key>
+	<string>diffableBoxshadowName</string>
+	<key>sequentialNavigationTop</key>
+	<string>customizedPrioritySize</string>
+	<key>tickerAwayNumber</key>
+	<string>streamStyleSize</string>
+	<key>topicAndTemple</key>
+	<string>entityOrParam</string>
+</dict>
+</plist>

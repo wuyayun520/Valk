@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMobileVisibility</key>
+	<string>builderProxyRight</string>
+	<key>effectStateAcceleration</key>
+	<string>tabbarTierMode</string>
+	<key>ignoredPaddingTheme</key>
+	<string>enabledBufferDistance</string>
+	<key>listenerMementoInterval</key>
+	<string>decorationModeVelocity</string>
+	<key>missedWidgetTransparency</key>
+	<string>delegateVersusValue</string>
+	<key>modulusShapeSpacing</key>
+	<string>clipperContextAlignment</string>
+	<key>navigatorAsShape</key>
+	<string>aspectBesidePlatform</string>
+	<key>resilientIconStyle</key>
+	<string>basicStackVisible</string>
+	<key>semanticCanvasCount</key>
+	<string>criticalAnimationHead</string>
+</dict>
+</plist>

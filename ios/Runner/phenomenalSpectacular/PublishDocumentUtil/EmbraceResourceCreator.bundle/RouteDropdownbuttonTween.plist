@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActionHead</key>
+	<string>boxAtLayer</string>
+	<key>dedicatedEventOrientation</key>
+	<string>textfieldTaskInset</string>
+	<key>gesturedetectorThroughTask</key>
+	<string>allocatorVersusAdapter</string>
+	<key>inkwellNumberSkewy</key>
+	<string>actionProxyTransparency</string>
+	<key>presenterDuringMemento</key>
+	<string>modulusStrategyPadding</string>
+	<key>sizeObserverPadding</key>
+	<string>constraintNumberDensity</string>
+	<key>textfieldPerForm</key>
+	<string>builderFlyweightLeft</string>
+</dict>
+</plist>

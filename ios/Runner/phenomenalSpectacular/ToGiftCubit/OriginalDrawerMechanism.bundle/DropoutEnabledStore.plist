@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLocalizationMargin</key>
+	<string>descriptionLevelTop</string>
+	<key>asyncTierMargin</key>
+	<string>compositionalCollectionTransparency</string>
+	<key>durationProxyColor</key>
+	<string>interpolationAtLayer</string>
+	<key>gridParamFormat</key>
+	<string>spotActivityBehavior</string>
+	<key>metadataFrameworkAlignment</key>
+	<string>usedAnimationTag</string>
+	<key>positionedInterpreterDepth</key>
+	<string>rowSingletonValidation</string>
+</dict>
+</plist>

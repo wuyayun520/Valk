@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderContainMethod</key>
+	<string>certificateFlyweightAppearance</string>
+	<key>denseCommandSize</key>
+	<string>requiredButtonDelay</string>
+	<key>globalButtonLeft</key>
+	<string>compositionalMobileBorder</string>
+	<key>mobileActionScale</key>
+	<string>smartProviderRate</string>
+	<key>precisionInsideCommand</key>
+	<string>largeGraphicDepth</string>
+	<key>referencePerKind</key>
+	<string>mediocreSubpixelBottom</string>
+	<key>tabbarActivityVisible</key>
+	<string>uniformCoordinatorDuration</string>
+	<key>uniformGrainDelay</key>
+	<string>routeProxySize</string>
+	<key>webAwaitVisible</key>
+	<string>futureOutsideJob</string>
+</dict>
+</plist>

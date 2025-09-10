@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureOfPlatform</key>
+	<string>titleFacadeOffset</string>
+	<key>fixedAspectratioTransparency</key>
+	<string>specifierStrategyOrigin</string>
+	<key>layoutStageValidation</key>
+	<string>animationProcessType</string>
+	<key>localizationEnvironmentResponse</key>
+	<string>appbarMethodEdge</string>
+	<key>radiusModeHead</key>
+	<string>permissiveDurationFormat</string>
+	<key>significantFrameCount</key>
+	<string>observerPhaseSize</string>
+	<key>tickerInParameter</key>
+	<string>adaptiveTabviewIndex</string>
+</dict>
+</plist>

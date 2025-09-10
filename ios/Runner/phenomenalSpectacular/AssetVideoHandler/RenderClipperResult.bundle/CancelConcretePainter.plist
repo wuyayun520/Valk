@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartChainInterval</key>
+	<string>canvasFromCycle</string>
+	<key>composableAlignmentInterval</key>
+	<string>chartKindTint</string>
+	<key>groupWithoutEnvironment</key>
+	<string>beginnerReducerTheme</string>
+	<key>optimizerPrototypeOrientation</key>
+	<string>robustCupertinoAcceleration</string>
+	<key>painterSinceLayer</key>
+	<string>requestStrategySpeed</string>
+	<key>rectAsVar</key>
+	<string>anchorAsEnvironment</string>
+	<key>seamlessResolverBehavior</key>
+	<string>transformerFlyweightBottom</string>
+	<key>sequentialReferenceCount</key>
+	<string>configurationVisitorFlags</string>
+	<key>statelessCoordinatorDistance</key>
+	<string>intensityValueLocation</string>
+	<key>substantialStateDelay</key>
+	<string>seamlessActionIndex</string>
+</dict>
+</plist>

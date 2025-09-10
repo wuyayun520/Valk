@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVarHue</key>
+	<string>dynamicDependencyLocation</string>
+	<key>directConstraintAlignment</key>
+	<string>curveAgainstTask</string>
+	<key>draggableCompositionTransparency</key>
+	<string>textViaStage</string>
+	<key>layerVisitorMargin</key>
+	<string>subscriptionViaFlyweight</string>
+	<key>mediaqueryIncludeStructure</key>
+	<string>tickerAboutValue</string>
+	<key>profileLevelStatus</key>
+	<string>spotTypeShade</string>
+	<key>rectSingletonHue</key>
+	<string>symmetricTweenCount</string>
+	<key>storyboardAboutTemple</key>
+	<string>equalizationWithNumber</string>
+	<key>timerAndCycle</key>
+	<string>imageForFacade</string>
+</dict>
+</plist>

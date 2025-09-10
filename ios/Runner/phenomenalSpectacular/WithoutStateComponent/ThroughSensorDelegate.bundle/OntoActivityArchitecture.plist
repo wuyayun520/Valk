@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAtLayer</key>
+	<string>sortedStoryboardDensity</string>
+	<key>instructionPrototypeBound</key>
+	<string>managerFromActivity</string>
+	<key>pointBufferFlags</key>
+	<string>substantialQueueCenter</string>
+	<key>unactivatedLocalizationPadding</key>
+	<string>displayableMatrixTransparency</string>
+</dict>
+</plist>

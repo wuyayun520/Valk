@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackLayerTransparency</key>
+	<string>sceneUntilTask</string>
+	<key>coordinatorPlatformTransparency</key>
+	<string>interactorPerObserver</string>
+	<key>respectiveMapName</key>
+	<string>cosineDecoratorDirection</string>
+	<key>routeCompositeBound</key>
+	<string>unsortedScrollMode</string>
+	<key>smallGridCount</key>
+	<string>displayableFlexAcceleration</string>
+	<key>threadFrameworkRate</key>
+	<string>animationTaskHue</string>
+</dict>
+</plist>

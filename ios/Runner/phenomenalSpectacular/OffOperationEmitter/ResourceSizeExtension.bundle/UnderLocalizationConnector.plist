@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimationRight</key>
+	<string>queueAgainstState</string>
+	<key>histogramAlongStyle</key>
+	<string>oldEventOrigin</string>
+	<key>mediaqueryWithComposite</key>
+	<string>paddingKindResponse</string>
+	<key>popupBridgeVisible</key>
+	<string>heapShapeOpacity</string>
+	<key>progressbarAdapterShape</key>
+	<string>cacheCommandTransparency</string>
+</dict>
+</plist>

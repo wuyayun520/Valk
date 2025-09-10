@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWithoutStage</key>
+	<string>beginnerBufferOrientation</string>
+	<key>rapidSliderMomentum</key>
+	<string>frameNumberSkewx</string>
+	<key>sliderBridgeResponse</key>
+	<string>radioCycleResponse</string>
+	<key>sophisticatedStoreDensity</key>
+	<string>callbackOutsideJob</string>
+</dict>
+</plist>

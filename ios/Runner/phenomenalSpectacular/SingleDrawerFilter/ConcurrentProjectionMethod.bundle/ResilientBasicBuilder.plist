@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constEntityTransparency</key>
+	<string>responseVariableCoord</string>
+	<key>descriptionForParam</key>
+	<string>singletonForForm</string>
+	<key>equalizationEnvironmentCoord</key>
+	<string>painterDuringComposite</string>
+	<key>permanentMediaqueryName</key>
+	<string>grayscaleVersusMemento</string>
+	<key>priorityLayerDistance</key>
+	<string>touchModeFrequency</string>
+	<key>storagePatternState</key>
+	<string>delegateExceptLayer</string>
+	<key>titleOfMode</key>
+	<string>storeThanProxy</string>
+</dict>
+</plist>

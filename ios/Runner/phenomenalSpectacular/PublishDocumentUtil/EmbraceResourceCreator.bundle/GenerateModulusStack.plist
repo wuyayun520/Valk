@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsModeDirection</key>
+	<string>precisionExceptParameter</string>
+	<key>dialogsTempleStyle</key>
+	<string>directCubitDistance</string>
+	<key>directSkirtFeedback</key>
+	<string>delegateFunctionDuration</string>
+	<key>labelDespiteProxy</key>
+	<string>activeUsageFrequency</string>
+	<key>persistentVectorFlags</key>
+	<string>usageTypeState</string>
+	<key>progressbarBesideOperation</key>
+	<string>axisContextEdge</string>
+	<key>repositoryParameterCenter</key>
+	<string>chapterJobFrequency</string>
+	<key>skinBufferDepth</key>
+	<string>iterativeOptionAcceleration</string>
+	<key>statefulInterpreterRate</key>
+	<string>usecaseNumberFormat</string>
+	<key>staticInteractorRotation</key>
+	<string>screenBufferInteraction</string>
+</dict>
+</plist>

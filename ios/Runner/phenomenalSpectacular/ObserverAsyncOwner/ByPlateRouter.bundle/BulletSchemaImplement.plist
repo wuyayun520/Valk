@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePhaseCenter</key>
+	<string>uniformGesturedetectorTension</string>
+	<key>hierarchicalGrainRotation</key>
+	<string>primarySymbolDirection</string>
+	<key>reusableRepositoryVisible</key>
+	<string>discardedStatefulFormat</string>
+	<key>singletonThroughObserver</key>
+	<string>activatedButtonColor</string>
+</dict>
+</plist>

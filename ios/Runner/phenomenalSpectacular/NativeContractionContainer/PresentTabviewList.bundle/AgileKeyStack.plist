@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedObserverLocation</key>
+	<string>primaryBorderBrightness</string>
+	<key>logObserverDuration</key>
+	<string>mobileFromTask</string>
+	<key>managerStructureScale</key>
+	<string>secondSignatureState</string>
+	<key>multiSegmentVelocity</key>
+	<string>semanticsProxyValidation</string>
+	<key>priorCycleOffset</key>
+	<string>specifierTypeScale</string>
+	<key>protectedBehaviorDuration</key>
+	<string>slashFlyweightAcceleration</string>
+	<key>screenDespiteParameter</key>
+	<string>bufferPhaseSaturation</string>
+	<key>techniqueNearStage</key>
+	<string>channelsCommandDensity</string>
+</dict>
+</plist>

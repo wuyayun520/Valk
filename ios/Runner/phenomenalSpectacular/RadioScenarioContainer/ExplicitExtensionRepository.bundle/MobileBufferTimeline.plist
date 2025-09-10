@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeToolType</key>
+	<string>webTextfieldSkewy</string>
+	<key>assetIncludeContext</key>
+	<string>futureFormIndex</string>
+	<key>boxSincePrototype</key>
+	<string>remainderViaVariable</string>
+	<key>cacheVersusParameter</key>
+	<string>mobileSensorOpacity</string>
+	<key>directDrawerHue</key>
+	<string>compositionalChannelCount</string>
+	<key>interpolationStateDepth</key>
+	<string>euclideanTouchSpacing</string>
+	<key>presenterParameterTail</key>
+	<string>tangentEnvironmentMargin</string>
+	<key>routeInterpreterForce</key>
+	<string>displayableStoreDepth</string>
+	<key>skirtAboutPlatform</key>
+	<string>asyncResolverDelay</string>
+</dict>
+</plist>

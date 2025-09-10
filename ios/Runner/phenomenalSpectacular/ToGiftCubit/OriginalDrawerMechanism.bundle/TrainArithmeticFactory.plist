@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartVersusFacade</key>
+	<string>euclideanProjectionBehavior</string>
+	<key>curveScopeMode</key>
+	<string>graphicThroughTier</string>
+	<key>diffableLabelAlignment</key>
+	<string>signForStyle</string>
+	<key>mediumEntropyInteraction</key>
+	<string>interpolationVersusPattern</string>
+	<key>temporaryCustompaintSpeed</key>
+	<string>presenterModeOrientation</string>
+	<key>textStructureTail</key>
+	<string>durationParameterPadding</string>
+	<key>transformerBufferAcceleration</key>
+	<string>mediaWithoutMemento</string>
+</dict>
+</plist>

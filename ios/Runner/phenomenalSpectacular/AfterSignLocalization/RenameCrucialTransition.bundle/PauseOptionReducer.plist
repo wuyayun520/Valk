@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperWithFunction</key>
+	<string>actionForParam</string>
+	<key>cycleByVar</key>
+	<string>coordinatorBufferOrientation</string>
+	<key>factoryOrFramework</key>
+	<string>interpolationWorkEdge</string>
+	<key>methodContextTheme</key>
+	<string>tableObserverColor</string>
+	<key>usecaseIncludeEnvironment</key>
+	<string>parallelPlateBrightness</string>
+</dict>
+</plist>

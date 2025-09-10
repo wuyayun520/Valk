@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorFacadeStyle</key>
+	<string>actionBeyondParam</string>
+	<key>coordinatorTierDirection</key>
+	<string>fixedBufferFormat</string>
+	<key>functionalFeatureBorder</key>
+	<string>spotProxyBrightness</string>
+	<key>layoutAsVar</key>
+	<string>alertVariableDuration</string>
+	<key>sliderModeBound</key>
+	<string>reducerDecoratorDepth</string>
+	<key>stateNumberDirection</key>
+	<string>specifyMapOffset</string>
+	<key>typicalTweenHead</key>
+	<string>presenterBeyondAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLossDepth</key>
+	<string>customListenerCoord</string>
+	<key>materialReducerBound</key>
+	<string>currentTitleDistance</string>
+	<key>standaloneHandlerLocation</key>
+	<string>loopFlyweightTint</string>
+	<key>viewOrVar</key>
+	<string>activityParamDelay</string>
+</dict>
+</plist>

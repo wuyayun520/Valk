@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityWorkAcceleration</key>
+	<string>containerAmongChain</string>
+	<key>kernelProcessEdge</key>
+	<string>overlayAsDecorator</string>
+	<key>usedLossSpacing</key>
+	<string>petWithoutPhase</string>
+</dict>
+</plist>

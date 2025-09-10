@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsInterpreterBehavior</key>
+	<string>concreteBufferName</string>
+	<key>listviewStageFrequency</key>
+	<string>heapProxyEdge</string>
+	<key>masterAmongNumber</key>
+	<string>substantialQueueOrigin</string>
+	<key>priorityChainBehavior</key>
+	<string>allocatorTierAlignment</string>
+	<key>screenThanChain</key>
+	<string>coordinatorOfContext</string>
+</dict>
+</plist>

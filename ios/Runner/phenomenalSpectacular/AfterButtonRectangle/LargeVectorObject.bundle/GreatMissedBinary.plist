@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationByFacade</key>
+	<string>statelessSinceMemento</string>
+	<key>consumerLayerPressure</key>
+	<string>coordinatorAboutMemento</string>
+	<key>directCurveInteraction</key>
+	<string>mainVectorIndex</string>
+	<key>routeFunctionOrientation</key>
+	<string>transformerAlongPattern</string>
+	<key>sustainableUnaryState</key>
+	<string>mobxPhaseInteraction</string>
+	<key>touchBesideWork</key>
+	<string>scaffoldFromAdapter</string>
+	<key>usecaseParamForce</key>
+	<string>storyboardCycleOrientation</string>
+</dict>
+</plist>

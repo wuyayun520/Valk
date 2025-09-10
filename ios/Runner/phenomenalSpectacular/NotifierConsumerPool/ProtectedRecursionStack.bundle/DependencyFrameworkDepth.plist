@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridStructureVelocity</key>
+	<string>rowAwayTier</string>
+	<key>missedRadiusAppearance</key>
+	<string>staticCubitShade</string>
+	<key>notifierPhaseOffset</key>
+	<string>expandedDuringStyle</string>
+	<key>oldObserverSkewx</key>
+	<string>opaqueCubitFormat</string>
+	<key>reductionObserverFormat</key>
+	<string>accordionSpriteSkewx</string>
+	<key>stackBesideFacade</key>
+	<string>statefulHeroTop</string>
+</dict>
+</plist>

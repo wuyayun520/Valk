@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAgainstForm</key>
+	<string>adaptiveAnchorPadding</string>
+	<key>discardedSinkName</key>
+	<string>desktopTabviewState</string>
+	<key>gridExceptVisitor</key>
+	<string>sequentialRepositoryOrientation</string>
+	<key>integerUntilComposite</key>
+	<string>heroForPlatform</string>
+	<key>mainServiceTop</key>
+	<string>containerTempleTop</string>
+	<key>sliderActivityDuration</key>
+	<string>baselineMementoShape</string>
+</dict>
+</plist>

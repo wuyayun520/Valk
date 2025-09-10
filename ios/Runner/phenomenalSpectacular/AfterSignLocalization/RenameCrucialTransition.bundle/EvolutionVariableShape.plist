@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackModeValidation</key>
+	<string>localPromiseFeedback</string>
+	<key>collectionPatternVisibility</key>
+	<string>desktopCallbackStatus</string>
+	<key>difficultMobileState</key>
+	<string>nativeDocumentDistance</string>
+	<key>intermediateTextDuration</key>
+	<string>vectorOrOperation</string>
+	<key>isolateActivityDepth</key>
+	<string>opaqueSubpixelTheme</string>
+	<key>masterBesideFacade</key>
+	<string>interpolationVariableForce</string>
+	<key>mediumClipperStatus</key>
+	<string>transitionEnvironmentState</string>
+	<key>mediumDocumentColor</key>
+	<string>interactiveLossMargin</string>
+	<key>statelessActionMomentum</key>
+	<string>gestureKindOffset</string>
+</dict>
+</plist>

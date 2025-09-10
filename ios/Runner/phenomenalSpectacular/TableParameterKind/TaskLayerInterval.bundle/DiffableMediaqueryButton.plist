@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorContainStage</key>
+	<string>previewJobFeedback</string>
+	<key>lossMethodEdge</key>
+	<string>matrixLayerMomentum</string>
+	<key>mainExtensionRight</key>
+	<string>stepAgainstLevel</string>
+	<key>nodeAdapterState</key>
+	<string>tabbarAgainstState</string>
+	<key>storeVariableScale</key>
+	<string>textureIncludeTask</string>
+	<key>variantAlongActivity</key>
+	<string>handlerProcessTheme</string>
+</dict>
+</plist>

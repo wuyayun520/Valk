@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseWithoutFramework</key>
+	<string>catalystActionFormat</string>
+	<key>builderContextShade</key>
+	<string>subpixelAndVisitor</string>
+	<key>futureIncludePhase</key>
+	<string>profileFrameworkFormat</string>
+	<key>iterativeAlignmentStyle</key>
+	<string>staticChecklistColor</string>
+	<key>permissiveProjectionOffset</key>
+	<string>movementDecoratorIndex</string>
+	<key>statelessAndType</key>
+	<string>permissiveSlashBottom</string>
+	<key>textInProcess</key>
+	<string>autoProgressbarStatus</string>
+</dict>
+</plist>

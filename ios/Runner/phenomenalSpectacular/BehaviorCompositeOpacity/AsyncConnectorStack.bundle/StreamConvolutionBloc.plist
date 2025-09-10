@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGraphSpacing</key>
+	<string>rowAndDecorator</string>
+	<key>accessibleUtilSpacing</key>
+	<string>futureInStyle</string>
+	<key>activeRowBound</key>
+	<string>basicCapsuleColor</string>
+	<key>sensorShapeState</key>
+	<string>reactiveManagerBound</string>
+	<key>tweenCycleBound</key>
+	<string>notificationLevelPressure</string>
+	<key>viewWithVariable</key>
+	<string>mediumCubitEdge</string>
+</dict>
+</plist>

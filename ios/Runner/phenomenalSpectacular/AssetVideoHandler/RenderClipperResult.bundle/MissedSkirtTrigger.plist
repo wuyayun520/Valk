@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistForContext</key>
+	<string>uniformAsyncTheme</string>
+	<key>configurationIncludeFramework</key>
+	<string>catalystAlongAction</string>
+	<key>curveFrameworkHue</key>
+	<string>unactivatedSegueInset</string>
+	<key>desktopIndicatorRotation</key>
+	<string>containerFlyweightInteraction</string>
+	<key>scrollableChannelMode</key>
+	<string>scrollableBitrateBound</string>
+	<key>secondBehaviorVelocity</key>
+	<string>subpixelAtChain</string>
+	<key>significantScrollScale</key>
+	<string>futureSystemRotation</string>
+	<key>smartSensorSize</key>
+	<string>zoneIncludeValue</string>
+	<key>typicalRowAppearance</key>
+	<string>listviewLikeForm</string>
+	<key>visiblePositionOrientation</key>
+	<string>lossContainStage</string>
+</dict>
+</plist>

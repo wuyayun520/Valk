@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerStrategySpeed</key>
+	<string>controllerAgainstFramework</string>
+	<key>providerStrategyTag</key>
+	<string>positionedInterpreterIndex</string>
+	<key>sceneWithoutFunction</key>
+	<string>fusedScaffoldBrightness</string>
+	<key>sizeParamFormat</key>
+	<string>asynchronousRiverpodScale</string>
+</dict>
+</plist>

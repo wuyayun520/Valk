@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRouterKind</key>
+	<string>animationBridgeCoord</string>
+	<key>draggableGraphTheme</key>
+	<string>immutableTweenForce</string>
+	<key>queryPatternSize</key>
+	<string>nodeInterpreterInterval</string>
+	<key>retainedCompleterResponse</key>
+	<string>similarAllocatorTail</string>
+</dict>
+</plist>

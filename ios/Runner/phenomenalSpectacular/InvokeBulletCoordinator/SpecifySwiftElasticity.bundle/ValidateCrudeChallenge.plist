@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveModeFeedback</key>
+	<string>eventDecoratorSaturation</string>
+	<key>eventAboutObserver</key>
+	<string>touchPlatformHue</string>
+	<key>grayscaleAroundStage</key>
+	<string>titleMementoHue</string>
+	<key>logarithmWithStrategy</key>
+	<string>dimensionWithoutState</string>
+	<key>modalViaProcess</key>
+	<string>blocTierShape</string>
+	<key>progressbarNumberColor</key>
+	<string>concurrentCertificateInteraction</string>
+	<key>subtleConvolutionMode</key>
+	<string>sensorAtMode</string>
+	<key>tangentFacadeShade</key>
+	<string>painterTierInterval</string>
+	<key>touchActionAcceleration</key>
+	<string>dedicatedRowPressure</string>
+</dict>
+</plist>

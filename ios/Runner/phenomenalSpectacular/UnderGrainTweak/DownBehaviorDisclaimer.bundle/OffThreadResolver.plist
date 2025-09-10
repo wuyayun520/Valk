@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonPreviewName</key>
+	<string>lazyResultSaturation</string>
+	<key>gemCommandInterval</key>
+	<string>desktopRequestCoord</string>
+	<key>inheritedApertureOrientation</key>
+	<string>hardDecorationContrast</string>
+	<key>robustConvolutionType</key>
+	<string>cycleFunctionOrigin</string>
+	<key>tabviewByFlyweight</key>
+	<string>decorationNumberDepth</string>
+	<key>typicalRowTag</key>
+	<string>gridViaKind</string>
+	<key>unsortedGridviewVelocity</key>
+	<string>frameLayerTension</string>
+	<key>usedGraphFormat</key>
+	<string>commandAndOperation</string>
+</dict>
+</plist>

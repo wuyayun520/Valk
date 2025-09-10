@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFromChain</key>
+	<string>concreteViewSkewy</string>
+	<key>blocCommandOffset</key>
+	<string>declarativeProjectDensity</string>
+	<key>fixedSpriteScale</key>
+	<string>graphStyleFrequency</string>
+	<key>futureDuringStage</key>
+	<string>spriteBeyondWork</string>
+	<key>granularExtensionBound</key>
+	<string>commandProcessOpacity</string>
+	<key>lostPlaybackScale</key>
+	<string>mediumCycleSpacing</string>
+	<key>paddingStrategyFeedback</key>
+	<string>widgetPerBridge</string>
+	<key>statelessThreadPadding</key>
+	<string>interfaceAsMediator</string>
+	<key>textfieldStageDepth</key>
+	<string>mainLossPressure</string>
+</dict>
+</plist>

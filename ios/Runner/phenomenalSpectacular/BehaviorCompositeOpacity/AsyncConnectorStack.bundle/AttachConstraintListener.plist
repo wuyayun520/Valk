@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryInWork</key>
+	<string>skinBridgeAppearance</string>
+	<key>cupertinoContainLevel</key>
+	<string>uniformResponseDistance</string>
+	<key>effectAroundFramework</key>
+	<string>textureFacadeOpacity</string>
+	<key>graphObserverSpacing</key>
+	<string>imagePrototypeType</string>
+	<key>promiseSystemShape</key>
+	<string>textureFunctionFlags</string>
+</dict>
+</plist>

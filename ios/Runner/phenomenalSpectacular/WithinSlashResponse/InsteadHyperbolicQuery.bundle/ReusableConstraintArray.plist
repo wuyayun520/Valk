@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewViaEnvironment</key>
+	<string>coordinatorOfTask</string>
+	<key>indicatorAgainstMode</key>
+	<string>associatedCosineState</string>
+	<key>multiCosineTheme</key>
+	<string>groupModeStatus</string>
+</dict>
+</plist>

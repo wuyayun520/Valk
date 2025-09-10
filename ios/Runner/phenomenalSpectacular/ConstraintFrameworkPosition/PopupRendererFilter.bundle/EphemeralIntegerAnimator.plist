@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVisitorOffset</key>
+	<string>layoutOrShape</string>
+	<key>graphicOrInterpreter</key>
+	<string>constContainerDuration</string>
+	<key>isolateIncludeStyle</key>
+	<string>globalTouchSpacing</string>
+	<key>missionAboutTask</key>
+	<string>explicitStorageMargin</string>
+	<key>smartInterpolationKind</key>
+	<string>cupertinoNodePosition</string>
+	<key>subtleRepositorySkewy</key>
+	<string>mutableNodeBound</string>
+	<key>subtleServiceDuration</key>
+	<string>sampleVersusTask</string>
+	<key>tweenLevelSkewy</key>
+	<string>asyncTopicSpacing</string>
+</dict>
+</plist>

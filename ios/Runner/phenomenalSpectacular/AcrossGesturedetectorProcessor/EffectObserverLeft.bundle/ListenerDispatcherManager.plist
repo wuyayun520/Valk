@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAboutShape</key>
+	<string>concurrentBulletVisible</string>
+	<key>easyTaskDepth</key>
+	<string>deferredCustompaintIndex</string>
+	<key>layerEnvironmentAcceleration</key>
+	<string>batchAgainstDecorator</string>
+	<key>positionProxyOpacity</key>
+	<string>statefulIncludeBridge</string>
+	<key>semanticChannelHue</key>
+	<string>relationalRectType</string>
+	<key>sortedEffectFrequency</key>
+	<string>progressbarFlyweightColor</string>
+	<key>vectorMediatorRotation</key>
+	<string>diffableQueueMargin</string>
+</dict>
+</plist>

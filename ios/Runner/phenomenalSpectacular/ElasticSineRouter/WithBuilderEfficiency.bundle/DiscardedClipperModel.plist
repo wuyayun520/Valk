@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStyleDelay</key>
+	<string>singletonNearSystem</string>
+	<key>explicitOptionSpacing</key>
+	<string>flexibleVariantVelocity</string>
+	<key>intensityThroughAdapter</key>
+	<string>modalWithPrototype</string>
+	<key>multiSpriteIndex</key>
+	<string>taskAgainstJob</string>
+	<key>notificationNumberOpacity</key>
+	<string>nativeAllocatorBrightness</string>
+	<key>observerMediatorCenter</key>
+	<string>timerAtMediator</string>
+	<key>particleAsStage</key>
+	<string>grayscaleStageCenter</string>
+	<key>priorResultTension</key>
+	<string>vectorStrategyDelay</string>
+	<key>transitionPatternPosition</key>
+	<string>mutableCubitOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternFeedback</key>
+	<string>arithmeticListviewMargin</string>
+	<key>checkboxTaskPressure</key>
+	<string>euclideanAxisScale</string>
+	<key>checklistVariableTransparency</key>
+	<string>entityActivityPadding</string>
+	<key>deferredTouchCount</key>
+	<string>originalContainerPressure</string>
+	<key>gridInsideLayer</key>
+	<string>effectVisitorHue</string>
+	<key>requiredGestureAcceleration</key>
+	<string>subtleRequestDepth</string>
+	<key>substantialDrawerBehavior</key>
+	<string>slashAboutParam</string>
+	<key>textBridgeTransparency</key>
+	<string>masterFunctionVisible</string>
+</dict>
+</plist>

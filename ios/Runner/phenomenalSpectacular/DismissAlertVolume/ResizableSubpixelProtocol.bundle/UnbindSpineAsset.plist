@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStageVisible</key>
+	<string>missionLayerCenter</string>
+	<key>channelsViaActivity</key>
+	<string>immutableCallbackBound</string>
+	<key>denseViewAlignment</key>
+	<string>iconWithCycle</string>
+	<key>dependencyOrProxy</key>
+	<string>dimensionParameterTail</string>
+	<key>futureLikeContext</key>
+	<string>eventCompositeShade</string>
+	<key>gradientOrBuffer</key>
+	<string>consultativeRadioInterval</string>
+	<key>metadataTierDepth</key>
+	<string>topicInsideFlyweight</string>
+	<key>nativeDecorationInteraction</key>
+	<string>routerAndBridge</string>
+	<key>providerFrameworkDepth</key>
+	<string>overlayContextBorder</string>
+	<key>subtleObserverRotation</key>
+	<string>primaryCommandColor</string>
+</dict>
+</plist>

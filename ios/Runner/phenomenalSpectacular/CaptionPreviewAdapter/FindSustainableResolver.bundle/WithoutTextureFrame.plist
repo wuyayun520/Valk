@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalManagerCount</key>
+	<string>eventThroughStrategy</string>
+	<key>dependencyBeyondCycle</key>
+	<string>effectAmongComposite</string>
+	<key>gradientAwayActivity</key>
+	<string>denseSliderOffset</string>
+	<key>indicatorBeyondAction</key>
+	<string>mobileSingletonBottom</string>
+	<key>nibFlyweightStyle</key>
+	<string>exceptionStateCoord</string>
+	<key>originalBaseRate</key>
+	<string>sineUntilPrototype</string>
+	<key>stateUntilPrototype</key>
+	<string>tweenStateCenter</string>
+	<key>statelessBuilderOrientation</key>
+	<string>layerMementoHead</string>
+</dict>
+</plist>

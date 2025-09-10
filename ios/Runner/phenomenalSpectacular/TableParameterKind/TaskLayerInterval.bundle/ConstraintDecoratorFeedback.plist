@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionContextFrequency</key>
+	<string>accessoryContainProcess</string>
+	<key>apertureSystemVisibility</key>
+	<string>methodExceptActivity</string>
+	<key>boxFormShade</key>
+	<string>imperativeGraphicFlags</string>
+	<key>coordinatorStageSpeed</key>
+	<string>inheritedInstructionVelocity</string>
+	<key>geometricBufferInteraction</key>
+	<string>basicSubpixelTop</string>
+	<key>histogramAlongEnvironment</key>
+	<string>loopOperationPadding</string>
+	<key>permanentFrameTransparency</key>
+	<string>masterBeyondContext</string>
+	<key>projectionLevelInset</key>
+	<string>synchronousStateTint</string>
+	<key>stateMementoSpeed</key>
+	<string>threadAtChain</string>
+</dict>
+</plist>

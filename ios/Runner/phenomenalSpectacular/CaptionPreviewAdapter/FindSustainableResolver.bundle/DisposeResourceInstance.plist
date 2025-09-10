@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSinceVisitor</key>
+	<string>callbackBeyondInterpreter</string>
+	<key>equalizationStrategyName</key>
+	<string>tweenDecoratorFeedback</string>
+	<key>mobxTemplePressure</key>
+	<string>curveLayerTint</string>
+	<key>sizeFromMediator</key>
+	<string>rectIncludeMemento</string>
+	<key>streamForStage</key>
+	<string>taskStateSpeed</string>
+	<key>textSinceMediator</key>
+	<string>gesturedetectorAndPattern</string>
+	<key>webTextureColor</key>
+	<string>diffableApertureScale</string>
+</dict>
+</plist>

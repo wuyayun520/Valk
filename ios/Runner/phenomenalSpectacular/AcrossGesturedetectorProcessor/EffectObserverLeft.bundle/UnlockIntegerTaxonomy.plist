@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableGiftScale</key>
+	<string>commandWithMediator</string>
+	<key>coordinatorExceptAdapter</key>
+	<string>timerAgainstMemento</string>
+	<key>cycleFromFunction</key>
+	<string>monsterAgainstComposite</string>
+	<key>logShapeDistance</key>
+	<string>allocatorStructureHue</string>
+	<key>lossNearActivity</key>
+	<string>immutableQueueKind</string>
+	<key>normVariableMargin</key>
+	<string>binaryStyleResponse</string>
+	<key>providerActionMode</key>
+	<string>sharedFragmentValidation</string>
+</dict>
+</plist>

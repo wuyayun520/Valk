@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperParamInset</key>
+	<string>catalystFlyweightPadding</string>
+	<key>concurrentSemanticsRotation</key>
+	<string>segmentViaAction</string>
+	<key>cubeEnvironmentMode</key>
+	<string>animationChainPadding</string>
+	<key>functionalEqualizationName</key>
+	<string>constraintStateContrast</string>
+	<key>modalCompositeKind</key>
+	<string>crucialPositionedCoord</string>
+	<key>navigatorPrototypeVisibility</key>
+	<string>providerVariableVelocity</string>
+	<key>resultByVisitor</key>
+	<string>mobileCommandBehavior</string>
+	<key>sampleNearAdapter</key>
+	<string>disabledStoreDirection</string>
+	<key>synchronousFeatureColor</key>
+	<string>taskExceptScope</string>
+</dict>
+</plist>

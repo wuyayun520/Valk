@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationModePadding</key>
+	<string>asyncActivityBorder</string>
+	<key>dedicatedUtilState</key>
+	<string>lazyTimerVelocity</string>
+	<key>interpolationPrototypeHue</key>
+	<string>taskFromScope</string>
+	<key>normalInterfaceSpacing</key>
+	<string>providerAlongWork</string>
+	<key>singletonWithScope</key>
+	<string>mutableNodeColor</string>
+</dict>
+</plist>

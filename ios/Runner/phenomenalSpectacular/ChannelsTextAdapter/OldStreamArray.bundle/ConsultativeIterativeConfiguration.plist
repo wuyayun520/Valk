@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePetRight</key>
+	<string>textOperationStyle</string>
+	<key>buttonOfForm</key>
+	<string>adaptiveAppbarOrientation</string>
+	<key>cupertinoProviderScale</key>
+	<string>scaffoldAsAction</string>
+	<key>normAtContext</key>
+	<string>subscriptionEnvironmentRotation</string>
+	<key>primaryExpandedFlags</key>
+	<string>touchPhaseBorder</string>
+	<key>transformerWorkTransparency</key>
+	<string>exponentNumberHead</string>
+</dict>
+</plist>

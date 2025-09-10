@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionBesideVisitor</key>
+	<string>cacheViaShape</string>
+	<key>constraintFormShade</key>
+	<string>crudeInteractorAcceleration</string>
+	<key>cubitLevelBehavior</key>
+	<string>delicateEffectInterval</string>
+	<key>cupertinoUnaryAppearance</key>
+	<string>sharedSpotShade</string>
+	<key>dimensionActivityDistance</key>
+	<string>intensityValueCenter</string>
+</dict>
+</plist>

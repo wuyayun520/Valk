@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFrameworkScale</key>
+	<string>permanentCapsuleOrientation</string>
+	<key>asyncChainShape</key>
+	<string>sineAroundObserver</string>
+	<key>desktopNodeStatus</key>
+	<string>sliderIncludeMediator</string>
+	<key>equalizationCommandDensity</key>
+	<string>unaryContainCommand</string>
+	<key>errorIncludePlatform</key>
+	<string>mediaqueryInsideForm</string>
+	<key>permissiveVariantState</key>
+	<string>particleActionFrequency</string>
+	<key>responsiveFragmentRotation</key>
+	<string>frameAndParameter</string>
+	<key>statefulScrollIndex</key>
+	<string>screenVariableBottom</string>
+</dict>
+</plist>

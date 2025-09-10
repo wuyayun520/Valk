@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSystemRight</key>
+	<string>unsortedProviderAppearance</string>
+	<key>asynchronousQueryAcceleration</key>
+	<string>requestEnvironmentFlags</string>
+	<key>awaitByValue</key>
+	<string>directlyMobileResponse</string>
+	<key>controllerCommandScale</key>
+	<string>asyncSinkBehavior</string>
+	<key>dropdownbuttonPerStrategy</key>
+	<string>localCapsuleHue</string>
+	<key>painterAdapterScale</key>
+	<string>titleAlongProxy</string>
+</dict>
+</plist>

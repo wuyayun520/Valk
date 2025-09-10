@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPreviewTransparency</key>
+	<string>mediocreMethodBound</string>
+	<key>commandContainMode</key>
+	<string>methodValueMode</string>
+	<key>commonRadiusAcceleration</key>
+	<string>stateVersusVar</string>
+	<key>painterFacadeInteraction</key>
+	<string>activityMementoOrigin</string>
+	<key>repositoryChainSpeed</key>
+	<string>resourceAroundChain</string>
+	<key>segmentStyleRotation</key>
+	<string>sequentialStoryboardFeedback</string>
+	<key>stepStateSpeed</key>
+	<string>completionContextCoord</string>
+	<key>techniqueFacadeRate</key>
+	<string>activeDelegateCount</string>
+</dict>
+</plist>

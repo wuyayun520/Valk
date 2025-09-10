@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellThroughNumber</key>
+	<string>segmentDuringAction</string>
+	<key>managerScopeShade</key>
+	<string>scaleWithFlyweight</string>
+	<key>optionMediatorDelay</key>
+	<string>radioVersusActivity</string>
+	<key>secondStateDirection</key>
+	<string>semanticsAmongProcess</string>
+	<key>sizePhaseVelocity</key>
+	<string>grainAroundCommand</string>
+</dict>
+</plist>

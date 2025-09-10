@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentWorkShade</key>
+	<string>desktopTransitionContrast</string>
+	<key>gridStyleTransparency</key>
+	<string>rowTempleShape</string>
+	<key>instructionModeTheme</key>
+	<string>retainedClipperTransparency</string>
+	<key>providerChainValidation</key>
+	<string>persistentProfileType</string>
+	<key>referenceDuringMode</key>
+	<string>localStateOrigin</string>
+	<key>stepAroundEnvironment</key>
+	<string>hashAwayValue</string>
+	<key>uniformNavigationResponse</key>
+	<string>navigationAboutMode</string>
+</dict>
+</plist>

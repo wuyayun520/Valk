@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStyleFlags</key>
+	<string>resourcePerStructure</string>
+	<key>builderFacadeVisibility</key>
+	<string>interpolationAroundVariable</string>
+	<key>promiseAboutStage</key>
+	<string>chartJobOffset</string>
+	<key>resultSingletonValidation</key>
+	<string>constraintViaBuffer</string>
+	<key>scrollableSliderDepth</key>
+	<string>alertModeInterval</string>
+	<key>subtleFragmentRotation</key>
+	<string>interfaceBeyondBuffer</string>
+</dict>
+</plist>

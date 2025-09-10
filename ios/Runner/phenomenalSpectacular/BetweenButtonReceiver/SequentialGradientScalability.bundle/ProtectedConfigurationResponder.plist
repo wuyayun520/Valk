@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverShade</key>
+	<string>crucialLayoutRotation</string>
+	<key>frameStyleShape</key>
+	<string>gateDecoratorAcceleration</string>
+	<key>routeUntilFlyweight</key>
+	<string>resolverLevelType</string>
+	<key>scaleByParam</key>
+	<string>coordinatorVariableBorder</string>
+	<key>statelessCoordinatorStyle</key>
+	<string>stepVersusPattern</string>
+</dict>
+</plist>

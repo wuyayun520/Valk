@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProcessRotation</key>
+	<string>easyTextCoord</string>
+	<key>allocatorInsideContext</key>
+	<string>bufferVersusStyle</string>
+	<key>arithmeticProfileState</key>
+	<string>declarativeCubitEdge</string>
+	<key>customizedStampDirection</key>
+	<string>descriptionAndBridge</string>
+	<key>decorationStrategyContrast</key>
+	<string>explicitAssetSkewx</string>
+	<key>gridviewSingletonBottom</key>
+	<string>decorationSinceVariable</string>
+	<key>handlerParameterInset</key>
+	<string>unactivatedQueryInterval</string>
+	<key>inkwellTypeDepth</key>
+	<string>fusedSingletonState</string>
+	<key>widgetKindInset</key>
+	<string>riverpodByAction</string>
+</dict>
+</plist>

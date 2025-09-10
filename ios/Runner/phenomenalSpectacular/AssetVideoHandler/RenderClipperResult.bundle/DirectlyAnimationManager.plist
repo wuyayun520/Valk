@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegueMargin</key>
+	<string>localConstraintTag</string>
+	<key>boxshadowLevelScale</key>
+	<string>pointOrBuffer</string>
+	<key>cardFromSingleton</key>
+	<string>normalModelFlags</string>
+	<key>concurrentProviderStyle</key>
+	<string>coordinatorBeyondLevel</string>
+	<key>curveCompositeDepth</key>
+	<string>streamStrategyDepth</string>
+	<key>declarativeResourceDelay</key>
+	<string>masterAwayPlatform</string>
+	<key>handlerPerMemento</key>
+	<string>containerBridgeOpacity</string>
+	<key>themeAsFunction</key>
+	<string>temporaryContainerTension</string>
+</dict>
+</plist>

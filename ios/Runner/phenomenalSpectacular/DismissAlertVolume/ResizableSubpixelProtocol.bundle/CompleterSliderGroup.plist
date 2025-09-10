@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFormInterval</key>
+	<string>errorObserverTransparency</string>
+	<key>errorTypeFormat</key>
+	<string>denseMarginFeedback</string>
+	<key>resourceValueFormat</key>
+	<string>layoutChainIndex</string>
+	<key>skinBridgeAppearance</key>
+	<string>newestHashAlignment</string>
+	<key>vectorPrototypeOrientation</key>
+	<string>extensionStyleBound</string>
+</dict>
+</plist>

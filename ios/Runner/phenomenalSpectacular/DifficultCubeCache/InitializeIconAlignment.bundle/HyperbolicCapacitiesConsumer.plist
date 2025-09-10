@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedServicePosition</key>
+	<string>sliderAtAction</string>
+	<key>baselineOutsideInterpreter</key>
+	<string>inactiveTopicCoord</string>
+	<key>commandBeyondMode</key>
+	<string>discardedStreamPadding</string>
+	<key>declarativeDelegateOrientation</key>
+	<string>modelParameterContrast</string>
+	<key>effectPatternContrast</key>
+	<string>permissivePromiseFeedback</string>
+	<key>firstStackTag</key>
+	<string>similarFrameName</string>
+	<key>layerAdapterMargin</key>
+	<string>curveParamValidation</string>
+	<key>liteLoopScale</key>
+	<string>spineByVisitor</string>
+</dict>
+</plist>

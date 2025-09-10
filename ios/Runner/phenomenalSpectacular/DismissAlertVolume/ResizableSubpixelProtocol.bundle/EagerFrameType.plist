@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFunctionInteraction</key>
+	<string>modalMediatorOrientation</string>
+	<key>eventLevelContrast</key>
+	<string>advancedSubpixelBottom</string>
+	<key>multiSessionBrightness</key>
+	<string>pinchableAsyncInterval</string>
+	<key>resilientListviewTheme</key>
+	<string>difficultTextfieldRate</string>
+	<key>segmentStrategyAcceleration</key>
+	<string>momentumBeyondChain</string>
+	<key>swiftLikePhase</key>
+	<string>clipperOutsideBridge</string>
+	<key>taskAtLayer</key>
+	<string>storeFromPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPerType</key>
+	<string>customCompletionCount</string>
+	<key>bufferParamFlags</key>
+	<string>durationPlatformScale</string>
+	<key>cubitAmongType</key>
+	<string>integerVarBottom</string>
+	<key>radiusModeStatus</key>
+	<string>optimizerDespiteVisitor</string>
+	<key>segueOperationStatus</key>
+	<string>concurrentHandlerStatus</string>
+	<key>tabviewFacadeTint</key>
+	<string>labelInterpreterOffset</string>
+	<key>taskFunctionDuration</key>
+	<string>riverpodProcessKind</string>
+	<key>usecaseAsLayer</key>
+	<string>originalCellIndex</string>
+</dict>
+</plist>

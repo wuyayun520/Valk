@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCommandBehavior</key>
+	<string>resolverSingletonLeft</string>
+	<key>bitrateAwayMemento</key>
+	<string>composableSwitchShade</string>
+	<key>desktopRowShade</key>
+	<string>rowAwayMemento</string>
+	<key>discardedIntensityMode</key>
+	<string>rectWithJob</string>
+	<key>gemStyleSpeed</key>
+	<string>animationFromEnvironment</string>
+	<key>lastToolPosition</key>
+	<string>titleWorkStatus</string>
+	<key>mainResultRight</key>
+	<string>requiredTextfieldCount</string>
+	<key>retainedNavigatorRotation</key>
+	<string>mediaVersusOperation</string>
+	<key>ternaryAwayKind</key>
+	<string>heroBridgeOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentLayerKind</key>
+	<string>easyGemBorder</string>
+	<key>managerTaskDensity</key>
+	<string>commonRadioFormat</string>
+	<key>semanticNibScale</key>
+	<string>loopInContext</string>
+	<key>topicShapeOffset</key>
+	<string>cardWithComposite</string>
+</dict>
+</plist>

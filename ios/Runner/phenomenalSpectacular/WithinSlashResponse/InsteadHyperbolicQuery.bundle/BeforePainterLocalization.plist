@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFromTier</key>
+	<string>euclideanScaffoldSpacing</string>
+	<key>gramIncludeOperation</key>
+	<string>transformerJobDuration</string>
+	<key>managerWorkStyle</key>
+	<string>tappableSliderAlignment</string>
+	<key>navigatorVersusAdapter</key>
+	<string>heapModeBorder</string>
+	<key>popupAboutCommand</key>
+	<string>prismaticLossInteraction</string>
+	<key>radioAwayCommand</key>
+	<string>stepFlyweightVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAtComposite</key>
+	<string>ignoredCubeScale</string>
+	<key>handlerIncludeProcess</key>
+	<string>animatedBlocVisible</string>
+	<key>instructionViaVariable</key>
+	<string>pageviewStagePadding</string>
+	<key>interpolationForPlatform</key>
+	<string>sliderJobTag</string>
+	<key>playbackParameterVisibility</key>
+	<string>statefulListenerAcceleration</string>
+	<key>publicSizeTint</key>
+	<string>scrollableCosineColor</string>
+	<key>subsequentPresenterSpeed</key>
+	<string>transformerAmongInterpreter</string>
+	<key>taskAmongInterpreter</key>
+	<string>singletonBeyondAction</string>
+</dict>
+</plist>

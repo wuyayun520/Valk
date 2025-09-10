@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionByTier</key>
+	<string>timerStateColor</string>
+	<key>displayableHistogramInterval</key>
+	<string>alertCommandAppearance</string>
+	<key>elasticErrorBound</key>
+	<string>robustSemanticsMode</string>
+	<key>ephemeralOverlayTop</key>
+	<string>curveStageResponse</string>
+	<key>handlerOperationFlags</key>
+	<string>opaqueClipperAlignment</string>
+	<key>heapAdapterBehavior</key>
+	<string>lostBaselineLocation</string>
+	<key>localizationValueVisible</key>
+	<string>rowInMemento</string>
+	<key>spotAwayMethod</key>
+	<string>draggableRadiusBorder</string>
+	<key>storageOrSingleton</key>
+	<string>riverpodOutsideTemple</string>
+	<key>subpixelSystemDirection</key>
+	<string>particleDespiteMediator</string>
+</dict>
+</plist>

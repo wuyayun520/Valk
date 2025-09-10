@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionWithScope</key>
+	<string>rectOperationHue</string>
+	<key>integerWorkBorder</key>
+	<string>localPopupContrast</string>
+	<key>sliderFromStyle</key>
+	<string>grainKindStatus</string>
+	<key>smallTopicMode</key>
+	<string>uniqueProgressbarTag</string>
+</dict>
+</plist>

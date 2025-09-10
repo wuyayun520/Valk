@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobDuration</key>
+	<string>viewAwayVariable</string>
+	<key>channelAdapterFrequency</key>
+	<string>handlerVersusChain</string>
+	<key>hierarchicalPlateBottom</key>
+	<string>coordinatorScopeSkewx</string>
+	<key>providerVersusWork</key>
+	<string>taskSingletonOrigin</string>
+</dict>
+</plist>

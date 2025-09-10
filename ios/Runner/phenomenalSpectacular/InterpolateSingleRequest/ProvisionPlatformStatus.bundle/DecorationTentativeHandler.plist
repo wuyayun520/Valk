@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterViaFramework</key>
+	<string>multiDecorationFrequency</string>
+	<key>fixedConstraintShade</key>
+	<string>operationBridgeColor</string>
+	<key>fragmentWithScope</key>
+	<string>injectionStateBottom</string>
+	<key>greatOperationStatus</key>
+	<string>mainContainerTransparency</string>
+	<key>richtextModeTransparency</key>
+	<string>rectEnvironmentAlignment</string>
+	<key>transitionAgainstLayer</key>
+	<string>entityVariableScale</string>
+	<key>widgetInsideValue</key>
+	<string>entityOperationKind</string>
+</dict>
+</plist>

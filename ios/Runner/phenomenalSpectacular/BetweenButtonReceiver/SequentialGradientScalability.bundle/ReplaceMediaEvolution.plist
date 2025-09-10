@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStrategySize</key>
+	<string>effectIncludeAdapter</string>
+	<key>cubitInterpreterFrequency</key>
+	<string>declarativeGridResponse</string>
+	<key>displayableLayerOrientation</key>
+	<string>vectorIncludeStyle</string>
+	<key>gemModeMargin</key>
+	<string>playbackFormEdge</string>
+	<key>layoutAmongTask</key>
+	<string>sortedConstraintMomentum</string>
+	<key>modelPrototypeSpacing</key>
+	<string>awaitProcessDepth</string>
+	<key>prismaticIntegerInset</key>
+	<string>progressbarAdapterDepth</string>
+	<key>serviceContextRate</key>
+	<string>signatureContainAction</string>
+</dict>
+</plist>

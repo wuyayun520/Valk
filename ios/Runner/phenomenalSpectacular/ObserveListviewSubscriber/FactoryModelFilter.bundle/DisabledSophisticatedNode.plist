@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerDecoratorVisibility</key>
+	<string>lazyTaskBrightness</string>
+	<key>resourceMethodTransparency</key>
+	<string>associatedLayoutDistance</string>
+	<key>rowNumberTension</key>
+	<string>rowVersusStage</string>
+	<key>sampleNearState</key>
+	<string>semanticLoopInset</string>
+	<key>scaffoldPrototypeMomentum</key>
+	<string>protocolOutsideFlyweight</string>
+	<key>sineThanPlatform</key>
+	<string>chapterStateBehavior</string>
+	<key>visibleRepositoryTag</key>
+	<string>labelAndAdapter</string>
+</dict>
+</plist>

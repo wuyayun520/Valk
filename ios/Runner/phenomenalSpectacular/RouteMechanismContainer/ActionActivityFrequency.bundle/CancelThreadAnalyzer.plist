@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMetadataEdge</key>
+	<string>associatedWorkflowBehavior</string>
+	<key>callbackNumberSize</key>
+	<string>completerFromObserver</string>
+	<key>containerNumberOrientation</key>
+	<string>baseInPhase</string>
+	<key>dropdownbuttonTempleAppearance</key>
+	<string>completerScopeShade</string>
+	<key>equalizationStateTint</key>
+	<string>publicCharacterFrequency</string>
+	<key>textureBridgeState</key>
+	<string>durationBridgeVisible</string>
+</dict>
+</plist>

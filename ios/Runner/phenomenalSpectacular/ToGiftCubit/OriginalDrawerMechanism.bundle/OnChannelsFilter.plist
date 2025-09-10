@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedPositionedOrientation</key>
+	<string>titleContextVisible</string>
+	<key>entityFromMediator</key>
+	<string>playbackParamType</string>
+	<key>immediateModelSpacing</key>
+	<string>captionAsOperation</string>
+	<key>petPerBuffer</key>
+	<string>textureOrTier</string>
+	<key>requiredBehaviorFormat</key>
+	<string>timerBridgeDistance</string>
+	<key>sequentialMobxState</key>
+	<string>euclideanConfigurationMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThanPhase</key>
+	<string>unaryUntilKind</string>
+	<key>bulletContainDecorator</key>
+	<string>characterViaBridge</string>
+	<key>customizedSensorMode</key>
+	<string>statefulRiverpodCount</string>
+	<key>layoutTypeSkewx</key>
+	<string>unaryTempleContrast</string>
+	<key>primaryQueueBottom</key>
+	<string>localizationAsSingleton</string>
+</dict>
+</plist>

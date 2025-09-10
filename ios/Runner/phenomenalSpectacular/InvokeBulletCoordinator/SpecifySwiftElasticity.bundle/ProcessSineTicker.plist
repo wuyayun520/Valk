@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTempleBound</key>
+	<string>batchExceptChain</string>
+	<key>cubitAtLayer</key>
+	<string>animatedcontainerIncludeActivity</string>
+	<key>currentNotificationTag</key>
+	<string>localInteractorBrightness</string>
+	<key>durationBeyondVisitor</key>
+	<string>compositionalUtilDepth</string>
+	<key>equipmentPlatformFlags</key>
+	<string>descriptionBeyondFunction</string>
+	<key>granularEventEdge</key>
+	<string>interactorOperationPosition</string>
+	<key>screenProxyBorder</key>
+	<string>tensorCaptionDensity</string>
+	<key>scrollPerTier</key>
+	<string>menuAroundDecorator</string>
+	<key>smartControllerIndex</key>
+	<string>iconWithOperation</string>
+	<key>specifierCycleRotation</key>
+	<string>promiseParamSaturation</string>
+</dict>
+</plist>

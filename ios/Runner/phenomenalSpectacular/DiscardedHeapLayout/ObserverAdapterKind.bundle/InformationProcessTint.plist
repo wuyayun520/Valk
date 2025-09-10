@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAndFacade</key>
+	<string>singletonOperationSpeed</string>
+	<key>curveBridgeDistance</key>
+	<string>explicitResourceSpacing</string>
+	<key>grayscaleStageAcceleration</key>
+	<string>visibleAnchorCoord</string>
+	<key>liteApertureInteraction</key>
+	<string>allocatorAroundAction</string>
+	<key>resultThanStyle</key>
+	<string>intensityAtState</string>
+	<key>threadOperationRight</key>
+	<string>curveOrCommand</string>
+	<key>transformerContainFramework</key>
+	<string>builderCommandTail</string>
+	<key>utilFacadeName</key>
+	<string>capacitiesWithoutScope</string>
+</dict>
+</plist>

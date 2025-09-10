@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForWork</key>
+	<string>smallTransitionHead</string>
+	<key>associatedDelegateSkewy</key>
+	<string>commandBufferBehavior</string>
+	<key>constAnimationState</key>
+	<string>momentumNearComposite</string>
+	<key>signatureIncludeMemento</key>
+	<string>cartesianSwitchSpeed</string>
+	<key>tickerTierRate</key>
+	<string>hardCallbackInterval</string>
+	<key>timerInterpreterMode</key>
+	<string>integerNumberDensity</string>
+	<key>usedAnchorVisibility</key>
+	<string>animatedcontainerActivityInset</string>
+</dict>
+</plist>

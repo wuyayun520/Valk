@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineProxyBrightness</key>
+	<string>queueByStrategy</string>
+	<key>effectLevelContrast</key>
+	<string>iconInProxy</string>
+	<key>mobxAmongSystem</key>
+	<string>previewViaActivity</string>
+	<key>modulusProxySaturation</key>
+	<string>observerAboutMode</string>
+	<key>permissiveDrawerFlags</key>
+	<string>serviceStrategyBrightness</string>
+	<key>significantCommandSaturation</key>
+	<string>usecaseOfContext</string>
+	<key>specifyPresenterPosition</key>
+	<string>protectedApertureLeft</string>
+	<key>toolAwayMediator</key>
+	<string>delegateDecoratorCoord</string>
+	<key>usecaseAdapterHue</key>
+	<string>logSingletonForce</string>
+</dict>
+</plist>

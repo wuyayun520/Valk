@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOrTemple</key>
+	<string>workflowDecoratorBorder</string>
+	<key>anchorFormSize</key>
+	<string>dependencyFromDecorator</string>
+	<key>asynchronousGrainMode</key>
+	<string>segueDuringTask</string>
+	<key>buttonEnvironmentHead</key>
+	<string>touchCompositeAppearance</string>
+	<key>optimizerAlongAction</key>
+	<string>responseExceptOperation</string>
+	<key>smallGraphicSpeed</key>
+	<string>operationSingletonFeedback</string>
+	<key>switchAdapterTension</key>
+	<string>layerThroughVisitor</string>
+</dict>
+</plist>

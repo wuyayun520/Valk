@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStepFeedback</key>
+	<string>dynamicSineOffset</string>
+	<key>eventAtVariable</key>
+	<string>cupertinoAsLayer</string>
+	<key>mobxViaLayer</key>
+	<string>timerActivityDirection</string>
+	<key>primaryPopupLeft</key>
+	<string>stateContainSingleton</string>
+	<key>providerActionFlags</key>
+	<string>baseActivityLocation</string>
+	<key>responsiveThreadDelay</key>
+	<string>imperativeGramContrast</string>
+	<key>robustCallbackCoord</key>
+	<string>nextLayoutDepth</string>
+</dict>
+</plist>

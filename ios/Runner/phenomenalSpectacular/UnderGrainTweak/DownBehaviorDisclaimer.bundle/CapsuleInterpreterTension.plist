@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredCardMode</key>
+	<string>accessoryFrameworkName</string>
+	<key>gestureWithCommand</key>
+	<string>fixedPositionedMomentum</string>
+	<key>nativeRiverpodAcceleration</key>
+	<string>inactiveResponseName</string>
+	<key>semanticHashHead</key>
+	<string>dynamicExceptionOrientation</string>
+</dict>
+</plist>

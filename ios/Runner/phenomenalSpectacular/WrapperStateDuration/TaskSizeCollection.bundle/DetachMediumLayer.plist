@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxForFramework</key>
+	<string>flexDespiteAdapter</string>
+	<key>cardContainPattern</key>
+	<string>constEventSaturation</string>
+	<key>channelProcessVisibility</key>
+	<string>seamlessControllerDepth</string>
+	<key>delegateDuringFramework</key>
+	<string>granularCurveSpeed</string>
+	<key>interactorBridgeEdge</key>
+	<string>asynchronousRequestFlags</string>
+	<key>operationStrategyTag</key>
+	<string>constraintForFramework</string>
+	<key>pointStageCoord</key>
+	<string>chartStageHue</string>
+	<key>sinkContainShape</key>
+	<string>interactiveMasterTail</string>
+	<key>sliderSinceType</key>
+	<string>catalystInTemple</string>
+</dict>
+</plist>

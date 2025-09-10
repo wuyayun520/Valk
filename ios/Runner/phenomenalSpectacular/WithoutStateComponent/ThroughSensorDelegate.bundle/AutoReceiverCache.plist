@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateLayoutResponse</key>
+	<string>effectStageSize</string>
+	<key>draggableTweenSkewy</key>
+	<string>cartesianNormEdge</string>
+	<key>scrollableScrollSkewx</key>
+	<string>resultPhaseType</string>
+	<key>sizedboxProxyDensity</key>
+	<string>resolverStructurePosition</string>
+	<key>stateFacadeLeft</key>
+	<string>storageDuringFlyweight</string>
+	<key>synchronousStateBehavior</key>
+	<string>cycleAroundChain</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStampTheme</key>
+	<string>alertInsideMode</string>
+	<key>directlyProgressbarVisible</key>
+	<string>kernelAroundObserver</string>
+	<key>discardedTransitionBottom</key>
+	<string>skinSystemTransparency</string>
+	<key>popupVariableMode</key>
+	<string>nativeMediaBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStateContrast</key>
+	<string>managerAgainstSystem</string>
+	<key>custompaintWithVisitor</key>
+	<string>chartAmongMediator</string>
+	<key>flexValueDistance</key>
+	<string>inheritedEffectInset</string>
+	<key>pinchableLayerTint</key>
+	<string>immutableChecklistDirection</string>
+	<key>sliderPlatformTop</key>
+	<string>operationFrameworkAcceleration</string>
+</dict>
+</plist>

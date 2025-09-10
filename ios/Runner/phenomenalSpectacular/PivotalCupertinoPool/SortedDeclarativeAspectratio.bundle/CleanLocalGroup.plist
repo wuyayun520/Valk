@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOfStage</key>
+	<string>originalViewIndex</string>
+	<key>coordinatorAwayMethod</key>
+	<string>timerLikeFacade</string>
+	<key>criticalPointBound</key>
+	<string>projectPlatformEdge</string>
+	<key>effectAndStyle</key>
+	<string>liteQueueState</string>
+	<key>gridWithoutJob</key>
+	<string>statefulTransitionKind</string>
+	<key>layoutThanChain</key>
+	<string>presenterThroughVar</string>
+	<key>multiplicationTierOffset</key>
+	<string>crucialCacheForce</string>
+	<key>particleBufferPadding</key>
+	<string>resizableResourceVisibility</string>
+	<key>subscriptionAndForm</key>
+	<string>iterativeQueueColor</string>
+</dict>
+</plist>

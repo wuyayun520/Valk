@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxOperationColor</key>
+	<string>subsequentSpotKind</string>
+	<key>dynamicUsecaseFrequency</key>
+	<string>cacheEnvironmentVisible</string>
+	<key>interfaceStateInterval</key>
+	<string>widgetPlatformDensity</string>
+	<key>priorRoleSaturation</key>
+	<string>navigatorSystemCenter</string>
+	<key>resultOrMode</key>
+	<string>semanticSwitchName</string>
+	<key>swiftPlatformColor</key>
+	<string>factoryPhaseType</string>
+</dict>
+</plist>

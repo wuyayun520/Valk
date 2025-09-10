@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCompositeShade</key>
+	<string>denseNavigationEdge</string>
+	<key>coordinatorAndChain</key>
+	<string>stampStateAcceleration</string>
+	<key>inheritedWidgetColor</key>
+	<string>optionLayerOpacity</string>
+	<key>notifierAroundLayer</key>
+	<string>subscriptionWorkFormat</string>
+	<key>retainedFragmentBehavior</key>
+	<string>immutableFrameTransparency</string>
+	<key>semanticStreamCount</key>
+	<string>navigationContextTheme</string>
+</dict>
+</plist>

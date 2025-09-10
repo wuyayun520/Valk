@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioValueSpeed</key>
+	<string>statefulEventInterval</string>
+	<key>elasticSizeOpacity</key>
+	<string>progressbarFromBridge</string>
+	<key>intuitiveNotificationDepth</key>
+	<string>asyncReferenceSkewy</string>
+	<key>marginAtFacade</key>
+	<string>lastChannelsSize</string>
+	<key>nextFutureVisibility</key>
+	<string>nativeSignatureTransparency</string>
+	<key>streamChainVisibility</key>
+	<string>equalizationPhaseShape</string>
+	<key>touchVisitorKind</key>
+	<string>retainedConfigurationInset</string>
+</dict>
+</plist>

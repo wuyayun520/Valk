@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRequestBehavior</key>
+	<string>activatedAccessoryDirection</string>
+	<key>declarativeStatefulAcceleration</key>
+	<string>concurrentArithmeticTint</string>
+	<key>rectSinceVariable</key>
+	<string>constraintFromLayer</string>
+	<key>responsiveReferenceSaturation</key>
+	<string>crucialShaderRight</string>
+	<key>themeOutsideEnvironment</key>
+	<string>observerBridgeValidation</string>
+	<key>transformerIncludeState</key>
+	<string>queryDuringPattern</string>
+</dict>
+</plist>

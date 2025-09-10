@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateNumberTransparency</key>
+	<string>assetObserverLeft</string>
+	<key>lastLocalizationResponse</key>
+	<string>activityInState</string>
+	<key>nativeCompositionType</key>
+	<string>responseAndDecorator</string>
+	<key>requiredHashAcceleration</key>
+	<string>sharedProgressbarName</string>
+	<key>sequentialSemanticsInteraction</key>
+	<string>coordinatorAgainstObserver</string>
+	<key>sinkFlyweightFlags</key>
+	<string>cupertinoMonsterShape</string>
+	<key>specifierAmongAdapter</key>
+	<string>aspectLikeMediator</string>
+	<key>substantialBitrateBottom</key>
+	<string>grainAlongFunction</string>
+	<key>usedResultSpeed</key>
+	<string>descriptionOutsidePattern</string>
+</dict>
+</plist>

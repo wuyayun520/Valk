@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFromVar</key>
+	<string>persistentBulletRotation</string>
+	<key>denseGesturedetectorRotation</key>
+	<string>euclideanTransformerOffset</string>
+	<key>requiredEntityFrequency</key>
+	<string>inactiveLayoutRight</string>
+	<key>sustainableCurveOffset</key>
+	<string>projectionByParameter</string>
+	<key>tappableInkwellIndex</key>
+	<string>containerBesideLevel</string>
+</dict>
+</plist>

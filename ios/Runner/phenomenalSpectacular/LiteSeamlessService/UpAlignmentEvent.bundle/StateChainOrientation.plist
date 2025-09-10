@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRectPressure</key>
+	<string>singleAsyncLeft</string>
+	<key>axisPlatformBorder</key>
+	<string>draggableCanvasPressure</string>
+	<key>injectionWithPlatform</key>
+	<string>euclideanBatchSkewy</string>
+	<key>positionOperationVelocity</key>
+	<string>controllerContainMediator</string>
+	<key>roleCycleTop</key>
+	<string>semanticViewTop</string>
+	<key>variantInsideFacade</key>
+	<string>globalAnimationColor</string>
+</dict>
+</plist>

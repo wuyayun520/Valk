@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDelegateInset</key>
+	<string>metadataPerPattern</string>
+	<key>chapterFormVelocity</key>
+	<string>taskAroundCycle</string>
+	<key>collectionWorkOffset</key>
+	<string>sharedRouteBrightness</string>
+	<key>diffablePopupLocation</key>
+	<string>gradientValueCoord</string>
+	<key>futureOrFramework</key>
+	<string>storageOperationEdge</string>
+	<key>loopStateDepth</key>
+	<string>animatedRemainderFlags</string>
+	<key>metadataSingletonSpacing</key>
+	<string>containerVersusNumber</string>
+	<key>mobxUntilAction</key>
+	<string>popupVersusBuffer</string>
+	<key>requestVersusParameter</key>
+	<string>fixedAnimationDirection</string>
+	<key>textIncludeStructure</key>
+	<string>desktopTransformerRate</string>
+</dict>
+</plist>

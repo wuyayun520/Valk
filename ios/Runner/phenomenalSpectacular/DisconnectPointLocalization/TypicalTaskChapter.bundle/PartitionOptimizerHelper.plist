@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationPhaseShape</key>
+	<string>directRectCenter</string>
+	<key>geometricReducerInteraction</key>
+	<string>entropyAroundPrototype</string>
+	<key>inkwellBeyondVariable</key>
+	<string>tableAmongStrategy</string>
+	<key>momentumOfLevel</key>
+	<string>symmetricPageviewShape</string>
+	<key>profileDuringTask</key>
+	<string>topicStyleContrast</string>
+	<key>requestSystemForce</key>
+	<string>shaderPhaseType</string>
+	<key>seamlessChannelSpacing</key>
+	<string>usageForEnvironment</string>
+</dict>
+</plist>

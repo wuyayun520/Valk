@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandSpeed</key>
+	<string>symmetricTextureAcceleration</string>
+	<key>asyncIncludeProcess</key>
+	<string>activatedTextFlags</string>
+	<key>basicEquipmentVelocity</key>
+	<string>callbackMediatorType</string>
+	<key>checklistAroundAction</key>
+	<string>mutableOffsetDirection</string>
+	<key>controllerFrameworkPosition</key>
+	<string>diversifiedIsolateSpeed</string>
+	<key>isolatePerState</key>
+	<string>statelessAssetTint</string>
+	<key>mobileMementoOpacity</key>
+	<string>semanticBoxshadowBehavior</string>
+	<key>otherPresenterBehavior</key>
+	<string>grainSystemResponse</string>
+	<key>roleThanCommand</key>
+	<string>effectDecoratorAcceleration</string>
+	<key>transformerInsideSingleton</key>
+	<string>dynamicCompleterStyle</string>
+</dict>
+</plist>

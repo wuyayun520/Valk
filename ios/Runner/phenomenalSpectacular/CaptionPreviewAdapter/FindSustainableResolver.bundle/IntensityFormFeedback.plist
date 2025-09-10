@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFacadeFormat</key>
+	<string>localizationChainOrientation</string>
+	<key>durationMediatorFlags</key>
+	<string>segueIncludeBridge</string>
+	<key>elasticWidgetShape</key>
+	<string>smartBlocFeedback</string>
+	<key>iconPatternTint</key>
+	<string>bufferPhaseResponse</string>
+	<key>progressbarAndSystem</key>
+	<string>hyperbolicOperationAcceleration</string>
+	<key>rowWithPrototype</key>
+	<string>queryForParam</string>
+	<key>seamlessThreadMargin</key>
+	<string>statelessStyleSpacing</string>
+	<key>timerBesideInterpreter</key>
+	<string>nibProxyDensity</string>
+</dict>
+</plist>

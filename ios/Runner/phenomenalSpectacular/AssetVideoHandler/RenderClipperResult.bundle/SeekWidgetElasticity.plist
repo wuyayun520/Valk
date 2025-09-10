@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStageTop</key>
+	<string>entropyShapeTail</string>
+	<key>containerPlatformFormat</key>
+	<string>tabbarLevelAppearance</string>
+	<key>hierarchicalQueueSkewy</key>
+	<string>ephemeralClipperVisible</string>
+	<key>histogramAlongObserver</key>
+	<string>widgetActionOffset</string>
+	<key>interactiveRowPosition</key>
+	<string>difficultTransformerCenter</string>
+	<key>seamlessHandlerBorder</key>
+	<string>segmentMethodShade</string>
+</dict>
+</plist>

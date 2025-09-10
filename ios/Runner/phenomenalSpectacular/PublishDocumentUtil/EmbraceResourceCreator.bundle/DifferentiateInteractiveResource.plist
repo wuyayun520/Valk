@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderCompositePressure</key>
+	<string>intermediateRepositoryFrequency</string>
+	<key>flexibleSpotAcceleration</key>
+	<string>checkboxTaskSkewx</string>
+	<key>futureFrameworkRotation</key>
+	<string>optimizerEnvironmentMode</string>
+	<key>iterativeProfileSpeed</key>
+	<string>responseActionDuration</string>
+	<key>lazyAllocatorSkewy</key>
+	<string>dedicatedTaskRotation</string>
+	<key>mediumProviderInset</key>
+	<string>stateContextScale</string>
+	<key>opaqueAccessoryRate</key>
+	<string>gestureIncludeWork</string>
+	<key>screenContainWork</key>
+	<string>sizedboxCompositeSkewy</string>
+</dict>
+</plist>

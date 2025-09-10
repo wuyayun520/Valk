@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationKindAppearance</key>
+	<string>protocolOutsideOperation</string>
+	<key>disparateSpriteOffset</key>
+	<string>reactiveScreenSkewx</string>
+	<key>effectByOperation</key>
+	<string>accessibleMenuEdge</string>
+	<key>momentumBeyondStrategy</key>
+	<string>instructionOutsideTier</string>
+	<key>sceneOfStage</key>
+	<string>ignoredGateDistance</string>
+	<key>topicObserverBorder</key>
+	<string>viewSystemCoord</string>
+</dict>
+</plist>

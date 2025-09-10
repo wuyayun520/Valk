@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticModeBorder</key>
+	<string>radiusAgainstOperation</string>
+	<key>bufferWithoutParameter</key>
+	<string>agileSliderBrightness</string>
+	<key>builderNumberColor</key>
+	<string>diversifiedNibHue</string>
+	<key>effectBufferMomentum</key>
+	<string>techniqueBridgeStyle</string>
+	<key>expandedOrPrototype</key>
+	<string>streamObserverStyle</string>
+	<key>isolateAboutVariable</key>
+	<string>inheritedTransitionHue</string>
+	<key>mobileBoxDuration</key>
+	<string>layoutCommandCoord</string>
+	<key>profileAsFlyweight</key>
+	<string>providerViaOperation</string>
+	<key>storyboardStructureFormat</key>
+	<string>requiredSingletonOffset</string>
+</dict>
+</plist>

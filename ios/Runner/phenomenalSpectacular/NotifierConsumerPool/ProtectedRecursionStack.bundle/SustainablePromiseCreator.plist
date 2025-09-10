@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTypeForce</key>
+	<string>switchCycleVelocity</string>
+	<key>futureAroundKind</key>
+	<string>effectViaVar</string>
+	<key>metadataChainLeft</key>
+	<string>dimensionCompositeDirection</string>
+	<key>originalSubscriptionValidation</key>
+	<string>criticalCycleInterval</string>
+	<key>statefulSizedboxSkewx</key>
+	<string>usageSincePlatform</string>
+	<key>streamActivityOpacity</key>
+	<string>layerSingletonTransparency</string>
+	<key>subpixelBeyondShape</key>
+	<string>slashChainOrigin</string>
+	<key>utilBridgeMode</key>
+	<string>largeAsyncPressure</string>
+</dict>
+</plist>

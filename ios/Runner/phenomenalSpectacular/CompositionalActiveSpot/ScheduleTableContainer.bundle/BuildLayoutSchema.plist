@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionDecoratorMode</key>
+	<string>convolutionThanBridge</string>
+	<key>gemFlyweightFormat</key>
+	<string>animationPhasePadding</string>
+	<key>progressbarWithoutType</key>
+	<string>explicitActivityFeedback</string>
+	<key>smallResolverInterval</key>
+	<string>immutableMasterTail</string>
+	<key>usageWithStrategy</key>
+	<string>assetViaTemple</string>
+</dict>
+</plist>

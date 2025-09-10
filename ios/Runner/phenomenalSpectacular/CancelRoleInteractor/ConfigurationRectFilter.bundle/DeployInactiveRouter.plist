@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInteractorType</key>
+	<string>masterPerParameter</string>
+	<key>globalOverlayShape</key>
+	<string>accessibleResourceSize</string>
+	<key>graphicValueBottom</key>
+	<string>functionalTaskVisible</string>
+	<key>nodeTaskVelocity</key>
+	<string>singletonPerInterpreter</string>
+	<key>sharedServiceBound</key>
+	<string>stateObserverResponse</string>
+</dict>
+</plist>

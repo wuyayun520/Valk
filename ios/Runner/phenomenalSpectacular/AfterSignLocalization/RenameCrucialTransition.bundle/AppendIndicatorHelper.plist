@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorScopeRight</key>
+	<string>multiCompleterContrast</string>
+	<key>explicitTransitionInteraction</key>
+	<string>cartesianTickerShade</string>
+	<key>immediateRichtextRate</key>
+	<string>activatedZoneIndex</string>
+	<key>logarithmPerChain</key>
+	<string>segueSingletonEdge</string>
+	<key>persistentRouterName</key>
+	<string>subpixelInFunction</string>
+	<key>priorityDuringTask</key>
+	<string>constRowTint</string>
+	<key>segueAroundParam</key>
+	<string>switchWithoutState</string>
+	<key>switchTaskTag</key>
+	<string>sharedVariantDepth</string>
+</dict>
+</plist>

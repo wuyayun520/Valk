@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentSingletonCenter</key>
+	<string>controllerAdapterOrientation</string>
+	<key>mobxCycleAcceleration</key>
+	<string>containerVisitorDistance</string>
+	<key>widgetLikeTask</key>
+	<string>visibleSemanticsCount</string>
+</dict>
+</plist>

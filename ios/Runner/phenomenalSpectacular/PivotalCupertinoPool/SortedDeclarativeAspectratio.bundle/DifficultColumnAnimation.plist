@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStructurePosition</key>
+	<string>buttonAwayOperation</string>
+	<key>fragmentForMemento</key>
+	<string>singlePresenterLeft</string>
+	<key>tappableTweenShade</key>
+	<string>themeByStructure</string>
+	<key>visibleTaskContrast</key>
+	<string>transformerAlongStage</string>
+</dict>
+</plist>

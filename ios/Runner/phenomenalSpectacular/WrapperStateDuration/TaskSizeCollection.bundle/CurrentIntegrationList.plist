@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLayerDensity</key>
+	<string>smallGesturedetectorDuration</string>
+	<key>indicatorProxyStyle</key>
+	<string>intensityDuringOperation</string>
+	<key>interpolationVariableScale</key>
+	<string>asyncFlyweightRotation</string>
+	<key>masterAmongPattern</key>
+	<string>resourceAtStage</string>
+	<key>priorEffectFlags</key>
+	<string>accessibleConstraintResponse</string>
+	<key>priorityStateBrightness</key>
+	<string>respectiveExceptionTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughPhase</key>
+	<string>navigatorExceptInterpreter</string>
+	<key>buttonAboutOperation</key>
+	<string>swiftPerStage</string>
+	<key>certificateCommandBottom</key>
+	<string>completerFlyweightColor</string>
+	<key>cubitNumberPressure</key>
+	<string>screenVarDirection</string>
+	<key>eventSystemOffset</key>
+	<string>offsetNumberTail</string>
+	<key>futureAtEnvironment</key>
+	<string>concreteCacheLeft</string>
+	<key>granularCubitStyle</key>
+	<string>usecaseDecoratorBehavior</string>
+	<key>mobileMetadataDensity</key>
+	<string>progressbarTaskInteraction</string>
+	<key>multiplicationPerStructure</key>
+	<string>offsetCompositeVisible</string>
+</dict>
+</plist>

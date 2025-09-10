@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptFramework</key>
+	<string>smallWidgetSpacing</string>
+	<key>featureLevelState</key>
+	<string>threadFunctionShape</string>
+	<key>logDecoratorOrigin</key>
+	<string>timerAwayFacade</string>
+	<key>loopViaFramework</key>
+	<string>observerWithoutAdapter</string>
+	<key>mainCupertinoOffset</key>
+	<string>containerUntilForm</string>
+	<key>mainOffsetBottom</key>
+	<string>tickerByMethod</string>
+	<key>pivotalTabviewBorder</key>
+	<string>serviceOfVar</string>
+	<key>rapidControllerHead</key>
+	<string>menuWithoutProcess</string>
+	<key>utilAtMode</key>
+	<string>graphActionLocation</string>
+</dict>
+</plist>

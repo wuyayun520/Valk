@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>particleBesideParam</key>
+	<string>independentButtonTransparency</string>
+	<key>resourceNearTier</key>
+	<string>stackAdapterBrightness</string>
+	<key>tickerViaMediator</key>
+	<string>rapidConvolutionSaturation</string>
+</dict>
+</plist>

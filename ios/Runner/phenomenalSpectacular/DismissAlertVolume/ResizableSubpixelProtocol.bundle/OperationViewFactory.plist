@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorParameterType</key>
+	<string>animationParamLocation</string>
+	<key>elasticMobileInteraction</key>
+	<string>configurationTierVelocity</string>
+	<key>intensityThroughTier</key>
+	<string>declarativePositionAppearance</string>
+	<key>previewFormCoord</key>
+	<string>effectStyleInterval</string>
+	<key>symmetricBatchBehavior</key>
+	<string>semanticsParameterOrientation</string>
+	<key>timerDuringSingleton</key>
+	<string>batchJobVelocity</string>
+	<key>transitionOfFlyweight</key>
+	<string>euclideanNormCount</string>
+</dict>
+</plist>

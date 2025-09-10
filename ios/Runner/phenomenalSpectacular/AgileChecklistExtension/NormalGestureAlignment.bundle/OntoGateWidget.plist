@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterTierStyle</key>
+	<string>containerShapeInteraction</string>
+	<key>methodJobFlags</key>
+	<string>repositoryInComposite</string>
+	<key>multiplicationAboutStyle</key>
+	<string>easyLocalizationRotation</string>
+	<key>semanticLabelIndex</key>
+	<string>subtleLabelForce</string>
+</dict>
+</plist>

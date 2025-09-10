@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStageDirection</key>
+	<string>accordionLocalizationSkewx</string>
+	<key>animationVarRate</key>
+	<string>popupStageSpeed</string>
+	<key>controllerNearFlyweight</key>
+	<string>autoRowSpacing</string>
+	<key>ephemeralVectorVisible</key>
+	<string>tickerAmongMediator</string>
+	<key>flexAtDecorator</key>
+	<string>textOrSingleton</string>
+	<key>hashContextForce</key>
+	<string>apertureContextInteraction</string>
+	<key>interpolationNearOperation</key>
+	<string>isolateAtCycle</string>
+	<key>layoutAsNumber</key>
+	<string>previewObserverBehavior</string>
+	<key>subtleEffectState</key>
+	<string>comprehensiveChartForce</string>
+	<key>taskAgainstSingleton</key>
+	<string>crudeShaderDelay</string>
+</dict>
+</plist>

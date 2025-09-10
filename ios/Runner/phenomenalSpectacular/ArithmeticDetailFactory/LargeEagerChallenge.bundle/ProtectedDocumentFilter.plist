@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetFromVar</key>
+	<string>storageAndParam</string>
+	<key>asyncByBuffer</key>
+	<string>independentPageviewHead</string>
+	<key>columnFormLeft</key>
+	<string>requestProxyHead</string>
+	<key>curveStageState</key>
+	<string>blocSingletonDuration</string>
+	<key>effectContainSystem</key>
+	<string>cartesianRectAlignment</string>
+	<key>expandedAgainstChain</key>
+	<string>smallRepositoryDelay</string>
+	<key>histogramStructureMode</key>
+	<string>riverpodInCycle</string>
+	<key>seamlessGridVisible</key>
+	<string>sceneLevelCoord</string>
+</dict>
+</plist>

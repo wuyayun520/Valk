@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAssetInteraction</key>
+	<string>liteTweenVisible</string>
+	<key>crudeConstraintKind</key>
+	<string>reactiveTabbarVisibility</string>
+	<key>disparateDrawerBrightness</key>
+	<string>builderPlatformMode</string>
+	<key>movementBesideOperation</key>
+	<string>invisibleAxisSkewx</string>
+	<key>navigatorMethodKind</key>
+	<string>uniformCupertinoDirection</string>
+	<key>notificationDecoratorVisible</key>
+	<string>serviceAsMemento</string>
+	<key>prevCubitInteraction</key>
+	<string>exponentThroughStructure</string>
+	<key>relationalSpriteOrientation</key>
+	<string>baselineOfAction</string>
+	<key>topicViaObserver</key>
+	<string>lastDrawerAcceleration</string>
+</dict>
+</plist>

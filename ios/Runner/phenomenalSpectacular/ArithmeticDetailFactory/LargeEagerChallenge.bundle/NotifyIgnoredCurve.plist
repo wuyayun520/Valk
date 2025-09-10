@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectOperationStyle</key>
+	<string>missionTierScale</string>
+	<key>flexibleTextFormat</key>
+	<string>curveAndState</string>
+	<key>injectionAboutFramework</key>
+	<string>newestIndicatorForce</string>
+	<key>opaqueZoneTint</key>
+	<string>publicDurationFormat</string>
+	<key>slashAboutState</key>
+	<string>gemTempleHead</string>
+	<key>sortedMenuSaturation</key>
+	<string>criticalNotificationStyle</string>
+	<key>usecaseAsFramework</key>
+	<string>sortedPageviewBrightness</string>
+</dict>
+</plist>

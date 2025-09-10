@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTickerDirection</key>
+	<string>threadInsideScope</string>
+	<key>baselineAtProxy</key>
+	<string>parallelNibSkewy</string>
+	<key>compositionFromChain</key>
+	<string>compositionalMasterContrast</string>
+	<key>dialogsOrFlyweight</key>
+	<string>relationalGramMode</string>
+	<key>missedToolVisible</key>
+	<string>rectDespiteStyle</string>
+	<key>sliderInterpreterIndex</key>
+	<string>rowAlongMethod</string>
+	<key>staticCurveShape</key>
+	<string>sizedboxTempleOrientation</string>
+	<key>transformerDuringForm</key>
+	<string>observerInsideAdapter</string>
+</dict>
+</plist>

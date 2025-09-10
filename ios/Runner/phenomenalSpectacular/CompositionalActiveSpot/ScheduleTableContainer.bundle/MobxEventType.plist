@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleEnvironmentMargin</key>
+	<string>timerVersusNumber</string>
+	<key>dependencyJobValidation</key>
+	<string>singletonOfPlatform</string>
+	<key>eagerTangentBehavior</key>
+	<string>subpixelScopeBehavior</string>
+	<key>grayscaleContainParam</key>
+	<string>routerParameterFlags</string>
+	<key>modelTierVelocity</key>
+	<string>viewAtObserver</string>
+	<key>sessionNearSystem</key>
+	<string>optimizerMediatorTag</string>
+	<key>sliderBesideScope</key>
+	<string>missedSliderTail</string>
+	<key>spotAlongVisitor</key>
+	<string>protectedRiverpodBehavior</string>
+</dict>
+</plist>

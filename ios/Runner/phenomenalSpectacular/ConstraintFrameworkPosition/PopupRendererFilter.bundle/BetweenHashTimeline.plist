@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directToolSkewx</key>
+	<string>resolverAlongBridge</string>
+	<key>histogramContextIndex</key>
+	<string>liteStampVisible</string>
+	<key>inheritedAxisShape</key>
+	<string>paddingAndShape</string>
+	<key>scaffoldBridgeRotation</key>
+	<string>resourceStructureMargin</string>
+	<key>scrollInsideShape</key>
+	<string>layoutInsideTask</string>
+	<key>textureViaType</key>
+	<string>tensorDependencyResponse</string>
+</dict>
+</plist>

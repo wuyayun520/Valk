@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAtVisitor</key>
+	<string>composableGraphOffset</string>
+	<key>arithmeticTechniqueFeedback</key>
+	<string>cupertinoCoordinatorSaturation</string>
+	<key>containerProxyTail</key>
+	<string>requestBesidePrototype</string>
+	<key>dynamicSignatureOrientation</key>
+	<string>widgetMementoShade</string>
+	<key>gemInterpreterVelocity</key>
+	<string>mobileAnchorTint</string>
+	<key>gestureVariableIndex</key>
+	<string>directListenerStatus</string>
+	<key>inkwellLikeSingleton</key>
+	<string>compositionalResponseRate</string>
+	<key>parallelPopupSpacing</key>
+	<string>kernelExceptCycle</string>
+	<key>signatureViaType</key>
+	<string>stateBeyondParameter</string>
+</dict>
+</plist>

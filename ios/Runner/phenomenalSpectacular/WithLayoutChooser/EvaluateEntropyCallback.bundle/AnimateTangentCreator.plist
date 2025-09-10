@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAwayStrategy</key>
+	<string>skinFromDecorator</string>
+	<key>constraintUntilValue</key>
+	<string>eagerContainerCoord</string>
+	<key>hashTypeResponse</key>
+	<string>mobxForParameter</string>
+	<key>nextCachePressure</key>
+	<string>smallPopupPosition</string>
+	<key>publicActionOpacity</key>
+	<string>globalRouterPadding</string>
+	<key>publicAnimatedcontainerTransparency</key>
+	<string>timerTaskCoord</string>
+	<key>relationalEntropyPosition</key>
+	<string>respectiveSemanticsBound</string>
+</dict>
+</plist>

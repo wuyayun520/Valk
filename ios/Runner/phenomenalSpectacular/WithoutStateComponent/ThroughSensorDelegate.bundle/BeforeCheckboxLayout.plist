@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResourceShade</key>
+	<string>eventLayerDelay</string>
+	<key>diversifiedPaddingSkewy</key>
+	<string>dynamicTopicSpeed</string>
+	<key>exceptionAndAction</key>
+	<string>matrixProcessTint</string>
+	<key>factoryStageSkewx</key>
+	<string>largeSkinRate</string>
+	<key>materialBaselineCoord</key>
+	<string>tweenScopeEdge</string>
+	<key>navigationAndSystem</key>
+	<string>asynchronousCosineForce</string>
+	<key>popupByContext</key>
+	<string>awaitOfForm</string>
+	<key>tappableGrainEdge</key>
+	<string>radiusStructureSpeed</string>
+	<key>uniformLoopFrequency</key>
+	<string>sequentialTabviewTint</string>
+</dict>
+</plist>

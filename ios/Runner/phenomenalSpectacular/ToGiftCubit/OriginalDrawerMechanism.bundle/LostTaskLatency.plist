@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrProcess</key>
+	<string>toolObserverShade</string>
+	<key>documentAgainstProcess</key>
+	<string>listviewWorkLocation</string>
+	<key>extensionThroughPhase</key>
+	<string>interfaceExceptLayer</string>
+	<key>localizationDecoratorOffset</key>
+	<string>declarativeConvolutionFlags</string>
+	<key>mainExtensionHead</key>
+	<string>appbarBufferBottom</string>
+	<key>semanticNormMode</key>
+	<string>transitionDecoratorSpeed</string>
+	<key>specifyCurveKind</key>
+	<string>arithmeticGraphCount</string>
+	<key>transformerAroundBridge</key>
+	<string>tabviewWithFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorProcessType</key>
+	<string>hardSegmentBorder</string>
+	<key>channelMediatorIndex</key>
+	<string>timerWithoutShape</string>
+	<key>curveByMediator</key>
+	<string>convolutionAlongStage</string>
+	<key>dynamicDurationOffset</key>
+	<string>rowParameterDistance</string>
+	<key>iconTempleDistance</key>
+	<string>checklistInsideBuffer</string>
+	<key>isolateAndEnvironment</key>
+	<string>hyperbolicButtonValidation</string>
+	<key>navigatorWithObserver</key>
+	<string>currentRequestPressure</string>
+	<key>responsiveLayerScale</key>
+	<string>statefulExtensionOpacity</string>
+</dict>
+</plist>

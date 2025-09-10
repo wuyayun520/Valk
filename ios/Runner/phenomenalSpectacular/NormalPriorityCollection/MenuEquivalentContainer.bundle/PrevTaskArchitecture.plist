@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGestureCount</key>
+	<string>bufferWithMode</string>
+	<key>behaviorTaskVisibility</key>
+	<string>concreteEventSkewy</string>
+	<key>frameExceptPlatform</key>
+	<string>isolateViaVar</string>
+	<key>gridNearTask</key>
+	<string>handlerDespiteComposite</string>
+	<key>layerTempleAcceleration</key>
+	<string>timerCommandPosition</string>
+	<key>tabbarInsideMemento</key>
+	<string>activeSegueScale</string>
+</dict>
+</plist>

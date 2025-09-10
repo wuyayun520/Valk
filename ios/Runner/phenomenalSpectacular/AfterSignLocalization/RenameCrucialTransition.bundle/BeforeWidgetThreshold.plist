@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optimizerCyclePressure</key>
+	<string>stepAtFramework</string>
+	<key>progressbarMementoTop</key>
+	<string>observerContainLevel</string>
+	<key>requestIncludeDecorator</key>
+	<string>menuOperationSaturation</string>
+	<key>utilActivityFeedback</key>
+	<string>responsiveGraphicSkewy</string>
+</dict>
+</plist>

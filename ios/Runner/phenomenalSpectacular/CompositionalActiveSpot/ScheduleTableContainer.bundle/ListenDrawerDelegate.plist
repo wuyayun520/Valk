@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOptimizerMode</key>
+	<string>logarithmCommandCenter</string>
+	<key>dedicatedMarginSpacing</key>
+	<string>basicPreviewSpacing</string>
+	<key>futureScopeValidation</key>
+	<string>interactiveRequestSkewy</string>
+	<key>isolateSinceParameter</key>
+	<string>memberBufferInterval</string>
+	<key>spotUntilPhase</key>
+	<string>scaleMementoInterval</string>
+</dict>
+</plist>

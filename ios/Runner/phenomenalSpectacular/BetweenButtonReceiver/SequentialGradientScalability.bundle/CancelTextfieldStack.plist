@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWithFlyweight</key>
+	<string>tabbarExceptSystem</string>
+	<key>denseStateBottom</key>
+	<string>mainChartAppearance</string>
+	<key>mutableRowContrast</key>
+	<string>euclideanTweenBehavior</string>
+	<key>sinkAlongAdapter</key>
+	<string>tappableEventAlignment</string>
+	<key>sizeObserverLeft</key>
+	<string>criticalCustompaintFrequency</string>
+	<key>statelessMetadataDistance</key>
+	<string>grainExceptMethod</string>
+</dict>
+</plist>

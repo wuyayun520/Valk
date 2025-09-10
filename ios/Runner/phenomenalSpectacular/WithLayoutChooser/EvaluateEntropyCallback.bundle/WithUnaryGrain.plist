@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLevelSpacing</key>
+	<string>storeContainActivity</string>
+	<key>easyResolverContrast</key>
+	<string>bitrateBeyondVisitor</string>
+	<key>elasticBorderHead</key>
+	<string>resourceProcessInset</string>
+	<key>fixedAnimationDistance</key>
+	<string>mutableAllocatorVelocity</string>
+	<key>heroMediatorRight</key>
+	<string>containerInComposite</string>
+	<key>mobxAgainstForm</key>
+	<string>synchronousTickerTint</string>
+	<key>multiHandlerFormat</key>
+	<string>cycleCompositeResponse</string>
+	<key>oldEffectDelay</key>
+	<string>normAsWork</string>
+	<key>standaloneIndicatorSpacing</key>
+	<string>animatedNormOpacity</string>
+</dict>
+</plist>

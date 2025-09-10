@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorShapeOffset</key>
+	<string>asyncTabbarStyle</string>
+	<key>flexibleSpriteFeedback</key>
+	<string>transitionStyleAppearance</string>
+	<key>missedWorkflowScale</key>
+	<string>symbolInForm</string>
+	<key>permanentAnimationTint</key>
+	<string>animationProcessBehavior</string>
+	<key>transitionDespiteObserver</key>
+	<string>stateIncludeType</string>
+</dict>
+</plist>

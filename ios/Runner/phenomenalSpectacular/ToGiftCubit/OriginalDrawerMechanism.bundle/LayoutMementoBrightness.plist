@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTexturePadding</key>
+	<string>asyncViaForm</string>
+	<key>customPreviewStatus</key>
+	<string>rectSingletonPressure</string>
+	<key>customResultPadding</key>
+	<string>collectionBesideWork</string>
+	<key>liteMusicResponse</key>
+	<string>modelPerLayer</string>
+	<key>navigatorWithoutLevel</key>
+	<string>mobileCellScale</string>
+	<key>queryCycleTint</key>
+	<string>accordionChartShade</string>
+	<key>responsiveSliderScale</key>
+	<string>hierarchicalIconTint</string>
+	<key>shaderAboutPattern</key>
+	<string>drawerOrBridge</string>
+	<key>taskCommandInteraction</key>
+	<string>nodeProcessPosition</string>
+</dict>
+</plist>

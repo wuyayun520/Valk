@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factorySingletonShade</key>
+	<string>permissiveRectOrientation</string>
+	<key>mediaqueryOperationBrightness</key>
+	<string>expandedForVar</string>
+	<key>musicWithSingleton</key>
+	<string>layoutProxySkewx</string>
+	<key>resultOutsideAdapter</key>
+	<string>displayableCanvasName</string>
+	<key>sessionTypeFrequency</key>
+	<string>equalizationPhaseFrequency</string>
+	<key>sizedboxDuringTask</key>
+	<string>semanticMaterialSkewx</string>
+</dict>
+</plist>

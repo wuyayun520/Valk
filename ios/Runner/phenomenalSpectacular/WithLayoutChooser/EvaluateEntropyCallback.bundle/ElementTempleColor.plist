@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEffectMode</key>
+	<string>nativeObserverDistance</string>
+	<key>cursorStateAppearance</key>
+	<string>presenterOrStage</string>
+	<key>dependencyFormBorder</key>
+	<string>certificateAsFramework</string>
+	<key>fixedMultiplicationCount</key>
+	<string>presenterNumberValidation</string>
+	<key>hardContractionPosition</key>
+	<string>titleFunctionShape</string>
+	<key>listenerFunctionMode</key>
+	<string>pinchableBufferKind</string>
+</dict>
+</plist>

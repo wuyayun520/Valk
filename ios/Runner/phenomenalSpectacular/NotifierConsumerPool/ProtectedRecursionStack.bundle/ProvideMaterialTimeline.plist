@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTempleFlags</key>
+	<string>asyncWorkLocation</string>
+	<key>canvasBridgeDistance</key>
+	<string>resultFacadeDensity</string>
+	<key>heapVarFlags</key>
+	<string>subsequentScaffoldMode</string>
+	<key>navigatorOrDecorator</key>
+	<string>axisContainMediator</string>
+	<key>notifierByPlatform</key>
+	<string>draggableButtonMode</string>
+	<key>petEnvironmentOrientation</key>
+	<string>plateAtKind</string>
+	<key>specifierObserverCoord</key>
+	<string>controllerAndChain</string>
+	<key>transformerPatternBorder</key>
+	<string>providerAgainstJob</string>
+</dict>
+</plist>

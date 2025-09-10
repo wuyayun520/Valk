@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterIncludeShape</key>
+	<string>substantialCupertinoDepth</string>
+	<key>dynamicTouchBrightness</key>
+	<string>behaviorDespiteShape</string>
+	<key>grainVariableType</key>
+	<string>layerForNumber</string>
+	<key>keyGroupMomentum</key>
+	<string>cupertinoWithContext</string>
+	<key>playbackMediatorBrightness</key>
+	<string>statefulPainterDensity</string>
+	<key>sliderSingletonFeedback</key>
+	<string>queueTaskState</string>
+</dict>
+</plist>

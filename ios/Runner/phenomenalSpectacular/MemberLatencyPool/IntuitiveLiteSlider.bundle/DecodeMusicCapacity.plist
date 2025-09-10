@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableScaffoldShape</key>
+	<string>streamPlatformTail</string>
+	<key>granularGrayscaleRotation</key>
+	<string>unactivatedSubpixelType</string>
+	<key>presenterJobOrigin</key>
+	<string>liteHeroBehavior</string>
+	<key>stateScopeDuration</key>
+	<string>interpolationThroughVar</string>
+</dict>
+</plist>

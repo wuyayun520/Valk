@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFormBehavior</key>
+	<string>newestProgressbarColor</string>
+	<key>channelForActivity</key>
+	<string>instructionCommandName</string>
+	<key>graphicObserverCenter</key>
+	<string>crudeSpotColor</string>
+	<key>independentUsageShade</key>
+	<string>deferredRequestFrequency</string>
+	<key>momentumLevelScale</key>
+	<string>controllerVersusLevel</string>
+	<key>nibInterpreterTop</key>
+	<string>effectWithoutDecorator</string>
+	<key>respectiveLayoutIndex</key>
+	<string>convolutionIncludeFunction</string>
+	<key>resultByShape</key>
+	<string>layoutPatternAppearance</string>
+	<key>tensorWorkflowCount</key>
+	<string>multiMobxDistance</string>
+	<key>unsortedTechniqueSize</key>
+	<string>persistentSensorColor</string>
+</dict>
+</plist>

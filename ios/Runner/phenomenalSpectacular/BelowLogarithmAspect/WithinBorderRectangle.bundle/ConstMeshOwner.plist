@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideMediator</key>
+	<string>popupDespiteSingleton</string>
+	<key>graphViaPhase</key>
+	<string>textureActivityValidation</string>
+	<key>hashJobScale</key>
+	<string>sharedPlateSize</string>
+	<key>memberVisitorMargin</key>
+	<string>matrixLevelStatus</string>
+	<key>segueContainValue</key>
+	<string>advancedSingletonRight</string>
+	<key>tensorPositionDelay</key>
+	<string>sizedboxEnvironmentOffset</string>
+</dict>
+</plist>

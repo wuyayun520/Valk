@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProxyName</key>
+	<string>staticProviderTop</string>
+	<key>curveTierTag</key>
+	<string>characterPlatformValidation</string>
+	<key>effectMementoSpeed</key>
+	<string>sizeValueName</string>
+	<key>ignoredCommandFrequency</key>
+	<string>buttonPerTier</string>
+	<key>lastStorageStyle</key>
+	<string>decorationLayerTheme</string>
+	<key>particleFromActivity</key>
+	<string>streamBridgeVisible</string>
+	<key>requiredFragmentFrequency</key>
+	<string>unaryPerStyle</string>
+</dict>
+</plist>

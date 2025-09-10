@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStructureTheme</key>
+	<string>tweenNearPattern</string>
+	<key>grayscaleContainMode</key>
+	<string>cacheUntilParameter</string>
+	<key>nibByLevel</key>
+	<string>sliderBeyondPrototype</string>
+	<key>routerPerProcess</key>
+	<string>accordionSlashVelocity</string>
+	<key>workflowWithScope</key>
+	<string>alignmentCycleType</string>
+</dict>
+</plist>

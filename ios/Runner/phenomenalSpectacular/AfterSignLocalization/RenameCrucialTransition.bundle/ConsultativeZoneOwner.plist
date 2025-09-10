@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryNearSystem</key>
+	<string>compositionOrPhase</string>
+	<key>coordinatorParameterRight</key>
+	<string>sensorActivityFlags</string>
+	<key>overlayAndMode</key>
+	<string>beginnerIndicatorInteraction</string>
+	<key>rowViaStage</key>
+	<string>criticalAssetOrigin</string>
+	<key>specifierStageEdge</key>
+	<string>originalPositionedTension</string>
+</dict>
+</plist>

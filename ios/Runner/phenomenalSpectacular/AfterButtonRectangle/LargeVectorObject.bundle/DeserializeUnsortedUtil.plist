@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorChainColor</key>
+	<string>protectedParticleVisibility</string>
+	<key>modulusAdapterRotation</key>
+	<string>baselineMethodVisible</string>
+	<key>offsetAlongJob</key>
+	<string>widgetInSystem</string>
+	<key>requestChainInterval</key>
+	<string>imageWorkOrientation</string>
+	<key>transitionOfStage</key>
+	<string>autoStateStyle</string>
+</dict>
+</plist>

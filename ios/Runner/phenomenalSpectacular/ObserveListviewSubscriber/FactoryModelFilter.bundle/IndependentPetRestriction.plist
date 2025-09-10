@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMethodFeedback</key>
+	<string>zoneForTier</string>
+	<key>completionWithoutMode</key>
+	<string>sharedEquipmentHue</string>
+	<key>dimensionWithoutDecorator</key>
+	<string>opaqueHistogramCenter</string>
+	<key>firstDecorationBehavior</key>
+	<string>stateOutsideState</string>
+	<key>heapDespiteFacade</key>
+	<string>interactorFlyweightAlignment</string>
+	<key>localNavigatorMomentum</key>
+	<string>synchronousTabviewPosition</string>
+	<key>mobileResultTransparency</key>
+	<string>temporarySpriteBound</string>
+</dict>
+</plist>

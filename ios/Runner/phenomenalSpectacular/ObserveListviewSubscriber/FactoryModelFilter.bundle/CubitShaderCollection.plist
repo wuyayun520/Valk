@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queueParameterAlignment</key>
+	<string>viewObserverCenter</string>
+	<key>riverpodForContext</key>
+	<string>particleObserverHue</string>
+	<key>skinParameterKind</key>
+	<string>spineStageSpacing</string>
+	<key>stampAmongCommand</key>
+	<string>uniformFutureMomentum</string>
+</dict>
+</plist>

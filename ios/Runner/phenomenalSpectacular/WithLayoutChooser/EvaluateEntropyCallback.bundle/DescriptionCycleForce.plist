@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAwaitSpeed</key>
+	<string>agileChapterTag</string>
+	<key>routerInsideStyle</key>
+	<string>resizableConsumerOrientation</string>
+	<key>rowAtMode</key>
+	<string>labelProcessDuration</string>
+	<key>uniqueAllocatorPadding</key>
+	<string>segmentProcessRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventTypeDirection</key>
+	<string>delegateAmongTask</string>
+	<key>modalByScope</key>
+	<string>baseAdapterEdge</string>
+	<key>presenterStrategyRight</key>
+	<string>staticSessionTag</string>
+	<key>rectAroundParam</key>
+	<string>reducerAsKind</string>
+	<key>resourceVisitorFlags</key>
+	<string>diffableDescriptorContrast</string>
+	<key>richtextSinceFacade</key>
+	<string>routePerPhase</string>
+	<key>transformerAlongParam</key>
+	<string>routerVariableFormat</string>
+</dict>
+</plist>

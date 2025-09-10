@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelMementoFeedback</key>
+	<string>nextStoreName</string>
+	<key>delicateChannelDuration</key>
+	<string>equipmentContextSpeed</string>
+	<key>errorStructureVisible</key>
+	<string>delegateLevelDelay</string>
+	<key>injectionNumberSkewx</key>
+	<string>normPerComposite</string>
+	<key>oldResolverOpacity</key>
+	<string>rowFlyweightTop</string>
+	<key>routerStageName</key>
+	<string>listviewWithAdapter</string>
+	<key>shaderAwayAdapter</key>
+	<string>sharedCommandMode</string>
+	<key>transitionInsideBuffer</key>
+	<string>sineTaskTag</string>
+</dict>
+</plist>

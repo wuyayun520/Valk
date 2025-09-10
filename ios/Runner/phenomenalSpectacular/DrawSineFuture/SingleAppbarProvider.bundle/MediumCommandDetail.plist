@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAndStyle</key>
+	<string>prismaticKernelSize</string>
+	<key>gridPhaseOrientation</key>
+	<string>precisionInLevel</string>
+	<key>sineFacadeVisibility</key>
+	<string>serviceCommandSkewx</string>
+	<key>tensorMatrixLocation</key>
+	<string>sessionTypeHue</string>
+</dict>
+</plist>

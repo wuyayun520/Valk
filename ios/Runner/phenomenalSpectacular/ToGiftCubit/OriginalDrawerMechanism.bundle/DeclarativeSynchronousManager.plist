@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorScopeOpacity</key>
+	<string>composableProviderFlags</string>
+	<key>momentumActionDensity</key>
+	<string>interactiveRectAcceleration</string>
+	<key>sophisticatedBoxSpacing</key>
+	<string>rectViaState</string>
+	<key>symbolNumberBound</key>
+	<string>labelBesideVar</string>
+</dict>
+</plist>

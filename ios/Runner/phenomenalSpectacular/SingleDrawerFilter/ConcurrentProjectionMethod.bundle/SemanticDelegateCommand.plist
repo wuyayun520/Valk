@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushNearPattern</key>
+	<string>ternaryInSingleton</string>
+	<key>opaqueGrayscaleOrigin</key>
+	<string>parallelConfigurationCenter</string>
+	<key>protectedLabelTop</key>
+	<string>normalScreenResponse</string>
+	<key>robustVectorBorder</key>
+	<string>multiColumnType</string>
+</dict>
+</plist>

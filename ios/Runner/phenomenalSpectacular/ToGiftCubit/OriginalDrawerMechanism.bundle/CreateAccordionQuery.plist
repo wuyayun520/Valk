@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashAroundBridge</key>
+	<string>publicSpriteLocation</string>
+	<key>layoutLikePlatform</key>
+	<string>associatedAxisOrigin</string>
+	<key>nextAsyncDuration</key>
+	<string>widgetObserverFrequency</string>
+	<key>otherTextVisibility</key>
+	<string>channelMediatorSpacing</string>
+	<key>textfieldForPattern</key>
+	<string>precisionMethodOpacity</string>
+</dict>
+</plist>

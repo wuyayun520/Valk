@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAmongPattern</key>
+	<string>apertureFunctionResponse</string>
+	<key>composableViewShape</key>
+	<string>skinFacadePosition</string>
+	<key>controllerActionRate</key>
+	<string>basicGraphicBorder</string>
+	<key>invisibleBaseMargin</key>
+	<string>errorFacadeBorder</string>
+	<key>kernelOutsideMode</key>
+	<string>reusableCellContrast</string>
+	<key>storageVersusMemento</key>
+	<string>previewAndJob</string>
+</dict>
+</plist>

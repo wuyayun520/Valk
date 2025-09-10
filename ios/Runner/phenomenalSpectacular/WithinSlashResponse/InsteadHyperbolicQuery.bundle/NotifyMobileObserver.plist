@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPrototypePosition</key>
+	<string>previewForPattern</string>
+	<key>eventIncludeSystem</key>
+	<string>heapByProcess</string>
+	<key>granularLocalizationPadding</key>
+	<string>providerThanMemento</string>
+	<key>matrixCommandName</key>
+	<string>callbackForState</string>
+	<key>newestGradientRight</key>
+	<string>rowVisitorSpacing</string>
+	<key>notificationNearSingleton</key>
+	<string>borderOutsideSingleton</string>
+	<key>promiseFrameworkBorder</key>
+	<string>frameBeyondActivity</string>
+	<key>resilientKernelFeedback</key>
+	<string>eventFlyweightState</string>
+	<key>rowActionResponse</key>
+	<string>resolverVariableShade</string>
+</dict>
+</plist>

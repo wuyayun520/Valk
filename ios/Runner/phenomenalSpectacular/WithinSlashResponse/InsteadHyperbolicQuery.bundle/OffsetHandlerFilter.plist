@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSinkFrequency</key>
+	<string>transitionSingletonPadding</string>
+	<key>exceptionExceptObserver</key>
+	<string>cubitTaskCoord</string>
+	<key>gramStyleFrequency</key>
+	<string>layoutStrategyEdge</string>
+	<key>lazyAlertCount</key>
+	<string>grainCompositeTop</string>
+	<key>normalMobxState</key>
+	<string>behaviorVersusStyle</string>
+	<key>relationalPositionOrientation</key>
+	<string>controllerPrototypeTag</string>
+</dict>
+</plist>

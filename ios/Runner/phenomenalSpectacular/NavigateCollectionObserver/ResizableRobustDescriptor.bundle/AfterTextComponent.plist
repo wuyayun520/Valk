@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNodeBehavior</key>
+	<string>similarManagerEdge</string>
+	<key>concreteThreadType</key>
+	<string>activatedUnaryLeft</string>
+	<key>factoryViaParameter</key>
+	<string>queryTypeAppearance</string>
+	<key>flexibleSkinTag</key>
+	<string>reusableTimerStatus</string>
+	<key>invisibleErrorAcceleration</key>
+	<string>tickerStrategyTint</string>
+	<key>resizableFutureCoord</key>
+	<string>giftFromMediator</string>
+	<key>screenAgainstObserver</key>
+	<string>interfaceSincePattern</string>
+	<key>stackParamIndex</key>
+	<string>blocWithoutActivity</string>
+	<key>tappableSignDuration</key>
+	<string>kernelChainBrightness</string>
+	<key>toolSingletonBrightness</key>
+	<string>keyTimerBrightness</string>
+</dict>
+</plist>

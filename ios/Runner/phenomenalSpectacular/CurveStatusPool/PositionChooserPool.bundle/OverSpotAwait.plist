@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackByMemento</key>
+	<string>lossProcessVelocity</string>
+	<key>channelWorkAcceleration</key>
+	<string>smartTabviewRotation</string>
+	<key>immutableCallbackType</key>
+	<string>pageviewActionRight</string>
+	<key>isolateBeyondLayer</key>
+	<string>spotAroundCommand</string>
+	<key>mobileDurationTag</key>
+	<string>alertWithActivity</string>
+	<key>statefulSingletonInterval</key>
+	<string>resultOutsideKind</string>
+	<key>tensorSwiftPosition</key>
+	<string>transformerFromTier</string>
+</dict>
+</plist>

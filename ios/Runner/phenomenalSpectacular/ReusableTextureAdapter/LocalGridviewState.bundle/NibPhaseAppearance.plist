@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringSingleton</key>
+	<string>transformerMediatorIndex</string>
+	<key>criticalObserverCoord</key>
+	<string>sequentialBufferSpacing</string>
+	<key>futureFlyweightSpacing</key>
+	<string>statefulQueueCoord</string>
+	<key>globalBitrateSpeed</key>
+	<string>widgetPlatformBound</string>
+	<key>previewDuringParameter</key>
+	<string>lastLabelStatus</string>
+	<key>rectAndKind</key>
+	<string>graphFlyweightHue</string>
+	<key>resolverPerAdapter</key>
+	<string>requestStateDistance</string>
+	<key>resultContainVariable</key>
+	<string>checklistOfMediator</string>
+</dict>
+</plist>

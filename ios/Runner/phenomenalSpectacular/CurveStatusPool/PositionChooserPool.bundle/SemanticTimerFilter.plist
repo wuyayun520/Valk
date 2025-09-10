@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxVersusTier</key>
+	<string>segueExceptComposite</string>
+	<key>grayscaleDespiteBuffer</key>
+	<string>inheritedQuerySpeed</string>
+	<key>loopFacadeEdge</key>
+	<string>concurrentStreamScale</string>
+	<key>nativeTransformerRotation</key>
+	<string>observerAroundMemento</string>
+	<key>repositoryByObserver</key>
+	<string>featureWithStructure</string>
+	<key>widgetExceptVariable</key>
+	<string>functionalAnimationDensity</string>
+</dict>
+</plist>

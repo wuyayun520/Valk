@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRowAppearance</key>
+	<string>mobileBesideLevel</string>
+	<key>diffableCursorIndex</key>
+	<string>transitionShapeTransparency</string>
+	<key>difficultChartInset</key>
+	<string>dependencyOrAction</string>
+	<key>exceptionLevelState</key>
+	<string>interfaceSingletonOrientation</string>
+	<key>explicitCoordinatorForce</key>
+	<string>painterMethodTransparency</string>
+	<key>gridviewInterpreterTint</key>
+	<string>protocolMementoLeft</string>
+	<key>logThroughLevel</key>
+	<string>menuFunctionResponse</string>
+	<key>routeKindRight</key>
+	<string>smartBuilderIndex</string>
+	<key>taskWorkBound</key>
+	<string>visibleAnchorCoord</string>
+	<key>toolCycleDepth</key>
+	<string>inactiveRouteCoord</string>
+</dict>
+</plist>

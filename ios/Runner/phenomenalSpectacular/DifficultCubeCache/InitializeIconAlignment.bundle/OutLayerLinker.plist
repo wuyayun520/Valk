@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteTier</key>
+	<string>captionSinceValue</string>
+	<key>autoBrushOffset</key>
+	<string>persistentSingletonHue</string>
+	<key>channelsVarScale</key>
+	<string>normWithPhase</string>
+	<key>checkboxAboutPattern</key>
+	<string>constErrorInterval</string>
+	<key>interpolationNumberScale</key>
+	<string>deferredCosineInterval</string>
+	<key>queueFromState</key>
+	<string>sliderJobBrightness</string>
+	<key>spotTierMomentum</key>
+	<string>largeInterpolationSkewy</string>
+	<key>uniqueTickerSaturation</key>
+	<string>viewPlatformShape</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFactoryCount</key>
+	<string>resolverOfStrategy</string>
+	<key>segueBufferVisibility</key>
+	<string>positionedNearProcess</string>
+	<key>smallGrayscaleContrast</key>
+	<string>sceneProxyContrast</string>
+	<key>timerOutsideWork</key>
+	<string>inheritedMissionTail</string>
+	<key>usageBeyondFunction</key>
+	<string>inkwellSinceFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContextVisibility</key>
+	<string>previewAlongMode</string>
+	<key>flexibleEntropyVelocity</key>
+	<string>skinPerMode</string>
+	<key>promiseFlyweightTail</key>
+	<string>asyncAmongTier</string>
+	<key>relationalSpecifierAcceleration</key>
+	<string>lostDecorationSpeed</string>
+	<key>respectiveInstructionPressure</key>
+	<string>offsetCommandLocation</string>
+</dict>
+</plist>

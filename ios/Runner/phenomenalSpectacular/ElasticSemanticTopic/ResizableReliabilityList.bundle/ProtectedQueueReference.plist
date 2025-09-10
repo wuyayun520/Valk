@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeDescriptorDirection</key>
+	<string>modelInterpreterEdge</string>
+	<key>fusedMetadataBound</key>
+	<string>explicitOptionPadding</string>
+	<key>navigatorModeValidation</key>
+	<string>channelThroughBridge</string>
+	<key>tickerChainOrigin</key>
+	<string>interpolationThroughOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelAtFlyweight</key>
+	<string>interactiveActivityOrigin</string>
+	<key>largeDecorationHead</key>
+	<string>statelessRadioHead</string>
+	<key>listviewValueRotation</key>
+	<string>responsiveQueryCount</string>
+	<key>requiredAnimatedcontainerPadding</key>
+	<string>menuTierDuration</string>
+	<key>sliderCycleDirection</key>
+	<string>activeAlignmentTail</string>
+	<key>tappableInjectionTint</key>
+	<string>easyTimerTail</string>
+</dict>
+</plist>

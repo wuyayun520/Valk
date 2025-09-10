@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionProxyTint</key>
+	<string>routerInEnvironment</string>
+	<key>contractionPerBuffer</key>
+	<string>cycleMediatorBorder</string>
+	<key>mutableAspectBound</key>
+	<string>navigatorNumberTheme</string>
+	<key>rowExceptVariable</key>
+	<string>frameVariableAlignment</string>
+	<key>stateOfPlatform</key>
+	<string>immediateEventHue</string>
+</dict>
+</plist>

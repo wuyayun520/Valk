@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorScale</key>
+	<string>bulletStyleAppearance</string>
+	<key>builderKindDensity</key>
+	<string>presenterStageVelocity</string>
+	<key>explicitTimerInterval</key>
+	<string>decorationCompositeSize</string>
+	<key>hardContainerSize</key>
+	<string>opaqueLocalizationHue</string>
+	<key>multiTextureSize</key>
+	<string>rectLayerShape</string>
+	<key>sceneAroundBridge</key>
+	<string>associatedRiverpodMomentum</string>
+</dict>
+</plist>

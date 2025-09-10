@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>playbackSystemMargin</key>
+	<string>fragmentForActivity</string>
+	<key>prismaticCompleterBorder</key>
+	<string>imperativeWidgetName</string>
+	<key>radiusWithoutLevel</key>
+	<string>decorationAgainstTask</string>
+	<key>reusableLoopOffset</key>
+	<string>storyboardContextLocation</string>
+	<key>sceneInLayer</key>
+	<string>effectStyleRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveUsageInset</key>
+	<string>asynchronousChannelsFeedback</string>
+	<key>alignmentPhaseEdge</key>
+	<string>resourceNumberSpeed</string>
+	<key>beginnerGroupBrightness</key>
+	<string>inactiveTweenFlags</string>
+	<key>desktopRouteVisibility</key>
+	<string>paddingScopeFrequency</string>
+	<key>intermediateTickerTail</key>
+	<string>sceneAroundFacade</string>
+	<key>layerDecoratorOffset</key>
+	<string>viewPlatformCenter</string>
+	<key>movementPerBridge</key>
+	<string>utilOperationFlags</string>
+	<key>relationalAllocatorShape</key>
+	<string>decorationPerCycle</string>
+	<key>resourceContextPadding</key>
+	<string>touchThroughFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEnvironmentCount</key>
+	<string>stepAndJob</string>
+	<key>channelValueBottom</key>
+	<string>entityVisitorInteraction</string>
+	<key>intuitiveIntegerScale</key>
+	<string>hierarchicalEventOrientation</string>
+	<key>iterativeColumnSize</key>
+	<string>sampleDuringMethod</string>
+	<key>nodeDecoratorHead</key>
+	<string>stateThroughNumber</string>
+	<key>timerInEnvironment</key>
+	<string>promiseIncludeSingleton</string>
+</dict>
+</plist>

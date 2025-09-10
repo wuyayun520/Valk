@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEntropyTail</key>
+	<string>navigatorForState</string>
+	<key>intermediateStorePadding</key>
+	<string>navigationAgainstInterpreter</string>
+	<key>otherLabelPadding</key>
+	<string>segmentStageIndex</string>
+	<key>subscriptionPhaseBrightness</key>
+	<string>containerPhaseAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInterfaceValidation</key>
+	<string>configurationWithTask</string>
+	<key>flexibleChapterFlags</key>
+	<string>radiusValueLeft</string>
+	<key>inheritedRadiusType</key>
+	<string>constChannelOpacity</string>
+	<key>missedContractionFeedback</key>
+	<string>positionFunctionTail</string>
+	<key>particleEnvironmentSpacing</key>
+	<string>arithmeticDespiteForm</string>
+	<key>progressbarPatternRate</key>
+	<string>labelTemplePosition</string>
+	<key>repositoryDecoratorBehavior</key>
+	<string>symmetricConsumerFrequency</string>
+	<key>resilientResponseSkewx</key>
+	<string>popupAdapterBorder</string>
+	<key>sinkInsideFunction</key>
+	<string>activeGrayscaleRate</string>
+	<key>timerSinceSingleton</key>
+	<string>denseQueryRate</string>
+</dict>
+</plist>

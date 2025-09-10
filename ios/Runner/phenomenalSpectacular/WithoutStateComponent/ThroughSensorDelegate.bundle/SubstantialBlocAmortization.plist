@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalControllerDistance</key>
+	<string>statelessWidgetFrequency</string>
+	<key>respectiveCursorSkewy</key>
+	<string>granularCubitMargin</string>
+	<key>sinkAlongVisitor</key>
+	<string>painterBufferBrightness</string>
+	<key>smartObserverTail</key>
+	<string>eventVisitorDepth</string>
+</dict>
+</plist>

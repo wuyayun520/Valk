@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerUntilNumber</key>
+	<string>mainFactoryDensity</string>
+	<key>dependencyForMemento</key>
+	<string>sharedWidgetTheme</string>
+	<key>injectionViaAction</key>
+	<string>handlerContainComposite</string>
+	<key>overlayAndFunction</key>
+	<string>explicitCubeBorder</string>
+	<key>riverpodViaNumber</key>
+	<string>cubitExceptParam</string>
+	<key>sequentialParticleIndex</key>
+	<string>declarativeShaderInteraction</string>
+</dict>
+</plist>

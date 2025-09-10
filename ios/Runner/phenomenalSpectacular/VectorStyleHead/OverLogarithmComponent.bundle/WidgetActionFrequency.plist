@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitVersusPrototype</key>
+	<string>containerWorkVisibility</string>
+	<key>missionThroughOperation</key>
+	<string>capsuleKindAppearance</string>
+	<key>normStageEdge</key>
+	<string>overlayNearAction</string>
+	<key>segmentChainIndex</key>
+	<string>characterViaState</string>
+	<key>stateModeScale</key>
+	<string>stateOrParam</string>
+	<key>tickerPlatformTheme</key>
+	<string>topicContainBridge</string>
+</dict>
+</plist>

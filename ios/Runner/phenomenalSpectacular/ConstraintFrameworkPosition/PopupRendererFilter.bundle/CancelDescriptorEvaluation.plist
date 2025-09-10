@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWorkDuration</key>
+	<string>graphicAsFunction</string>
+	<key>greatGridCount</key>
+	<string>localResourceMargin</string>
+	<key>hashVarShade</key>
+	<string>exceptionAgainstParam</string>
+	<key>integerContainScope</key>
+	<string>opaqueUsageDelay</string>
+	<key>pointUntilProxy</key>
+	<string>semanticPositionedDensity</string>
+	<key>precisionPhaseDepth</key>
+	<string>swiftVisitorBound</string>
+	<key>resolverFromStage</key>
+	<string>modelStructureEdge</string>
+	<key>subsequentListenerInteraction</key>
+	<string>toolExceptLevel</string>
+	<key>ternarySingletonCenter</key>
+	<string>channelAtContext</string>
+</dict>
+</plist>

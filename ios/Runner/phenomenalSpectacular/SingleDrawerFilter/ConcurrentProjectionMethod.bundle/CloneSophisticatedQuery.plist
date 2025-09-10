@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryKindCoord</key>
+	<string>metadataObserverDelay</string>
+	<key>appbarFromScope</key>
+	<string>usedRequestDensity</string>
+	<key>disabledCharacterShape</key>
+	<string>entityInsideProxy</string>
+	<key>hierarchicalRouterInset</key>
+	<string>navigatorContextDirection</string>
+	<key>localizationWithoutForm</key>
+	<string>uniformCoordinatorOpacity</string>
+	<key>paddingByFunction</key>
+	<string>optionPlatformDepth</string>
+	<key>providerVersusState</key>
+	<string>grayscaleStyleResponse</string>
+	<key>statelessApertureAppearance</key>
+	<string>mediocreTaskLocation</string>
+	<key>statelessModelTint</key>
+	<string>mediumSinkDirection</string>
+</dict>
+</plist>

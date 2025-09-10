@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncActionEdge</key>
+	<string>responsiveResultDepth</string>
+	<key>buttonCycleAcceleration</key>
+	<string>heapByContext</string>
+	<key>commonPetTint</key>
+	<string>textMethodContrast</string>
+	<key>heapAgainstObserver</key>
+	<string>visibleUtilVelocity</string>
+	<key>optimizerAwayBridge</key>
+	<string>multiplicationLayerVisibility</string>
+	<key>presenterMethodColor</key>
+	<string>factoryOrActivity</string>
+	<key>staticSlashSize</key>
+	<string>respectiveBulletBottom</string>
+	<key>textureVariableRight</key>
+	<string>storyboardThanStructure</string>
+	<key>usedSubscriptionBottom</key>
+	<string>observerDespiteMemento</string>
+</dict>
+</plist>

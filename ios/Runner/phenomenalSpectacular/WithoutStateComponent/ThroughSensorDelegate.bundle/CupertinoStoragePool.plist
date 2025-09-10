@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLayoutMode</key>
+	<string>navigationTypePressure</string>
+	<key>aperturePatternSpeed</key>
+	<string>retainedMarginAlignment</string>
+	<key>finalResourceAlignment</key>
+	<string>finalToolOrientation</string>
+	<key>sequentialPositionOrigin</key>
+	<string>notifierThroughContext</string>
+	<key>storeChainMomentum</key>
+	<string>backwardModelSpacing</string>
+</dict>
+</plist>

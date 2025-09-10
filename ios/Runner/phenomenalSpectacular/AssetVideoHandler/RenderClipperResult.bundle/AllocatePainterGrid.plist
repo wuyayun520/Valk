@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMemberKind</key>
+	<string>scaleAndSingleton</string>
+	<key>blocStateType</key>
+	<string>observerTierSpeed</string>
+	<key>controllerAboutLevel</key>
+	<string>asyncOperationColor</string>
+	<key>cubitCommandMargin</key>
+	<string>singletonByTask</string>
+	<key>dimensionWithForm</key>
+	<string>precisionLikePhase</string>
+	<key>groupEnvironmentSpacing</key>
+	<string>responseAtPhase</string>
+	<key>overlayMediatorOpacity</key>
+	<string>asynchronousModalBehavior</string>
+	<key>primaryChapterMode</key>
+	<string>sequentialCoordinatorSpeed</string>
+	<key>timerFunctionForce</key>
+	<string>optionTaskForce</string>
+</dict>
+</plist>

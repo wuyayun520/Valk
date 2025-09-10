@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionCompositeMode</key>
+	<string>staticEntropyRight</string>
+	<key>sampleParameterMode</key>
+	<string>referenceOrVariable</string>
+	<key>specifierChainRotation</key>
+	<string>documentNumberSaturation</string>
+	<key>tickerOperationAlignment</key>
+	<string>tickerInVisitor</string>
+	<key>utilTaskOrigin</key>
+	<string>histogramModeDepth</string>
+</dict>
+</plist>

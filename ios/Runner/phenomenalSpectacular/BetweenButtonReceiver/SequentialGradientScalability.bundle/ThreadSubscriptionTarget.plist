@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionInsideMode</key>
+	<string>transitionPlatformInset</string>
+	<key>dynamicSpineSaturation</key>
+	<string>dependencyAmongCommand</string>
+	<key>finalSensorVisible</key>
+	<string>groupMediatorColor</string>
+	<key>mediaqueryObserverHue</key>
+	<string>constraintOutsideBuffer</string>
+	<key>pointKindName</key>
+	<string>cartesianCosineLocation</string>
+	<key>streamVersusCommand</key>
+	<string>fusedCacheVisible</string>
+</dict>
+</plist>

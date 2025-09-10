@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalListviewMode</key>
+	<string>intermediateWidgetColor</string>
+	<key>disabledMobileState</key>
+	<string>typicalBaseBrightness</string>
+	<key>frameDuringCycle</key>
+	<string>animatedEntityMargin</string>
+	<key>fusedSpotEdge</key>
+	<string>diffableTransitionAcceleration</string>
+	<key>materialSinceTask</key>
+	<string>futureDecoratorInteraction</string>
+	<key>metadataInterpreterDirection</key>
+	<string>flexDecoratorTint</string>
+	<key>mobileParameterAcceleration</key>
+	<string>frameAwayComposite</string>
+	<key>protectedAlphaPosition</key>
+	<string>vectorByStrategy</string>
+</dict>
+</plist>

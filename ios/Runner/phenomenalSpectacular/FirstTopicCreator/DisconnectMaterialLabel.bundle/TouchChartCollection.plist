@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionSystemTransparency</key>
+	<string>animatedcontainerSystemPressure</string>
+	<key>navigatorFacadeBehavior</key>
+	<string>typicalResponseOrientation</string>
+	<key>priorityAsFramework</key>
+	<string>intuitiveProviderTint</string>
+	<key>publicRemainderOpacity</key>
+	<string>subscriptionSystemStyle</string>
+	<key>tensorViewOpacity</key>
+	<string>concreteLocalizationTransparency</string>
+</dict>
+</plist>

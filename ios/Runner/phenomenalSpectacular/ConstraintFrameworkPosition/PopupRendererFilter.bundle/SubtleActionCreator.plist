@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandOfContext</key>
+	<string>animatedcontainerAsParameter</string>
+	<key>coordinatorContextPosition</key>
+	<string>webUsecaseDepth</string>
+	<key>cycleWithKind</key>
+	<string>callbackBeyondInterpreter</string>
+	<key>displayableFutureEdge</key>
+	<string>asyncOrFacade</string>
+	<key>popupBufferSkewy</key>
+	<string>resultBesidePrototype</string>
+	<key>referenceMethodSize</key>
+	<string>interactiveTaskBorder</string>
+	<key>routePerForm</key>
+	<string>chartVersusProxy</string>
+</dict>
+</plist>

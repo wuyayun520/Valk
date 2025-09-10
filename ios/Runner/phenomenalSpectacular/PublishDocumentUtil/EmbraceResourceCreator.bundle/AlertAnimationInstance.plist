@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelNearStyle</key>
+	<string>signatureModeType</string>
+	<key>navigationPerCommand</key>
+	<string>resourceValueVisibility</string>
+	<key>persistentLayoutPosition</key>
+	<string>axisPatternShape</string>
+	<key>routeAtEnvironment</key>
+	<string>tappableSwiftPosition</string>
+</dict>
+</plist>

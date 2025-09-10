@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarViaScope</key>
+	<string>compositionParameterShade</string>
+	<key>cartesianRowLeft</key>
+	<string>completerInsideStage</string>
+	<key>euclideanManagerOffset</key>
+	<string>providerStructureMargin</string>
+	<key>sizedboxFrameworkContrast</key>
+	<string>aspectratioInVariable</string>
+</dict>
+</plist>

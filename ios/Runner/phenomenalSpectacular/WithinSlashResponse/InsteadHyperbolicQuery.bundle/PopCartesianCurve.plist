@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternVisibility</key>
+	<string>iterativeSliderHue</string>
+	<key>characterVariableAlignment</key>
+	<string>prismaticVariantSkewx</string>
+	<key>constraintMethodTag</key>
+	<string>pinchableStateVisibility</string>
+	<key>gradientPlatformContrast</key>
+	<string>segmentWithoutBuffer</string>
+	<key>heapMethodValidation</key>
+	<string>materialStateSpacing</string>
+	<key>subtleBuilderLocation</key>
+	<string>rowTierAppearance</string>
+	<key>subtleSkinTransparency</key>
+	<string>lossCommandStyle</string>
+	<key>textureCycleOrigin</key>
+	<string>switchProxyStatus</string>
+</dict>
+</plist>

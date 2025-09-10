@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataDuringStrategy</key>
+	<string>liteControllerShade</string>
+	<key>modelWithoutParameter</key>
+	<string>activityTypeCoord</string>
+	<key>profileBufferBound</key>
+	<string>referenceVersusShape</string>
+	<key>staticManagerForce</key>
+	<string>originalTopicDirection</string>
+</dict>
+</plist>

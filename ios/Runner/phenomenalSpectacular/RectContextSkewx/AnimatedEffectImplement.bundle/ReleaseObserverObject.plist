@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDecorationStyle</key>
+	<string>particleAndEnvironment</string>
+	<key>cosineFunctionRotation</key>
+	<string>cupertinoCallbackTheme</string>
+	<key>graphThroughMode</key>
+	<string>entityInVar</string>
+	<key>listenerStructureCount</key>
+	<string>geometricViewInteraction</string>
+	<key>loopDespiteMethod</key>
+	<string>decorationFlyweightInterval</string>
+	<key>retainedRectFlags</key>
+	<string>interactiveIconHead</string>
+	<key>usageObserverTransparency</key>
+	<string>promiseSingletonSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalExceptionFrequency</key>
+	<string>logAgainstContext</string>
+	<key>lazyReducerSize</key>
+	<string>queueBeyondFlyweight</string>
+	<key>liteAnimationVisible</key>
+	<string>canvasAroundTier</string>
+	<key>oldViewTag</key>
+	<string>euclideanBorderFormat</string>
+	<key>richtextAwayComposite</key>
+	<string>paddingVisitorValidation</string>
+	<key>scrollViaProcess</key>
+	<string>cubeViaOperation</string>
+	<key>skirtChainRotation</key>
+	<string>consumerThanContext</string>
+</dict>
+</plist>

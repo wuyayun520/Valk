@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationContextInterval</key>
+	<string>movementFromLevel</string>
+	<key>euclideanZoneVelocity</key>
+	<string>protectedProviderRotation</string>
+	<key>eventDespiteSingleton</key>
+	<string>equipmentViaSingleton</string>
+	<key>fragmentBufferLeft</key>
+	<string>routeJobName</string>
+	<key>heroTypeSpeed</key>
+	<string>navigatorStyleBrightness</string>
+	<key>injectionScopeMomentum</key>
+	<string>radiusAwayVar</string>
+	<key>providerJobRate</key>
+	<string>scrollableLoopBehavior</string>
+	<key>resourceIncludeTask</key>
+	<string>menuStrategyOrigin</string>
+</dict>
+</plist>

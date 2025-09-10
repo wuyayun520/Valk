@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScreenValidation</key>
+	<string>alertDuringCommand</string>
+	<key>awaitWithState</key>
+	<string>numericalResultInset</string>
+	<key>cartesianExceptionCoord</key>
+	<string>rapidMobxName</string>
+	<key>dependencyAndKind</key>
+	<string>tabbarByProcess</string>
+	<key>dynamicChecklistDelay</key>
+	<string>interactiveRectInteraction</string>
+	<key>opaqueTitleScale</key>
+	<string>completerContainEnvironment</string>
+	<key>parallelRouteStatus</key>
+	<string>popupLayerPressure</string>
+	<key>rectStageSkewy</key>
+	<string>aspectratioAgainstEnvironment</string>
+	<key>scrollKindSpacing</key>
+	<string>slashMethodDuration</string>
+</dict>
+</plist>

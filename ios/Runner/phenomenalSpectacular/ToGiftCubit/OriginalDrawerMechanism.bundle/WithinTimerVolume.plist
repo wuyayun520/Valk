@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstFeatureShape</key>
+	<string>projectionVisitorType</string>
+	<key>observerFormTint</key>
+	<string>activityIncludeForm</string>
+	<key>resizableIntensityForce</key>
+	<string>rowOperationFrequency</string>
+	<key>scrollAsStrategy</key>
+	<string>chartMediatorRate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePopupPressure</key>
+	<string>lazyPopupDirection</string>
+	<key>equipmentIncludeMethod</key>
+	<string>mainMethodOpacity</string>
+	<key>fixedConstraintContrast</key>
+	<string>spriteVersusEnvironment</string>
+	<key>nativeStepType</key>
+	<string>marginExceptValue</string>
+	<key>permanentLabelTail</key>
+	<string>displayableSpineTension</string>
+	<key>prevErrorPressure</key>
+	<string>labelSinceStructure</string>
+	<key>retainedLocalizationPressure</key>
+	<string>featureContainNumber</string>
+	<key>routeCycleSize</key>
+	<string>variantObserverSkewy</string>
+</dict>
+</plist>

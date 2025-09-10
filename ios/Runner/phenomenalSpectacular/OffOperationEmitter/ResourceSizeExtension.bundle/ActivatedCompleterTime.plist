@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarViaDecorator</key>
+	<string>scaffoldOperationType</string>
+	<key>curveStyleState</key>
+	<string>scaffoldAndAdapter</string>
+	<key>globalCollectionFrequency</key>
+	<string>resilientGrainRate</string>
+	<key>injectionAmongChain</key>
+	<string>multiplicationStructureBottom</string>
+	<key>mapLevelStatus</key>
+	<string>metadataSinceSingleton</string>
+	<key>projectIncludeSystem</key>
+	<string>rectCompositeScale</string>
+	<key>singletonVersusCycle</key>
+	<string>channelInDecorator</string>
+	<key>textForVisitor</key>
+	<string>statefulBrushKind</string>
+	<key>tweenThroughJob</key>
+	<string>buttonFacadeMargin</string>
+</dict>
+</plist>

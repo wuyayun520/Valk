@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSystemBrightness</key>
+	<string>positionFunctionAppearance</string>
+	<key>displayableGridVisibility</key>
+	<string>switchTaskHead</string>
+	<key>fragmentStateSkewy</key>
+	<string>requestJobFrequency</string>
+	<key>nativeRectInset</key>
+	<string>hardStatelessSaturation</string>
+	<key>offsetPhaseOpacity</key>
+	<string>spotActivityName</string>
+	<key>smartDurationTransparency</key>
+	<string>labelSystemSkewx</string>
+	<key>techniqueAboutPhase</key>
+	<string>cubitVarDuration</string>
+	<key>textCycleBrightness</key>
+	<string>storeStyleTail</string>
+</dict>
+</plist>

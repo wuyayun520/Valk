@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnChainEdge</key>
+	<string>rectJobValidation</string>
+	<key>factoryIncludeKind</key>
+	<string>buttonProcessMode</string>
+	<key>fixedButtonDensity</key>
+	<string>equalizationAndFunction</string>
+	<key>fixedKernelFormat</key>
+	<string>resizableEventVelocity</string>
+	<key>providerAboutJob</key>
+	<string>paddingInterpreterSkewx</string>
+	<key>statefulRectSpacing</key>
+	<string>dependencyOperationTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackForProcess</key>
+	<string>spotContainChain</string>
+	<key>crudeSamplePressure</key>
+	<string>skinOutsideNumber</string>
+	<key>gridEnvironmentTheme</key>
+	<string>dependencyProxyTint</string>
+	<key>immutableStatelessDelay</key>
+	<string>riverpodFormDelay</string>
+	<key>missedInstructionDirection</key>
+	<string>tabbarContainShape</string>
+	<key>pinchableSessionSpacing</key>
+	<string>shaderWithoutFlyweight</string>
+	<key>smallTitleVisibility</key>
+	<string>reducerAdapterBehavior</string>
+	<key>sustainableBufferPressure</key>
+	<string>subpixelShapeInteraction</string>
+	<key>toolStateTop</key>
+	<string>statelessInkwellSkewx</string>
+</dict>
+</plist>

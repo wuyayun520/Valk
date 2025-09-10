@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBeyondParameter</key>
+	<string>layerThroughPhase</string>
+	<key>cacheDuringFlyweight</key>
+	<string>immutableDrawerBottom</string>
+	<key>directCompleterDistance</key>
+	<string>queueCycleBottom</string>
+	<key>greatSpotCount</key>
+	<string>materialDescriptionBorder</string>
+	<key>normalTransformerOrientation</key>
+	<string>textStyleSpacing</string>
+	<key>painterThanPrototype</key>
+	<string>eagerScaleDuration</string>
+	<key>pivotalDelegateStatus</key>
+	<string>iconMediatorVisible</string>
+	<key>reducerDuringVisitor</key>
+	<string>unsortedHeapAlignment</string>
+	<key>usecasePlatformVelocity</key>
+	<string>backwardRadiusDuration</string>
+</dict>
+</plist>

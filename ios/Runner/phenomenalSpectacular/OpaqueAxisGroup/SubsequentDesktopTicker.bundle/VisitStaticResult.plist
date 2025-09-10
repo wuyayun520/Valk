@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterScopeOrigin</key>
+	<string>subscriptionDespiteLayer</string>
+	<key>controllerWithoutState</key>
+	<string>eventInDecorator</string>
+	<key>interactorProxyFormat</key>
+	<string>delegateAsSystem</string>
+	<key>navigatorTaskAppearance</key>
+	<string>functionalCompleterDistance</string>
+	<key>nodeStructureFrequency</key>
+	<string>progressbarScopeCount</string>
+	<key>petAgainstContext</key>
+	<string>overlayActionFormat</string>
+	<key>relationalBuilderDirection</key>
+	<string>kernelAndInterpreter</string>
+	<key>sliderBridgeIndex</key>
+	<string>exceptionWithStructure</string>
+</dict>
+</plist>

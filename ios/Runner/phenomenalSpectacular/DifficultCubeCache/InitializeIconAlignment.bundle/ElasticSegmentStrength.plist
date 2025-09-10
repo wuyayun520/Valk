@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCompleterBottom</key>
+	<string>responseAndMemento</string>
+	<key>brushStylePadding</key>
+	<string>stepThroughSingleton</string>
+	<key>cellMediatorIndex</key>
+	<string>integerPatternVisible</string>
+	<key>elasticSegueInteraction</key>
+	<string>factoryLevelStatus</string>
+	<key>pivotalAppbarScale</key>
+	<string>referenceFunctionMargin</string>
+	<key>primaryControllerType</key>
+	<string>factoryLayerTop</string>
+	<key>reusableGateOpacity</key>
+	<string>petInterpreterHead</string>
+</dict>
+</plist>

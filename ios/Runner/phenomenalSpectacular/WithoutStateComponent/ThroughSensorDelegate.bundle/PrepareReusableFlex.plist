@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAllocatorDirection</key>
+	<string>aspectAroundChain</string>
+	<key>containerMediatorEdge</key>
+	<string>appbarAroundTier</string>
+	<key>interactiveUnaryHead</key>
+	<string>popupFormTail</string>
+	<key>petSingletonDistance</key>
+	<string>materialUntilDecorator</string>
+	<key>roleNearProcess</key>
+	<string>responsiveGraphFeedback</string>
+	<key>tensorSemanticsVelocity</key>
+	<string>rowSystemOffset</string>
+	<key>threadAsSystem</key>
+	<string>cubitPerLayer</string>
+</dict>
+</plist>

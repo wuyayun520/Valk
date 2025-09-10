@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSinkInset</key>
+	<string>descriptionPerObserver</string>
+	<key>isolateAmongStructure</key>
+	<string>columnViaMemento</string>
+	<key>localizationPrototypeDensity</key>
+	<string>sharedBorderRotation</string>
+	<key>offsetKindTransparency</key>
+	<string>resultVariableMode</string>
+	<key>themeAlongType</key>
+	<string>enabledTableTint</string>
+</dict>
+</plist>

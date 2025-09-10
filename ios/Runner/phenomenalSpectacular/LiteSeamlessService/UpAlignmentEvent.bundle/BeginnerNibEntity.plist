@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredMatrixRate</key>
+	<string>menuWithPhase</string>
+	<key>lazySessionTheme</key>
+	<string>vectorSingletonSkewx</string>
+	<key>relationalResolverCount</key>
+	<string>mobileCurveInteraction</string>
+	<key>reusableMediaCount</key>
+	<string>optionWithoutSingleton</string>
+	<key>scaleNumberDirection</key>
+	<string>groupActionVelocity</string>
+	<key>scrollableResourceInteraction</key>
+	<string>durationAwayJob</string>
+	<key>tappableLabelName</key>
+	<string>movementBesideSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInMethod</key>
+	<string>richtextThroughSystem</string>
+	<key>customContainerTag</key>
+	<string>requiredResultName</string>
+	<key>localizationProxySpacing</key>
+	<string>storeModeMargin</string>
+	<key>nextPageviewTheme</key>
+	<string>publicUtilBound</string>
+	<key>priorityAmongStyle</key>
+	<string>permissiveBlocKind</string>
+	<key>storageAsSystem</key>
+	<string>certificateFormColor</string>
+</dict>
+</plist>

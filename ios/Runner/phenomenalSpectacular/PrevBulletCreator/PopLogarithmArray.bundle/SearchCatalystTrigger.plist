@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleResponseDepth</key>
+	<string>singletonWithoutShape</string>
+	<key>convolutionLevelIndex</key>
+	<string>smartQuerySkewy</string>
+	<key>customizedTickerShade</key>
+	<string>hierarchicalWidgetLeft</string>
+	<key>flexibleBlocOrientation</key>
+	<string>standaloneNodeEdge</string>
+	<key>functionalOptimizerInterval</key>
+	<string>stampJobSkewx</string>
+	<key>injectionParamDepth</key>
+	<string>textWithoutState</string>
+</dict>
+</plist>

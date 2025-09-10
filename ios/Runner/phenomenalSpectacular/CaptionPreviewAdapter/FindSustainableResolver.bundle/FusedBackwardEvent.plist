@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVarTheme</key>
+	<string>providerParameterSaturation</string>
+	<key>delicateMemberTransparency</key>
+	<string>deferredTextfieldOrientation</string>
+	<key>interactorCommandOrientation</key>
+	<string>gestureBySystem</string>
+	<key>navigatorStructureForce</key>
+	<string>normStageMode</string>
+	<key>resourceAtVariable</key>
+	<string>currentAsyncDelay</string>
+</dict>
+</plist>

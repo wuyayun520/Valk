@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDuringComposite</key>
+	<string>mediaqueryAtSingleton</string>
+	<key>channelsOutsideStructure</key>
+	<string>collectionWithFunction</string>
+	<key>declarativeVectorDirection</key>
+	<string>opaqueChecklistMargin</string>
+	<key>equalizationAndParameter</key>
+	<string>storyboardMementoShape</string>
+	<key>functionalFactoryMargin</key>
+	<string>awaitDespiteAction</string>
+	<key>managerMediatorDepth</key>
+	<string>skinModeValidation</string>
+	<key>momentumLikeMethod</key>
+	<string>scenePhaseLocation</string>
+	<key>providerPhaseRight</key>
+	<string>gradientProcessBorder</string>
+</dict>
+</plist>

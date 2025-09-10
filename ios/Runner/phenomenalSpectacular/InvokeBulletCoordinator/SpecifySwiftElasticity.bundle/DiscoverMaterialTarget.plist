@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerOrForm</key>
+	<string>animationPatternContrast</string>
+	<key>controllerDespiteTask</key>
+	<string>positionAdapterForce</string>
+	<key>discardedBatchAppearance</key>
+	<string>responsiveRowDistance</string>
+	<key>projectIncludeChain</key>
+	<string>permissiveAnchorRight</string>
+	<key>radioBesideLevel</key>
+	<string>projectionStructureRate</string>
+	<key>statelessPositionedContrast</key>
+	<string>sinePerBuffer</string>
+	<key>threadAlongChain</key>
+	<string>resourceWithObserver</string>
+	<key>zoneThroughOperation</key>
+	<string>metadataPatternAlignment</string>
+</dict>
+</plist>

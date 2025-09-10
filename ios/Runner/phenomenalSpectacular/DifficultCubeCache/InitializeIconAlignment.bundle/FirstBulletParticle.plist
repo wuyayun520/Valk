@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorOfChain</key>
+	<string>tabbarDecoratorResponse</string>
+	<key>discardedDrawerSpeed</key>
+	<string>materialPerFramework</string>
+	<key>factoryCommandBorder</key>
+	<string>basicWidgetCenter</string>
+	<key>mediumThemeMargin</key>
+	<string>requestStrategyForce</string>
+	<key>observerBesideStage</key>
+	<string>ternaryExceptAdapter</string>
+	<key>sineFromEnvironment</key>
+	<string>actionSinceLayer</string>
+	<key>sinkAsFunction</key>
+	<string>utilAwayActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDropdownbuttonLeft</key>
+	<string>menuByStage</string>
+	<key>fusedCaptionRotation</key>
+	<string>ephemeralLoopRotation</string>
+	<key>hierarchicalPriorityTransparency</key>
+	<string>transitionJobKind</string>
+	<key>queryStrategyFlags</key>
+	<string>staticCacheSkewx</string>
+	<key>requestAsStage</key>
+	<string>resolverTempleName</string>
+	<key>staticOptionKind</key>
+	<string>unsortedLocalizationAlignment</string>
+	<key>streamFunctionMargin</key>
+	<string>slashTaskMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineNearPhase</key>
+	<string>cupertinoUsageTag</string>
+	<key>certificatePerFramework</key>
+	<string>denseLoopRotation</string>
+	<key>flexibleGesturedetectorBehavior</key>
+	<string>mediocreNotifierBehavior</string>
+	<key>gridLayerInterval</key>
+	<string>factoryIncludeProcess</string>
+	<key>interpolationIncludeChain</key>
+	<string>listenerInComposite</string>
+	<key>storageForCycle</key>
+	<string>otherTablePosition</string>
+	<key>unaryForSystem</key>
+	<string>usecaseBridgeSkewy</string>
+</dict>
+</plist>

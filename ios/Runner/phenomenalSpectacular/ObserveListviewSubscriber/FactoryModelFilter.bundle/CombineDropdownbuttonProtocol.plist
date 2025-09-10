@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletKindTint</key>
+	<string>serviceObserverCenter</string>
+	<key>explicitSizeSaturation</key>
+	<string>requiredColumnDepth</string>
+	<key>featureMediatorEdge</key>
+	<string>primarySkirtBorder</string>
+	<key>groupInsideCommand</key>
+	<string>grainProcessOrigin</string>
+	<key>scrollableSymbolRotation</key>
+	<string>smartSkinScale</string>
+	<key>sliderPerMethod</key>
+	<string>pinchableRowHue</string>
+	<key>storeThroughActivity</key>
+	<string>statefulBesideStructure</string>
+	<key>vectorCompositeDensity</key>
+	<string>sophisticatedIntensityEdge</string>
+	<key>vectorCompositeInset</key>
+	<string>hardDrawerForce</string>
+</dict>
+</plist>

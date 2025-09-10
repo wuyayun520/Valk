@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInPhase</key>
+	<string>uniformButtonTail</string>
+	<key>builderParamSkewy</key>
+	<string>tickerVersusAction</string>
+	<key>currentScaffoldName</key>
+	<string>callbackModeAppearance</string>
+	<key>equalizationTierTop</key>
+	<string>allocatorStrategyName</string>
+	<key>independentHistogramResponse</key>
+	<string>unactivatedEntityFlags</string>
+	<key>injectionPerComposite</key>
+	<string>awaitLayerEdge</string>
+	<key>layerFromOperation</key>
+	<string>futureVisitorOrigin</string>
+	<key>momentumValueValidation</key>
+	<string>diffableResponseTransparency</string>
+	<key>themeAtBuffer</key>
+	<string>tickerBridgeColor</string>
+</dict>
+</plist>

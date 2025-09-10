@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAnimationMargin</key>
+	<string>symmetricTouchSkewy</string>
+	<key>concreteAnchorVisibility</key>
+	<string>providerCommandBehavior</string>
+	<key>largeNormOrientation</key>
+	<string>permissiveSubscriptionTransparency</string>
+	<key>optimizerAroundPlatform</key>
+	<string>uniformResourceFlags</string>
+</dict>
+</plist>

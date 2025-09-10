@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAgainstCycle</key>
+	<string>routerFrameworkOffset</string>
+	<key>cycleModeMargin</key>
+	<string>pinchableBuilderLeft</string>
+	<key>displayablePopupDepth</key>
+	<string>modelTempleSkewy</string>
+	<key>entityMediatorLeft</key>
+	<string>arithmeticValueStyle</string>
+	<key>presenterPhaseHue</key>
+	<string>sessionVarColor</string>
+	<key>routeValueTheme</key>
+	<string>pageviewAmongScope</string>
+	<key>tweenAmongLayer</key>
+	<string>normalChartSize</string>
+	<key>vectorSingletonPadding</key>
+	<string>asynchronousIntensityPressure</string>
+</dict>
+</plist>

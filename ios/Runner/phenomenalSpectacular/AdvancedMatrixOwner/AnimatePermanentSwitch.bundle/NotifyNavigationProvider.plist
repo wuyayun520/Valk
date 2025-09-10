@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaLevel</key>
+	<string>rowExceptType</string>
+	<key>containerContextPressure</key>
+	<string>subpixelShapeBorder</string>
+	<key>cursorSinceState</key>
+	<string>gesturedetectorFromBuffer</string>
+	<key>fixedHandlerFrequency</key>
+	<string>workflowSystemResponse</string>
+	<key>managerSinceObserver</key>
+	<string>lostPrecisionFeedback</string>
+	<key>metadataAwaySingleton</key>
+	<string>segmentDespitePattern</string>
+	<key>sizeAtActivity</key>
+	<string>decorationWithoutShape</string>
+	<key>sortedClipperSpacing</key>
+	<string>comprehensiveZoneVelocity</string>
+	<key>tappableFeatureColor</key>
+	<string>canvasFunctionCoord</string>
+</dict>
+</plist>

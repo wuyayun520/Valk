@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnimatedcontainerFrequency</key>
+	<string>entityFlyweightVelocity</string>
+	<key>desktopTweenRate</key>
+	<string>particleAndComposite</string>
+	<key>dialogsEnvironmentRate</key>
+	<string>projectValueCenter</string>
+	<key>globalGrainAppearance</key>
+	<string>subsequentOffsetTransparency</string>
+	<key>mobxOfCommand</key>
+	<string>checkboxLevelDensity</string>
+	<key>subscriptionShapeStatus</key>
+	<string>taskFlyweightBound</string>
+	<key>tensorMarginIndex</key>
+	<string>labelDuringVariable</string>
+	<key>toolFromKind</key>
+	<string>contractionJobScale</string>
+	<key>zoneStructureSize</key>
+	<string>liteLogResponse</string>
+</dict>
+</plist>

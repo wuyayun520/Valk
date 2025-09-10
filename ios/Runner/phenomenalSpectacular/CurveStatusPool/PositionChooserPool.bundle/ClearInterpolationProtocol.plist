@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGesturePadding</key>
+	<string>seamlessSliderTransparency</string>
+	<key>discardedEntropyFlags</key>
+	<string>usageParameterOffset</string>
+	<key>functionalErrorSpeed</key>
+	<string>topicAtBridge</string>
+	<key>positionedAmongObserver</key>
+	<string>isolateThroughVariable</string>
+	<key>sortedViewFlags</key>
+	<string>enabledModulusColor</string>
+	<key>spotStageStyle</key>
+	<string>sequentialCompositionOpacity</string>
+	<key>symbolVariableStatus</key>
+	<string>toolOrBridge</string>
+</dict>
+</plist>

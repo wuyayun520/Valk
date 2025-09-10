@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAtStyle</key>
+	<string>resizableRadiusTail</string>
+	<key>disabledEventShade</key>
+	<string>pointStageForce</string>
+	<key>managerPlatformContrast</key>
+	<string>coordinatorFlyweightScale</string>
+	<key>modulusAwaySingleton</key>
+	<string>referenceThroughPrototype</string>
+	<key>topicVisitorPressure</key>
+	<string>gridByProxy</string>
+</dict>
+</plist>

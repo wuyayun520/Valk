@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsDespiteInterpreter</key>
+	<string>lastCursorResponse</string>
+	<key>layerOutsideFramework</key>
+	<string>progressbarObserverPosition</string>
+	<key>newestNavigatorState</key>
+	<string>inheritedChartAlignment</string>
+	<key>nodeBufferBehavior</key>
+	<string>documentAwayStyle</string>
+	<key>routeContextName</key>
+	<string>transformerUntilValue</string>
+	<key>stampWorkShade</key>
+	<string>materialMementoValidation</string>
+</dict>
+</plist>

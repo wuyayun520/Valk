@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderActivityInteraction</key>
+	<string>batchBufferIndex</string>
+	<key>buttonVariableDuration</key>
+	<string>animationParameterTag</string>
+	<key>consumerBesideAdapter</key>
+	<string>unactivatedSemanticsMode</string>
+	<key>modulusPlatformStyle</key>
+	<string>statefulVersusDecorator</string>
+	<key>stepStateHead</key>
+	<string>switchByLayer</string>
+	<key>storeScopeBehavior</key>
+	<string>eventSystemColor</string>
+	<key>taskInsideParameter</key>
+	<string>numericalIndicatorOffset</string>
+</dict>
+</plist>

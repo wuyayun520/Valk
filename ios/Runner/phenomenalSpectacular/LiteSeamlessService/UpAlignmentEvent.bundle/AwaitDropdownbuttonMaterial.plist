@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonVectorPosition</key>
+	<string>mainRouterBrightness</string>
+	<key>displayableAxisInteraction</key>
+	<string>usedHandlerTag</string>
+	<key>entropyOrBridge</key>
+	<string>flexFacadeFrequency</string>
+	<key>heroAsMediator</key>
+	<string>decorationVersusLayer</string>
+	<key>mainTransitionOpacity</key>
+	<string>iconBridgeTop</string>
+	<key>pinchableCurvePadding</key>
+	<string>cupertinoHandlerPosition</string>
+	<key>popupAlongMethod</key>
+	<string>nibInterpreterScale</string>
+	<key>relationalInterfaceHead</key>
+	<string>diffableTexturePadding</string>
+	<key>zoneParameterBrightness</key>
+	<string>precisionAboutVisitor</string>
+</dict>
+</plist>

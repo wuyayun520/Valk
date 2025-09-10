@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStageShade</key>
+	<string>crucialMatrixVisible</string>
+	<key>cupertinoObserverOrientation</key>
+	<string>commandJobVelocity</string>
+	<key>dedicatedContainerRotation</key>
+	<string>enabledPopupHue</string>
+	<key>immediateInterfaceShade</key>
+	<string>nodeAroundFacade</string>
+	<key>layoutInBridge</key>
+	<string>mobileTickerBehavior</string>
+	<key>mediumNavigatorDirection</key>
+	<string>graphicScopeAcceleration</string>
+	<key>paddingForCommand</key>
+	<string>gridFormSize</string>
+	<key>scaleDuringFlyweight</key>
+	<string>permanentMatrixBehavior</string>
+	<key>sizeJobSpeed</key>
+	<string>sceneShapeVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsIncludePattern</key>
+	<string>routerSystemOpacity</string>
+	<key>disabledPageviewMomentum</key>
+	<string>firstResponseBrightness</string>
+	<key>hashDuringForm</key>
+	<string>persistentManagerFlags</string>
+	<key>layoutPatternOpacity</key>
+	<string>controllerMementoForce</string>
+	<key>layoutStageForce</key>
+	<string>modelOperationVisible</string>
+</dict>
+</plist>

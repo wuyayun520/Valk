@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationModeHue</key>
+	<string>streamVarValidation</string>
+	<key>dedicatedEffectBehavior</key>
+	<string>normalSingletonBorder</string>
+	<key>masterAgainstBridge</key>
+	<string>cupertinoReductionContrast</string>
+	<key>metadataInTask</key>
+	<string>mainMovementSpacing</string>
+	<key>richtextScopeMode</key>
+	<string>functionalIntegerResponse</string>
+	<key>titleVarDensity</key>
+	<string>radiusCycleScale</string>
+</dict>
+</plist>

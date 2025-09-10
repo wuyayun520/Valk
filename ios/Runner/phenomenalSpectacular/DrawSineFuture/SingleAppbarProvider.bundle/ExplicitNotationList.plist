@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLocalizationLeft</key>
+	<string>primaryThreadTransparency</string>
+	<key>progressbarForVar</key>
+	<string>intermediateNibCount</string>
+	<key>scrollablePresenterInteraction</key>
+	<string>oldPositionCenter</string>
+	<key>textIncludeForm</key>
+	<string>spriteShapeFrequency</string>
+	<key>tickerOrContext</key>
+	<string>smartAlignmentDirection</string>
+	<key>usedChecklistTail</key>
+	<string>discardedGridTint</string>
+	<key>workflowByKind</key>
+	<string>bitrateBridgeRotation</string>
+</dict>
+</plist>

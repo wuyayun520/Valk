@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMediatorValidation</key>
+	<string>hardBrushDensity</string>
+	<key>multiplicationPerCommand</key>
+	<string>grainLikeProxy</string>
+	<key>nibOrShape</key>
+	<string>providerFunctionScale</string>
+	<key>prismaticNibMode</key>
+	<string>mutableRouterInset</string>
+	<key>reactiveNavigatorBound</key>
+	<string>navigatorCycleRotation</string>
+	<key>routerShapeDepth</key>
+	<string>scrollMementoOrientation</string>
+	<key>sharedButtonAcceleration</key>
+	<string>accessoryOrLayer</string>
+	<key>sharedMonsterBound</key>
+	<string>statefulContainFlyweight</string>
+	<key>tensorBuilderType</key>
+	<string>vectorAboutTemple</string>
+</dict>
+</plist>

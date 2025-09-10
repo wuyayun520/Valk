@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAmongStrategy</key>
+	<string>explicitQueueStatus</string>
+	<key>cursorViaScope</key>
+	<string>fragmentPerScope</string>
+	<key>customizedCommandDensity</key>
+	<string>parallelTabbarCount</string>
+	<key>inactiveWidgetRight</key>
+	<string>collectionTempleInterval</string>
+	<key>mediocreProjectShape</key>
+	<string>routeLikeMediator</string>
+	<key>painterOutsideComposite</key>
+	<string>documentNumberTension</string>
+	<key>subpixelScopeInset</key>
+	<string>textfieldProcessValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorMediatorSkewy</key>
+	<string>graphPerFunction</string>
+	<key>clipperPrototypeVelocity</key>
+	<string>materialManagerInterval</string>
+	<key>desktopExpandedSkewx</key>
+	<string>semanticWidgetCoord</string>
+	<key>fixedNavigatorCount</key>
+	<string>radiusUntilParam</string>
+	<key>prevReducerForce</key>
+	<string>elasticRemainderRate</string>
+</dict>
+</plist>

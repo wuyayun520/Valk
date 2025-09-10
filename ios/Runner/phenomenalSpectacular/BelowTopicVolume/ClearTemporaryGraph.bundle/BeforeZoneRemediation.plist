@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricSkirtSkewy</key>
+	<string>projectAlongBridge</string>
+	<key>inheritedSwitchState</key>
+	<string>logPerAdapter</string>
+	<key>lazyCoordinatorTheme</key>
+	<string>injectionStageStyle</string>
+	<key>lazyMenuFrequency</key>
+	<string>previewContainFramework</string>
+	<key>missedAlertLocation</key>
+	<string>brushMediatorHead</string>
+	<key>resourceActionHue</key>
+	<string>imageAtFunction</string>
+	<key>resultMethodIndex</key>
+	<string>offsetCommandBehavior</string>
+	<key>usedTangentPosition</key>
+	<string>greatPetSpacing</string>
+	<key>viewOperationScale</key>
+	<string>sceneAroundComposite</string>
+</dict>
+</plist>

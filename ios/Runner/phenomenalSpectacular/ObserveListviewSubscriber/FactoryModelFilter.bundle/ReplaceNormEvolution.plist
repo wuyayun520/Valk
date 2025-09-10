@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResourceOrientation</key>
+	<string>sizedboxIncludeContext</string>
+	<key>axisMethodInterval</key>
+	<string>concurrentTopicDistance</string>
+	<key>controllerSingletonSize</key>
+	<string>boxCycleFrequency</string>
+	<key>menuKindType</key>
+	<string>largeInteractorRotation</string>
+	<key>previewBeyondState</key>
+	<string>discardedContainerAlignment</string>
+	<key>protocolProxyTail</key>
+	<string>coordinatorWithLevel</string>
+	<key>reusableDecorationCenter</key>
+	<string>transformerWithValue</string>
+	<key>taskShapeSaturation</key>
+	<string>routerAsJob</string>
+	<key>textureCompositeType</key>
+	<string>repositoryPlatformMomentum</string>
+</dict>
+</plist>

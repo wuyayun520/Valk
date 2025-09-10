@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTabbarVisibility</key>
+	<string>rowActionBound</string>
+	<key>animatedcontainerBesideOperation</key>
+	<string>functionalPriorityCenter</string>
+	<key>axisAdapterAlignment</key>
+	<string>spineLayerBottom</string>
+	<key>commonSizePadding</key>
+	<string>cacheContainPrototype</string>
+	<key>cycleAgainstDecorator</key>
+	<string>ignoredSceneInterval</string>
+	<key>drawerAmongTemple</key>
+	<string>tensorStampState</string>
+	<key>progressbarObserverSaturation</key>
+	<string>typicalTickerTransparency</string>
+	<key>progressbarParamSkewx</key>
+	<string>resourceAtBridge</string>
+	<key>tabbarMethodCoord</key>
+	<string>transitionDespiteNumber</string>
+</dict>
+</plist>

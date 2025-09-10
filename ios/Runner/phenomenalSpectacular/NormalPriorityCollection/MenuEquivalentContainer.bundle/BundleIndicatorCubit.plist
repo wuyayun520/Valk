@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultHeroBehavior</key>
+	<string>cubeCommandInset</string>
+	<key>localizationFlyweightPadding</key>
+	<string>localizationStrategyAppearance</string>
+	<key>masterInMode</key>
+	<string>routeContainPlatform</string>
+	<key>sinkBridgeName</key>
+	<string>inkwellVersusMethod</string>
+	<key>toolFromShape</key>
+	<string>requestContextOrientation</string>
+	<key>viewAndFramework</key>
+	<string>uniqueSceneSize</string>
+	<key>widgetParameterLeft</key>
+	<string>alertCycleTag</string>
+</dict>
+</plist>

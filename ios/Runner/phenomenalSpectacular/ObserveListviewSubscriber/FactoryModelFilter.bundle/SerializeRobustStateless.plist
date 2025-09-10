@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevTaskDepth</key>
+	<string>challengeStrategyRate</string>
+	<key>progressbarActivityMargin</key>
+	<string>listviewBufferStyle</string>
+	<key>rectLayerPadding</key>
+	<string>textWorkSize</string>
+	<key>resizableSymbolDensity</key>
+	<string>resourceParameterBottom</string>
+	<key>storageWorkForce</key>
+	<string>taskVariablePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOutsideDecorator</key>
+	<string>advancedConsumerStatus</string>
+	<key>independentCompletionValidation</key>
+	<string>containerPrototypeBorder</string>
+	<key>menuPerLayer</key>
+	<string>primaryBaselineSpeed</string>
+	<key>offsetNumberOffset</key>
+	<string>tensorSemanticsPosition</string>
+	<key>operationThroughVar</key>
+	<string>profileThroughActivity</string>
+	<key>previewBesideVisitor</key>
+	<string>basicMediaqueryTheme</string>
+</dict>
+</plist>

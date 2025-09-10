@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringNumber</key>
+	<string>arithmeticPerKind</string>
+	<key>protocolInsideDecorator</key>
+	<string>menuAlongAction</string>
+	<key>reducerIncludeMethod</key>
+	<string>immutableResponseSkewx</string>
+	<key>sinkUntilMemento</key>
+	<string>largeAnchorContrast</string>
+	<key>subscriptionAmongStyle</key>
+	<string>labelParameterBorder</string>
+</dict>
+</plist>

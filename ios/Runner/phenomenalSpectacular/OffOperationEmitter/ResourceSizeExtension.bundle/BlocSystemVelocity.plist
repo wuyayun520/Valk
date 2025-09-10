@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopKernelMomentum</key>
+	<string>animationAmongStrategy</string>
+	<key>discardedTechniqueEdge</key>
+	<string>eventCycleBound</string>
+	<key>listviewAdapterVelocity</key>
+	<string>resizableGesturedetectorShade</string>
+	<key>normalResolverDensity</key>
+	<string>intuitiveGemSkewx</string>
+	<key>pointMementoPosition</key>
+	<string>rowJobCoord</string>
+	<key>responseUntilProxy</key>
+	<string>completionOrVar</string>
+	<key>responsiveOffsetVisible</key>
+	<string>containerExceptDecorator</string>
+	<key>semanticInjectionBottom</key>
+	<string>localizationAboutSystem</string>
+	<key>sequentialProviderType</key>
+	<string>responseSystemRotation</string>
+	<key>storeThanVar</key>
+	<string>asynchronousRowName</string>
+</dict>
+</plist>

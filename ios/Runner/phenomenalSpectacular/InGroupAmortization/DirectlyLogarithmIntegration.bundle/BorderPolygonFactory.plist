@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureParamForce</key>
+	<string>interactiveBuilderSpeed</string>
+	<key>cupertinoViaForm</key>
+	<string>keyChartAppearance</string>
+	<key>easyLayoutTop</key>
+	<string>taskStateOrientation</string>
+	<key>groupDuringPhase</key>
+	<string>featureFormBound</string>
+	<key>localizationFacadeSpacing</key>
+	<string>protocolNearFacade</string>
+	<key>mapActionFormat</key>
+	<string>prevMasterDirection</string>
+	<key>presenterForAction</key>
+	<string>convolutionActivityPadding</string>
+	<key>sliderActionBehavior</key>
+	<string>channelsOrFunction</string>
+</dict>
+</plist>

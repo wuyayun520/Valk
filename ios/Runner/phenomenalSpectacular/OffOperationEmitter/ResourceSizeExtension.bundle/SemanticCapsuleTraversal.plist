@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBufferLeft</key>
+	<string>stackPhaseFlags</string>
+	<key>displayablePrecisionSkewy</key>
+	<string>isolateVersusSystem</string>
+	<key>enabledPlaybackForce</key>
+	<string>curveLayerPadding</string>
+	<key>retainedTimerStyle</key>
+	<string>zoneActivitySaturation</string>
+	<key>similarCurveOrientation</key>
+	<string>statefulFromNumber</string>
+	<key>timerContainAdapter</key>
+	<string>referenceParamOffset</string>
+</dict>
+</plist>

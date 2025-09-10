@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDecoratorVisible</key>
+	<string>appbarWithoutType</string>
+	<key>elasticSpecifierEdge</key>
+	<string>constraintMediatorFormat</string>
+	<key>getxContextBehavior</key>
+	<string>radioPhaseBrightness</string>
+	<key>topicValueState</key>
+	<string>iterativeDelegateInteraction</string>
+</dict>
+</plist>

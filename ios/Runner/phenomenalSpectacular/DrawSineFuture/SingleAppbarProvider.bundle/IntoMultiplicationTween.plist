@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCycleSpacing</key>
+	<string>cellViaVar</string>
+	<key>draggableGraphShade</key>
+	<string>appbarMediatorHead</string>
+	<key>drawerFrameworkDelay</key>
+	<string>taskWithParameter</string>
+	<key>marginAsSingleton</key>
+	<string>callbackAdapterFeedback</string>
+	<key>materialCubitHead</key>
+	<string>sinkEnvironmentVelocity</string>
+	<key>multiControllerStyle</key>
+	<string>viewJobTransparency</string>
+	<key>seamlessDependencyLocation</key>
+	<string>alignmentByStrategy</string>
+	<key>semanticsOperationEdge</key>
+	<string>navigatorPrototypeContrast</string>
+	<key>singletonWithoutValue</key>
+	<string>isolateNearAdapter</string>
+	<key>statefulNumberShape</key>
+	<string>groupFlyweightDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterTierTint</key>
+	<string>previewAndPrototype</string>
+	<key>hashWithoutStructure</key>
+	<string>mediumSubscriptionType</string>
+	<key>profileProxyCoord</key>
+	<string>painterCycleOrientation</string>
+	<key>screenAtFramework</key>
+	<string>composableQueueFlags</string>
+	<key>unactivatedAllocatorAlignment</key>
+	<string>requiredProjectionRight</string>
+</dict>
+</plist>

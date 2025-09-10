@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>semanticStoreScale</key>
+	<string>taskOrKind</string>
+	<key>streamOfType</key>
+	<string>spineAdapterPosition</string>
+	<key>tweenVariableTheme</key>
+	<string>modelScopeDensity</string>
+</dict>
+</plist>

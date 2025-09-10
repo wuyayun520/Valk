@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBridgeFormat</key>
+	<string>notifierStructureDirection</string>
+	<key>discardedStepTop</key>
+	<string>tableExceptVariable</string>
+	<key>flexibleOptimizerShape</key>
+	<string>completerDuringCycle</string>
+	<key>graphicBridgeOpacity</key>
+	<string>nativeConfigurationRate</string>
+	<key>notificationMementoDuration</key>
+	<string>asyncSegmentSpeed</string>
+	<key>sequentialSemanticsMode</key>
+	<string>sortedPopupTop</string>
+	<key>spriteWithStyle</key>
+	<string>respectiveIntegerColor</string>
+</dict>
+</plist>

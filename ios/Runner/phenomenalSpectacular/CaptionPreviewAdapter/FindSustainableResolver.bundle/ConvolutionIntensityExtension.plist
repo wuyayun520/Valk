@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOperationSize</key>
+	<string>progressbarViaProcess</string>
+	<key>behaviorParamFlags</key>
+	<string>builderFacadeDelay</string>
+	<key>cubitStrategyMomentum</key>
+	<string>appbarDuringMode</string>
+	<key>graphJobTop</key>
+	<string>catalystInterpreterInteraction</string>
+	<key>hierarchicalMethodTint</key>
+	<string>exponentIncludeParam</string>
+	<key>layoutTypeRotation</key>
+	<string>statefulProcessAlignment</string>
+	<key>movementCommandAcceleration</key>
+	<string>sessionFrameworkSaturation</string>
+	<key>providerPlatformInset</key>
+	<string>containerLikeEnvironment</string>
+	<key>statelessListviewScale</key>
+	<string>animatedcontainerWithoutAdapter</string>
+</dict>
+</plist>

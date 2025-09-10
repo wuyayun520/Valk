@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnNearAction</key>
+	<string>cubitVisitorPadding</string>
+	<key>cupertinoPriorityForce</key>
+	<string>discardedContainerRate</string>
+	<key>displayableQueueBound</key>
+	<string>compositionLevelBottom</string>
+	<key>durationFlyweightTransparency</key>
+	<string>layerTierName</string>
+	<key>painterOrAction</key>
+	<string>unsortedTextPressure</string>
+	<key>timerFlyweightScale</key>
+	<string>transitionDecoratorOrigin</string>
+	<key>zoneKindRight</key>
+	<string>shaderThanPhase</string>
+</dict>
+</plist>

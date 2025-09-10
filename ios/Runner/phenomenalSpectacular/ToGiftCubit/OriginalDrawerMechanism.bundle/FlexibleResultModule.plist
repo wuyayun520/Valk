@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeZoneTop</key>
+	<string>momentumVarSkewy</string>
+	<key>coordinatorAndCommand</key>
+	<string>threadProcessEdge</string>
+	<key>featureParameterResponse</key>
+	<string>relationalLocalizationVelocity</string>
+	<key>interactiveStateState</key>
+	<string>subpixelDuringProcess</string>
+	<key>missedUnaryOffset</key>
+	<string>activeGraphResponse</string>
+	<key>primaryResourceTransparency</key>
+	<string>rapidModelVelocity</string>
+	<key>responsiveStackSpeed</key>
+	<string>accordionCharacterPadding</string>
+	<key>titleCycleTransparency</key>
+	<string>textureDecoratorCoord</string>
+	<key>viewProcessTail</key>
+	<string>channelsAsLayer</string>
+</dict>
+</plist>

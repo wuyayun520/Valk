@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerVariableKind</key>
+	<string>usageStateDelay</string>
+	<key>missedCompositionCount</key>
+	<string>responsiveDescriptionVelocity</string>
+	<key>radioAgainstSingleton</key>
+	<string>agileRadiusCount</string>
+	<key>sceneCompositeCenter</key>
+	<string>storyboardFlyweightAcceleration</string>
+</dict>
+</plist>

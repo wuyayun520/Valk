@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSubscriptionStatus</key>
+	<string>permissiveSemanticsShape</string>
+	<key>heapStyleContrast</key>
+	<string>cardBufferInset</string>
+	<key>menuBesideVariable</key>
+	<string>cursorPlatformCoord</string>
+	<key>opaqueAwaitPadding</key>
+	<string>typicalMarginTag</string>
+	<key>resizableGrainFormat</key>
+	<string>resultValueFrequency</string>
+	<key>scrollableIntensityStatus</key>
+	<string>entropyActionCoord</string>
+	<key>tabviewCommandTheme</key>
+	<string>routeActionAcceleration</string>
+</dict>
+</plist>

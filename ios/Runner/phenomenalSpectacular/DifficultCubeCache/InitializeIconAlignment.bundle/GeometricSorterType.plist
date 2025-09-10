@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSubpixelDirection</key>
+	<string>slashMementoInteraction</string>
+	<key>convolutionAlongLayer</key>
+	<string>resizableMovementDistance</string>
+	<key>crudeGramName</key>
+	<string>cursorAsEnvironment</string>
+	<key>gestureKindSkewy</key>
+	<string>descriptionModeVelocity</string>
+	<key>layerStrategyBottom</key>
+	<string>coordinatorNearScope</string>
+	<key>nextWidgetBrightness</key>
+	<string>declarativeClipperCenter</string>
+	<key>scrollAsMediator</key>
+	<string>semanticsFlyweightState</string>
+	<key>synchronousEquipmentTop</key>
+	<string>taskScopeCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerForStrategy</key>
+	<string>globalStreamVelocity</string>
+	<key>diversifiedContractionHead</key>
+	<string>resilientTransformerMomentum</string>
+	<key>ephemeralManagerOpacity</key>
+	<string>stampVariableState</string>
+	<key>offsetCommandFormat</key>
+	<string>challengeAgainstAction</string>
+	<key>topicAndAction</key>
+	<string>controllerInsideBridge</string>
+</dict>
+</plist>

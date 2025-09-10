@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionOffsetLocation</key>
+	<string>interfaceParamOrigin</string>
+	<key>buttonModeSkewy</key>
+	<string>listenerCycleFrequency</string>
+	<key>desktopChannelsCenter</key>
+	<string>navigatorViaBridge</string>
+	<key>enabledTextureCount</key>
+	<string>viewMementoInterval</string>
+	<key>fixedIntensityInset</key>
+	<string>alphaExceptComposite</string>
+	<key>geometricMetadataDistance</key>
+	<string>titleStateLeft</string>
+	<key>gestureLikeParam</key>
+	<string>modulusTierDensity</string>
+	<key>imperativeInteractorDelay</key>
+	<string>projectWithoutPattern</string>
+	<key>inkwellModeForce</key>
+	<string>accessoryAlongChain</string>
+	<key>publicFeatureBorder</key>
+	<string>roleDuringComposite</string>
+</dict>
+</plist>

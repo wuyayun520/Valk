@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCommandKind</key>
+	<string>nibOutsideInterpreter</string>
+	<key>apertureProxySkewy</key>
+	<string>resizableCharacterSpeed</string>
+	<key>callbackLevelKind</key>
+	<string>singleProviderRate</string>
+	<key>declarativeQueueAppearance</key>
+	<string>webUtilFrequency</string>
+	<key>immediatePriorityValidation</key>
+	<string>immutableButtonScale</string>
+	<key>iterativeCallbackStatus</key>
+	<string>listviewForBridge</string>
+	<key>skinBesideLayer</key>
+	<string>consumerOfScope</string>
+</dict>
+</plist>

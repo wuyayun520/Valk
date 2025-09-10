@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerResourceScale</key>
+	<string>gridviewByStyle</string>
+	<key>marginContainStage</key>
+	<string>dependencyFromType</string>
+	<key>priorityExceptMethod</key>
+	<string>checklistPerDecorator</string>
+	<key>rectProcessScale</key>
+	<string>grayscaleFlyweightStyle</string>
+	<key>responseOrCycle</key>
+	<string>responseAndWork</string>
+	<key>tweenByVariable</key>
+	<string>sophisticatedRequestTag</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalQueuePressure</key>
+	<string>inheritedFactoryTail</string>
+	<key>immutableCompletionPosition</key>
+	<string>appbarOutsideProcess</string>
+	<key>painterVarOrigin</key>
+	<string>collectionPlatformSpeed</string>
+	<key>persistentGridviewBehavior</key>
+	<string>delegateBesideDecorator</string>
+	<key>pinchableGrainRate</key>
+	<string>secondZoneFormat</string>
+	<key>requestPlatformBehavior</key>
+	<string>coordinatorPhaseOpacity</string>
+	<key>sliderNearNumber</key>
+	<string>integerStateShade</string>
+	<key>storageCompositeForce</key>
+	<string>usedIsolateOrigin</string>
+	<key>tensorQueryName</key>
+	<string>animatedcontainerIncludeInterpreter</string>
+</dict>
+</plist>

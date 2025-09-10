@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackForInterpreter</key>
+	<string>tableVariableStatus</string>
+	<key>firstConstraintBound</key>
+	<string>mediaqueryDuringScope</string>
+	<key>nativeObserverShade</key>
+	<string>associatedChapterScale</string>
+	<key>repositoryDespiteKind</key>
+	<string>statefulBrushName</string>
+	<key>resizableSpotCenter</key>
+	<string>parallelNotifierDensity</string>
+	<key>shaderActionPressure</key>
+	<string>requiredIsolateSpeed</string>
+	<key>zoneDuringVisitor</key>
+	<string>synchronousCompleterInteraction</string>
+</dict>
+</plist>

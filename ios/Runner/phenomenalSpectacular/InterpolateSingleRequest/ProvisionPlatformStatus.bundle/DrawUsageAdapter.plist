@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryModeSpacing</key>
+	<string>scenePatternFrequency</string>
+	<key>newestNodeType</key>
+	<string>cupertinoAroundEnvironment</string>
+	<key>oldThemeKind</key>
+	<string>responseVariableSpeed</string>
+	<key>permissiveTransitionFormat</key>
+	<string>chartFacadeAcceleration</string>
+	<key>repositoryPerStyle</key>
+	<string>repositoryDespiteContext</string>
+	<key>requiredMapState</key>
+	<string>resilientButtonDuration</string>
+	<key>responsePlatformLocation</key>
+	<string>configurationContextCount</string>
+	<key>sortedZoneLeft</key>
+	<string>kernelStageSpacing</string>
+</dict>
+</plist>

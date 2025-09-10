@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemAlongStrategy</key>
+	<string>mediaqueryExceptProcess</string>
+	<key>handlerContainMemento</key>
+	<string>movementContainStructure</string>
+	<key>materialUsageSpeed</key>
+	<string>topicPrototypeSpeed</string>
+	<key>pinchableAssetBehavior</key>
+	<string>publicSubscriptionEdge</string>
+</dict>
+</plist>

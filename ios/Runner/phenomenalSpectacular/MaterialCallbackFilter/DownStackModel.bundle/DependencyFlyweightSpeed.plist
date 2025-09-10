@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTaskLeft</key>
+	<string>textContainDecorator</string>
+	<key>coordinatorModeLeft</key>
+	<string>expandedDespiteFacade</string>
+	<key>displayableKernelBorder</key>
+	<string>resolverThroughCommand</string>
+	<key>layoutFromAction</key>
+	<string>positionStagePadding</string>
+	<key>metadataInsideType</key>
+	<string>rectStructureHue</string>
+	<key>persistentCurveHead</key>
+	<string>arithmeticOptionBottom</string>
+	<key>tensorResolverOrientation</key>
+	<string>inheritedCoordinatorTint</string>
+	<key>textfieldSinceStrategy</key>
+	<string>stateByType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationViaFramework</key>
+	<string>sharedCaptionColor</string>
+	<key>musicEnvironmentStyle</key>
+	<string>actionAboutStrategy</string>
+	<key>prevActivityState</key>
+	<string>statelessSingletonMode</string>
+	<key>resultFlyweightStyle</key>
+	<string>localizationChainOffset</string>
+	<key>sessionObserverBound</key>
+	<string>usecaseBufferDepth</string>
+	<key>synchronousListviewBorder</key>
+	<string>masterExceptOperation</string>
+</dict>
+</plist>

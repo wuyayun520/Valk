@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorRate</key>
+	<string>unaryByType</string>
+	<key>customizedHandlerFlags</key>
+	<string>interactiveBrushFrequency</string>
+	<key>equalizationLikeObserver</key>
+	<string>riverpodFunctionAppearance</string>
+	<key>injectionParameterTransparency</key>
+	<string>handlerAsSystem</string>
+	<key>protectedVectorContrast</key>
+	<string>baselineProxyPadding</string>
+	<key>taskPhaseSkewx</key>
+	<string>listenerPhaseScale</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonCommandValidation</key>
+	<string>managerByStrategy</string>
+	<key>inheritedAppbarSpacing</key>
+	<string>singleExtensionDistance</string>
+	<key>numericalSpotRotation</key>
+	<string>arithmeticThroughType</string>
+	<key>oldGramMomentum</key>
+	<string>coordinatorFacadeMode</string>
+	<key>persistentWidgetInteraction</key>
+	<string>hardFutureCenter</string>
+	<key>projectFlyweightHue</key>
+	<string>callbackInsideEnvironment</string>
+	<key>similarGestureAcceleration</key>
+	<string>ignoredErrorBound</string>
+	<key>specifyScreenTop</key>
+	<string>protocolAtSingleton</string>
+	<key>standaloneDependencyIndex</key>
+	<string>animatedRichtextTop</string>
+	<key>widgetAboutScope</key>
+	<string>routerParameterDensity</string>
+</dict>
+</plist>

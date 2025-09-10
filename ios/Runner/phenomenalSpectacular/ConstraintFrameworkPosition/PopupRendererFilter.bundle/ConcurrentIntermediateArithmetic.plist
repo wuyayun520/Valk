@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationNumberStyle</key>
+	<string>giftProxyLocation</string>
+	<key>giftNearPlatform</key>
+	<string>normalRouterInset</string>
+	<key>inheritedInteractorMargin</key>
+	<string>resizableButtonInset</string>
+	<key>nextControllerInterval</key>
+	<string>diversifiedNotifierSize</string>
+	<key>opaqueBorderFeedback</key>
+	<string>temporaryTextMomentum</string>
+	<key>progressbarParameterDistance</key>
+	<string>synchronousRoleCenter</string>
+	<key>textAgainstShape</key>
+	<string>enabledQueueBrightness</string>
+	<key>textStateBrightness</key>
+	<string>eagerChannelOrientation</string>
+</dict>
+</plist>

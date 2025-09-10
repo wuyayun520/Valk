@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFragmentSkewx</key>
+	<string>layoutPatternMargin</string>
+	<key>immutableAspectMargin</key>
+	<string>equalizationPlatformVisible</string>
+	<key>materialInCycle</key>
+	<string>builderOperationIndex</string>
+	<key>pivotalHandlerType</key>
+	<string>tabbarStyleBehavior</string>
+	<key>plateThroughBridge</key>
+	<string>singletonPatternHead</string>
+	<key>uniformSwiftDelay</key>
+	<string>navigatorIncludeParam</string>
+</dict>
+</plist>

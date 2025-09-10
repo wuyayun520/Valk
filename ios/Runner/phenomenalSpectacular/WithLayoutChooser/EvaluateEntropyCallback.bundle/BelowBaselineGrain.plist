@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintFromTier</key>
+	<string>originalIsolateBottom</string>
+	<key>decorationVersusPrototype</key>
+	<string>workflowPatternTint</string>
+	<key>mobxVersusPrototype</key>
+	<string>storeTierCount</string>
+	<key>profileNumberSpeed</key>
+	<string>factoryModeTransparency</string>
+	<key>providerWorkCenter</key>
+	<string>customSizeSaturation</string>
+	<key>transformerAwayParam</key>
+	<string>effectMethodContrast</string>
+</dict>
+</plist>

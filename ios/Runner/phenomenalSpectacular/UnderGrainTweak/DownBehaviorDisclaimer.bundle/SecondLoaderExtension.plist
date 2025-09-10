@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorBeyondType</key>
+	<string>controllerOperationCenter</string>
+	<key>localizationMementoSpacing</key>
+	<string>cellVarPosition</string>
+	<key>marginScopeBottom</key>
+	<string>globalPreviewDensity</string>
+	<key>nodeAndContext</key>
+	<string>sensorTaskSize</string>
+	<key>reusableModelAcceleration</key>
+	<string>sliderAsSingleton</string>
+	<key>sessionForOperation</key>
+	<string>criticalResultPadding</string>
+	<key>unsortedSubpixelFormat</key>
+	<string>layerAtObserver</string>
+</dict>
+</plist>

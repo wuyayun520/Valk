@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBesideStrategy</key>
+	<string>memberFunctionVisible</string>
+	<key>discardedStepTransparency</key>
+	<string>asynchronousLabelCount</string>
+	<key>hierarchicalTickerBorder</key>
+	<string>lastViewShape</string>
+	<key>interfaceInterpreterDepth</key>
+	<string>inheritedPointVelocity</string>
+	<key>projectTempleDuration</key>
+	<string>heroViaMediator</string>
+	<key>resolverFrameworkAcceleration</key>
+	<string>finalSymbolAcceleration</string>
+	<key>sensorAboutMediator</key>
+	<string>lazyBatchDuration</string>
+	<key>smartSensorSkewx</key>
+	<string>textActivityResponse</string>
+	<key>transitionAlongVariable</key>
+	<string>navigatorOperationKind</string>
+</dict>
+</plist>

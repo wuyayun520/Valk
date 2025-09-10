@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBySingleton</key>
+	<string>concurrentEffectInteraction</string>
+	<key>bufferPerMemento</key>
+	<string>completionLayerMargin</string>
+	<key>declarativeSceneDensity</key>
+	<string>spriteParamInteraction</string>
+	<key>enabledSessionSpeed</key>
+	<string>particleWorkSaturation</string>
+	<key>mainRequestAlignment</key>
+	<string>associatedBufferCount</string>
+	<key>pivotalSampleVelocity</key>
+	<string>specifierStrategySpacing</string>
+	<key>reducerWithoutLevel</key>
+	<string>rectFacadeAppearance</string>
+</dict>
+</plist>

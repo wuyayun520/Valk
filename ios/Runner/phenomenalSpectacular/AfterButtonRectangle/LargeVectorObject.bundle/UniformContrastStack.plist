@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithMode</key>
+	<string>workflowFacadeTag</string>
+	<key>adaptiveCoordinatorInteraction</key>
+	<string>lazyPresenterCoord</string>
+	<key>awaitAdapterType</key>
+	<string>sliderKindAlignment</string>
+	<key>brushDecoratorDepth</key>
+	<string>custompaintSingletonEdge</string>
+	<key>cubeExceptPlatform</key>
+	<string>intuitiveCoordinatorCoord</string>
+	<key>rectContainValue</key>
+	<string>crudeBaselineName</string>
+	<key>sliderAsMediator</key>
+	<string>indicatorObserverFeedback</string>
+</dict>
+</plist>

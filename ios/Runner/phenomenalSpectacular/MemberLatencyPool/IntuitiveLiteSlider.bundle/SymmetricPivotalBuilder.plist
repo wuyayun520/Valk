@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludeType</key>
+	<string>subscriptionTaskBorder</string>
+	<key>dynamicBufferType</key>
+	<string>animatedcontainerFormContrast</string>
+	<key>flexParameterVelocity</key>
+	<string>curveThroughProxy</string>
+	<key>pinchableCheckboxAlignment</key>
+	<string>mapStageSize</string>
+	<key>shaderViaCycle</key>
+	<string>positionedDuringMemento</string>
+	<key>slashShapeKind</key>
+	<string>projectionCommandSpeed</string>
+	<key>ternaryTierSaturation</key>
+	<string>remainderProxyAlignment</string>
+	<key>tweenOutsideMemento</key>
+	<string>durationContextLocation</string>
+</dict>
+</plist>

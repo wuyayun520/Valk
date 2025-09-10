@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAgainstFunction</key>
+	<string>specifyImageDelay</string>
+	<key>discardedSlashHue</key>
+	<string>staticCapacitiesPosition</string>
+	<key>dynamicCommandSkewy</key>
+	<string>tabbarParamDistance</string>
+	<key>elasticActionVisible</key>
+	<string>numericalSingletonOrientation</string>
+	<key>entropyContainLayer</key>
+	<string>mobileRouterTint</string>
+	<key>inkwellNearMethod</key>
+	<string>captionByMediator</string>
+	<key>observerCycleDepth</key>
+	<string>imperativeAsyncOpacity</string>
+	<key>protectedCubeLocation</key>
+	<string>callbackExceptBridge</string>
+	<key>storageByScope</key>
+	<string>futureVarPosition</string>
+</dict>
+</plist>

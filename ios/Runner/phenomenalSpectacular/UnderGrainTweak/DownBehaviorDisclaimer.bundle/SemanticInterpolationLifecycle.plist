@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseBorder</key>
+	<string>standaloneTickerTheme</string>
+	<key>cubitBesideStage</key>
+	<string>intermediateGridInset</string>
+	<key>delicateBorderState</key>
+	<string>materialServiceTint</string>
+	<key>imperativeControllerDirection</key>
+	<string>seamlessStepDepth</string>
+	<key>listenerIncludeProcess</key>
+	<string>delicateBlocDistance</string>
+	<key>toolOfForm</key>
+	<string>drawerTypeResponse</string>
+	<key>variantPlatformDepth</key>
+	<string>constraintProxyMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeZoneShade</key>
+	<string>skinEnvironmentTop</string>
+	<key>constOptimizerBorder</key>
+	<string>visibleProfileVisible</string>
+	<key>descriptionFrameworkTint</key>
+	<string>respectiveFutureSaturation</string>
+	<key>displayableRoleTheme</key>
+	<string>blocModeBehavior</string>
+	<key>layoutCompositeLeft</key>
+	<string>normParamSpeed</string>
+	<key>localButtonSkewx</key>
+	<string>canvasTierShape</string>
+	<key>mobxAdapterValidation</key>
+	<string>asyncWithVisitor</string>
+	<key>operationVariableBrightness</key>
+	<string>handlerParameterInteraction</string>
+	<key>presenterBeyondParameter</key>
+	<string>providerScopeDensity</string>
+</dict>
+</plist>

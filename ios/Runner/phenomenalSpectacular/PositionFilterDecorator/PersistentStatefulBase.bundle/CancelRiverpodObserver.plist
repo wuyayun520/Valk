@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityForNumber</key>
+	<string>plateScopeInset</string>
+	<key>alignmentNumberResponse</key>
+	<string>decorationNearAdapter</string>
+	<key>interactiveScrollSpeed</key>
+	<string>channelByTask</string>
+	<key>listviewCompositeAcceleration</key>
+	<string>channelsLayerMargin</string>
+	<key>missionVersusComposite</key>
+	<string>positionSingletonBorder</string>
+	<key>nodeActivityDensity</key>
+	<string>sizeAsObserver</string>
+	<key>pinchableEquipmentSpacing</key>
+	<string>responsePlatformDepth</string>
+	<key>queryObserverFlags</key>
+	<string>groupTaskHue</string>
+</dict>
+</plist>

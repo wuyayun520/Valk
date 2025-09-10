@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVariableEdge</key>
+	<string>queryFlyweightInterval</string>
+	<key>commonRadiusTail</key>
+	<string>projectionFromContext</string>
+	<key>cupertinoSubscriptionAppearance</key>
+	<string>spriteParamOrientation</string>
+	<key>labelAtLevel</key>
+	<string>materialWithoutParam</string>
+</dict>
+</plist>

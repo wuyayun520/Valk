@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTaskSpacing</key>
+	<string>missedSemanticsKind</string>
+	<key>customizedToolRotation</key>
+	<string>normByMethod</string>
+	<key>gesturedetectorAwayShape</key>
+	<string>displayableAlertOffset</string>
+	<key>nibCycleOrigin</key>
+	<string>promiseAtAction</string>
+</dict>
+</plist>

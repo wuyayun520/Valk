@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorStructurePosition</key>
+	<string>denseSegmentBound</string>
+	<key>customSubpixelValidation</key>
+	<string>actionBeyondEnvironment</string>
+	<key>grainStrategyTop</key>
+	<string>fixedInjectionDepth</string>
+	<key>imperativePriorityForce</key>
+	<string>queueCommandDelay</string>
+	<key>lastKernelName</key>
+	<string>asynchronousQueryKind</string>
+	<key>nibOfTemple</key>
+	<string>retainedSignatureBottom</string>
+	<key>permanentSizeOrigin</key>
+	<string>profileActionFeedback</string>
+	<key>skinChainHead</key>
+	<string>hashTempleAlignment</string>
+	<key>subscriptionMethodTop</key>
+	<string>visibleSizeAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAwayState</key>
+	<string>taskFormCoord</string>
+	<key>cellThanMode</key>
+	<string>buttonWithoutFacade</string>
+	<key>compositionalRequestType</key>
+	<string>baselineBesideStage</string>
+	<key>crucialServiceBound</key>
+	<string>routeLevelName</string>
+	<key>navigatorAsActivity</key>
+	<string>tabbarFormDirection</string>
+	<key>resizableLocalizationHead</key>
+	<string>scaleWorkOrientation</string>
+	<key>scaleContextMode</key>
+	<string>presenterAsScope</string>
+	<key>secondPromiseStyle</key>
+	<string>controllerOperationTint</string>
+</dict>
+</plist>

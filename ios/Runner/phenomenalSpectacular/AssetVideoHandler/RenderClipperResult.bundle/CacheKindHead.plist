@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStrategyLeft</key>
+	<string>secondGraphSaturation</string>
+	<key>cardShapeScale</key>
+	<string>frameShapeContrast</string>
+	<key>cartesianActivityEdge</key>
+	<string>gestureInterpreterTransparency</string>
+	<key>decorationInterpreterOrientation</key>
+	<string>apertureModePressure</string>
+	<key>fusedSliderDepth</key>
+	<string>titleFlyweightFeedback</string>
+	<key>geometricResourceValidation</key>
+	<string>curveMethodDirection</string>
+	<key>subtleFeatureResponse</key>
+	<string>mobileDuringShape</string>
+	<key>synchronousQueryAppearance</key>
+	<string>singleDocumentDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseIncludeInterpreter</key>
+	<string>sinkActionDelay</string>
+	<key>canvasBesideFunction</key>
+	<string>interfaceByForm</string>
+	<key>controllerOrContext</key>
+	<string>fusedPointFeedback</string>
+	<key>durationLayerFormat</key>
+	<string>remainderPlatformVisibility</string>
+	<key>grayscaleProcessMomentum</key>
+	<string>popupSingletonFeedback</string>
+	<key>hashThroughStage</key>
+	<string>channelBufferCount</string>
+	<key>immediateViewVelocity</key>
+	<string>easyStepResponse</string>
+	<key>sizedboxContextCount</key>
+	<string>euclideanQueryFormat</string>
+	<key>standaloneLayerBehavior</key>
+	<string>anchorNearPhase</string>
+</dict>
+</plist>

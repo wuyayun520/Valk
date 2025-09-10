@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPromiseShape</key>
+	<string>sinkExceptEnvironment</string>
+	<key>globalWidgetOrientation</key>
+	<string>viewEnvironmentBehavior</string>
+	<key>interactiveSineFeedback</key>
+	<string>statelessAsNumber</string>
+	<key>requestVersusChain</key>
+	<string>callbackExceptCommand</string>
+	<key>requestVersusVar</key>
+	<string>previewContainLevel</string>
+	<key>robustStoreCount</key>
+	<string>awaitScopeStatus</string>
+	<key>subsequentGraphicFormat</key>
+	<string>cellScopeStyle</string>
+	<key>sustainableMemberShape</key>
+	<string>skinBufferLocation</string>
+	<key>uniformCustompaintMode</key>
+	<string>currentRectHue</string>
+</dict>
+</plist>

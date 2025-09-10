@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLayoutSaturation</key>
+	<string>resizableLabelStatus</string>
+	<key>dedicatedSliderTop</key>
+	<string>currentAnimationInset</string>
+	<key>gridShapeDistance</key>
+	<string>iterativeAllocatorLocation</string>
+	<key>hashPhaseShade</key>
+	<string>customizedStampKind</string>
+	<key>prevControllerTension</key>
+	<string>sortedCoordinatorSpacing</string>
+	<key>relationalModelTheme</key>
+	<string>singletonStateOrientation</string>
+	<key>transitionNumberShade</key>
+	<string>semanticUsecasePosition</string>
+</dict>
+</plist>

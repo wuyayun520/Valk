@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSingletonBottom</key>
+	<string>alertExceptNumber</string>
+	<key>deferredSubpixelBound</key>
+	<string>coordinatorFrameworkScale</string>
+	<key>displayableMasterCount</key>
+	<string>symbolAsFlyweight</string>
+	<key>documentOutsideWork</key>
+	<string>handlerThroughShape</string>
+	<key>materialTierDuration</key>
+	<string>asynchronousPlateTension</string>
+	<key>remainderIncludeEnvironment</key>
+	<string>routerOperationType</string>
+	<key>secondQueueType</key>
+	<string>oldResolverAlignment</string>
+	<key>transitionStructureDirection</key>
+	<string>constRouterRight</string>
+	<key>visibleProfileBehavior</key>
+	<string>liteContainerCoord</string>
+</dict>
+</plist>

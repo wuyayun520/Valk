@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLikeLevel</key>
+	<string>dynamicNavigatorForce</string>
+	<key>gemOperationAcceleration</key>
+	<string>eventFromPrototype</string>
+	<key>globalDescriptionName</key>
+	<string>movementOfStructure</string>
+	<key>largePromiseDepth</key>
+	<string>responsivePlaybackFormat</string>
+	<key>lostPopupOpacity</key>
+	<string>observerPatternKind</string>
+	<key>mobxThroughFramework</key>
+	<string>resultBridgeOrientation</string>
+	<key>pivotalHashBehavior</key>
+	<string>compositionalAlignmentMode</string>
+	<key>reducerTierColor</key>
+	<string>entropyVersusType</string>
+	<key>uniqueFlexStyle</key>
+	<string>gestureStructureKind</string>
+	<key>zoneLayerBehavior</key>
+	<string>agileEventStatus</string>
+</dict>
+</plist>

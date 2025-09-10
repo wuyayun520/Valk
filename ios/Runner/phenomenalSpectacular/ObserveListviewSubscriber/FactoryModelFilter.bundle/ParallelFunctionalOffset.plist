@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCubitPadding</key>
+	<string>commonClipperSpacing</string>
+	<key>animationValueDuration</key>
+	<string>nativeTransitionStyle</string>
+	<key>autoErrorDirection</key>
+	<string>checkboxDespiteVariable</string>
+	<key>columnFunctionSpeed</key>
+	<string>modelActionTheme</string>
+	<key>dependencyNearCycle</key>
+	<string>concreteSizeDepth</string>
+	<key>effectParameterContrast</key>
+	<string>globalErrorVelocity</string>
+	<key>futureAmongForm</key>
+	<string>commonTitleState</string>
+	<key>queryCommandLocation</key>
+	<string>elasticFactorySpeed</string>
+	<key>smartStreamType</key>
+	<string>transitionAwayJob</string>
+</dict>
+</plist>

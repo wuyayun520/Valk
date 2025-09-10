@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptMode</key>
+	<string>integerModeOpacity</string>
+	<key>factoryWithoutFlyweight</key>
+	<string>resolverIncludeParameter</string>
+	<key>gridLevelOpacity</key>
+	<string>buttonAndBuffer</string>
+	<key>isolateMediatorPosition</key>
+	<string>providerNearFramework</string>
+</dict>
+</plist>

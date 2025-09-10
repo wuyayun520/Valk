@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBesideFlyweight</key>
+	<string>allocatorBeyondCycle</string>
+	<key>immutableQueueTension</key>
+	<string>robustBitrateColor</string>
+	<key>methodDecoratorSize</key>
+	<string>hardMediaqueryTag</string>
+	<key>navigatorDecoratorTag</key>
+	<string>canvasDespiteNumber</string>
+	<key>semanticsSinceProxy</key>
+	<string>presenterDuringOperation</string>
+	<key>statelessResolverOrientation</key>
+	<string>constCanvasSpacing</string>
+</dict>
+</plist>

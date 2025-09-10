@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAtCycle</key>
+	<string>modalFunctionPressure</string>
+	<key>asyncHashFeedback</key>
+	<string>cupertinoOffsetName</string>
+	<key>framePhaseCoord</key>
+	<string>mobileFromObserver</string>
+	<key>independentCommandCenter</key>
+	<string>fragmentChainState</string>
+	<key>navigatorProcessInteraction</key>
+	<string>associatedSinkSkewy</string>
+	<key>transitionDecoratorOpacity</key>
+	<string>sizeInState</string>
+</dict>
+</plist>

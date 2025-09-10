@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsStrategyTop</key>
+	<string>menuThroughAdapter</string>
+	<key>graphNearBuffer</key>
+	<string>resilientScaleRate</string>
+	<key>segmentAmongDecorator</key>
+	<string>themeSingletonValidation</string>
+	<key>standalonePositionedContrast</key>
+	<string>observerFromActivity</string>
+	<key>usecaseMementoOpacity</key>
+	<string>skinAwayShape</string>
+</dict>
+</plist>

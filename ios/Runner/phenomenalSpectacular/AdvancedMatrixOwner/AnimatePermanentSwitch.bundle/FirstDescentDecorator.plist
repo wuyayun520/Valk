@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRequestOffset</key>
+	<string>sharedProgressbarInterval</string>
+	<key>bulletPlatformFormat</key>
+	<string>cycleWithoutBuffer</string>
+	<key>cycleAndTier</key>
+	<string>repositoryVersusAction</string>
+	<key>multiplicationAtAdapter</key>
+	<string>hashFlyweightValidation</string>
+	<key>popupBeyondCommand</key>
+	<string>adaptivePreviewMomentum</string>
+	<key>scaffoldTierCenter</key>
+	<string>completionOrWork</string>
+	<key>specifierFunctionShape</key>
+	<string>dropdownbuttonAmongState</string>
+</dict>
+</plist>

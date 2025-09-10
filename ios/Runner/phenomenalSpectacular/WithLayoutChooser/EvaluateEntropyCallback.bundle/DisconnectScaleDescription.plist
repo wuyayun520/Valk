@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityCompositeInset</key>
+	<string>utilStateEdge</string>
+	<key>alignmentAboutMediator</key>
+	<string>singletonExceptProxy</string>
+	<key>beginnerLayoutFrequency</key>
+	<string>topicSingletonVisible</string>
+	<key>completionInterpreterBorder</key>
+	<string>directSwiftSize</string>
+	<key>crucialBlocValidation</key>
+	<string>disparateAnimationFormat</string>
+	<key>crudeTabbarMargin</key>
+	<string>frameByVisitor</string>
+	<key>descriptionFromMediator</key>
+	<string>standaloneSkinInset</string>
+	<key>resilientAllocatorSkewy</key>
+	<string>observerByPrototype</string>
+	<key>routerWithWork</key>
+	<string>equipmentOperationScale</string>
+	<key>storageTaskDistance</key>
+	<string>factoryActionVisibility</string>
+</dict>
+</plist>

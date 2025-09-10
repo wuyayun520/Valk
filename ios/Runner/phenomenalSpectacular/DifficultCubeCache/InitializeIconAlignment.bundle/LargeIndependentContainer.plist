@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryWithDecorator</key>
+	<string>threadScopeInteraction</string>
+	<key>documentAtActivity</key>
+	<string>tabviewExceptFramework</string>
+	<key>drawerVarContrast</key>
+	<string>commandAgainstComposite</string>
+	<key>lastMissionTail</key>
+	<string>nextConstraintTail</string>
+	<key>primarySwitchShade</key>
+	<string>chartLayerMomentum</string>
+	<key>priorNavigationLeft</key>
+	<string>unsortedConfigurationTint</string>
+</dict>
+</plist>

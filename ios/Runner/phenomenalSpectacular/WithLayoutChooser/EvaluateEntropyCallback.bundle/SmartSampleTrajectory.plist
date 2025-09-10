@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelModePressure</key>
+	<string>visibleCubeCount</string>
+	<key>dependencyCompositeDistance</key>
+	<string>advancedStepPressure</string>
+	<key>injectionFromOperation</key>
+	<string>alphaViaDecorator</string>
+	<key>requiredScrollRate</key>
+	<string>containerExceptMode</string>
+	<key>topicThroughOperation</key>
+	<string>arithmeticNibDelay</string>
+</dict>
+</plist>

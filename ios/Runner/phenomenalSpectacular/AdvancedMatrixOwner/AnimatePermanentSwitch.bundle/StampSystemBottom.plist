@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionStrategyMargin</key>
+	<string>persistentLayoutSpacing</string>
+	<key>constraintParameterCenter</key>
+	<string>vectorActivityMode</string>
+	<key>cupertinoChapterInteraction</key>
+	<string>tweenAtAction</string>
+	<key>difficultViewSpeed</key>
+	<string>substantialTransitionPosition</string>
+	<key>exponentFromActivity</key>
+	<string>sequentialPositionSkewy</string>
+	<key>gesturePhaseLeft</key>
+	<string>displayableToolInset</string>
+	<key>labelStrategyStatus</key>
+	<string>alignmentFromSingleton</string>
+	<key>slashAwayValue</key>
+	<string>cursorModeFeedback</string>
+	<key>taskAdapterMargin</key>
+	<string>unactivatedStateStyle</string>
+	<key>timerMethodCoord</key>
+	<string>characterAmongNumber</string>
+</dict>
+</plist>

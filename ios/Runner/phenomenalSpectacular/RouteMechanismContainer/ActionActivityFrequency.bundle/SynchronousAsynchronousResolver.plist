@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerOutsideStrategy</key>
+	<string>graphFrameworkIndex</string>
+	<key>autoCharacterVisible</key>
+	<string>effectPerParam</string>
+	<key>compositionalCoordinatorRight</key>
+	<string>fixedBatchFormat</string>
+	<key>compositionalFeatureSize</key>
+	<string>previewStyleDirection</string>
+	<key>criticalSingletonIndex</key>
+	<string>integerPerValue</string>
+	<key>histogramVariableSkewy</key>
+	<string>interactiveExceptionSpeed</string>
+	<key>indicatorInterpreterMargin</key>
+	<string>configurationAboutWork</string>
+	<key>instructionFacadeAlignment</key>
+	<string>rapidCommandBorder</string>
+	<key>temporaryTransformerSpacing</key>
+	<string>builderBufferMargin</string>
+	<key>uniformAspectFeedback</key>
+	<string>sessionAgainstFlyweight</string>
+</dict>
+</plist>

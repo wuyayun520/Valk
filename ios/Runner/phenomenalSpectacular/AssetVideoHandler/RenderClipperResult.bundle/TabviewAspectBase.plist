@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentBridgeTheme</key>
+	<string>missionPerTier</string>
+	<key>extensionInterpreterVisible</key>
+	<string>resilientResponseTheme</string>
+	<key>fixedBrushBehavior</key>
+	<string>easyCheckboxHead</string>
+	<key>greatStampPadding</key>
+	<string>graphicByVar</string>
+	<key>interactiveThemeInteraction</key>
+	<string>grayscaleTypeSize</string>
+	<key>repositoryProxyState</key>
+	<string>disparateUnaryHue</string>
+	<key>symmetricRadiusVisibility</key>
+	<string>labelCycleSaturation</string>
+	<key>topicValueAlignment</key>
+	<string>sequentialMissionRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitByState</key>
+	<string>sliderValueState</string>
+	<key>chartEnvironmentStyle</key>
+	<string>workflowWithCommand</string>
+	<key>discardedAccessoryName</key>
+	<string>buttonFunctionTint</string>
+	<key>fixedDependencyVisible</key>
+	<string>subscriptionPatternFormat</string>
+	<key>gestureBufferOrigin</key>
+	<string>textFacadeTension</string>
+	<key>layoutOutsideChain</key>
+	<string>nodeLikeContext</string>
+	<key>musicWithoutCycle</key>
+	<string>granularButtonBehavior</string>
+	<key>optimizerWithBridge</key>
+	<string>stackOfStrategy</string>
+	<key>pivotalLocalizationSize</key>
+	<string>clipperIncludeSystem</string>
+</dict>
+</plist>

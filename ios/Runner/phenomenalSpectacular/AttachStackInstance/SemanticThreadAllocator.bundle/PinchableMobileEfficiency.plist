@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFrameworkRate</key>
+	<string>statelessContainProcess</string>
+	<key>immutableUsageIndex</key>
+	<string>operationActivityOrientation</string>
+	<key>otherTechniqueTag</key>
+	<string>providerTypeInteraction</string>
+	<key>richtextStageRate</key>
+	<string>interactorBeyondValue</string>
+	<key>sceneOperationBehavior</key>
+	<string>instructionDespiteBuffer</string>
+	<key>skinContextPosition</key>
+	<string>effectWithoutOperation</string>
+	<key>streamActionDensity</key>
+	<string>observerMediatorDepth</string>
+	<key>subtleNotifierSkewx</key>
+	<string>lastChartPosition</string>
+	<key>threadPerLevel</key>
+	<string>rowFromActivity</string>
+</dict>
+</plist>

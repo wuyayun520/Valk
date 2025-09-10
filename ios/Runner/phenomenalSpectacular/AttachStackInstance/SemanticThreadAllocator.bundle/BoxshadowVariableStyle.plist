@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFunctionDelay</key>
+	<string>animatedGroupBehavior</string>
+	<key>fusedSpotDelay</key>
+	<string>labelFlyweightEdge</string>
+	<key>iconChainPosition</key>
+	<string>canvasTaskPadding</string>
+	<key>logContextType</key>
+	<string>descriptorCommandResponse</string>
+	<key>precisionAwayForm</key>
+	<string>labelInKind</string>
+	<key>routerTypeAlignment</key>
+	<string>interpolationAwayVariable</string>
+	<key>sliderIncludeMethod</key>
+	<string>callbackParamResponse</string>
+	<key>temporaryCursorPosition</key>
+	<string>arithmeticWithoutProxy</string>
+	<key>transformerPerTier</key>
+	<string>futureVisitorShade</string>
+</dict>
+</plist>

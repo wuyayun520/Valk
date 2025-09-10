@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDuringJob</key>
+	<string>builderAgainstAdapter</string>
+	<key>commandMediatorDistance</key>
+	<string>numericalGrainRotation</string>
+	<key>controllerVersusStyle</key>
+	<string>mainColumnContrast</string>
+	<key>crudeInterpolationShade</key>
+	<string>usedAppbarCenter</string>
+	<key>keyButtonOrientation</key>
+	<string>resultShapeRate</string>
+	<key>particleKindState</key>
+	<string>vectorActivityOpacity</string>
+	<key>positionedInsideCycle</key>
+	<string>taskParamName</string>
+	<key>statelessBeyondVar</key>
+	<string>listviewValueDelay</string>
+	<key>transitionBesideTask</key>
+	<string>mobileJobSkewy</string>
+</dict>
+</plist>

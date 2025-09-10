@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasVarPressure</key>
+	<string>signatureModeFormat</string>
+	<key>coordinatorParamResponse</key>
+	<string>sharedTransitionSkewx</string>
+	<key>errorCycleColor</key>
+	<string>inkwellVersusMemento</string>
+	<key>interfaceAmongMediator</key>
+	<string>texturePerParam</string>
+	<key>managerStageVelocity</key>
+	<string>equalizationActivitySize</string>
+	<key>painterOutsideInterpreter</key>
+	<string>eventInsideMethod</string>
+	<key>playbackEnvironmentValidation</key>
+	<string>sizeEnvironmentBehavior</string>
+	<key>projectionNumberBottom</key>
+	<string>usecaseContainVariable</string>
+	<key>secondCursorTop</key>
+	<string>webQueueTag</string>
+	<key>ternaryAgainstDecorator</key>
+	<string>notificationChainOrientation</string>
+</dict>
+</plist>

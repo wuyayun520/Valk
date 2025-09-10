@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStateCount</key>
+	<string>imagePerTier</string>
+	<key>curveAroundCommand</key>
+	<string>metadataAgainstPlatform</string>
+	<key>effectInVisitor</key>
+	<string>convolutionTierVisible</string>
+	<key>interpolationExceptState</key>
+	<string>beginnerGridAlignment</string>
+	<key>lossKindFlags</key>
+	<string>featureUntilVisitor</string>
+	<key>pageviewPerStyle</key>
+	<string>entityOrContext</string>
+	<key>prevViewPadding</key>
+	<string>observerBeyondBridge</string>
+	<key>projectionMediatorSkewy</key>
+	<string>crudeProtocolVisible</string>
+	<key>serviceValueOrigin</key>
+	<string>queryThroughVariable</string>
+</dict>
+</plist>

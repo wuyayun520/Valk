@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBaseTransparency</key>
+	<string>eventVersusAction</string>
+	<key>easyScaleAlignment</key>
+	<string>taskEnvironmentLeft</string>
+	<key>normAdapterMode</key>
+	<string>handlerAboutFunction</string>
+	<key>permissiveCoordinatorValidation</key>
+	<string>backwardOperationSkewx</string>
+	<key>previewTypeSkewx</key>
+	<string>switchAtPlatform</string>
+	<key>providerLikeNumber</key>
+	<string>precisionActivityOrigin</string>
+	<key>stackModeMode</key>
+	<string>mediaqueryFunctionDelay</string>
+</dict>
+</plist>

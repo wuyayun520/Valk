@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protectedQueueFormat</key>
+	<string>commonQueryDistance</string>
+	<key>resolverByStructure</key>
+	<string>materialMasterOpacity</string>
+	<key>textureViaBridge</key>
+	<string>tickerSingletonInterval</string>
+</dict>
+</plist>

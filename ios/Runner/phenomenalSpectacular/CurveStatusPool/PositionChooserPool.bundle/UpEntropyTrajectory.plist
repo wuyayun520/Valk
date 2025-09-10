@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOperationState</key>
+	<string>batchContainMethod</string>
+	<key>grainDespiteShape</key>
+	<string>textAndContext</string>
+	<key>invisiblePageviewFrequency</key>
+	<string>flexPatternDelay</string>
+	<key>mobileTransitionTransparency</key>
+	<string>channelVisitorContrast</string>
+</dict>
+</plist>

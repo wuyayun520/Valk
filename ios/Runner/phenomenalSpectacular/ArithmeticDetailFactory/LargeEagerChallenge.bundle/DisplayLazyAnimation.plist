@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAroundCommand</key>
+	<string>modalVariableRight</string>
+	<key>currentChallengeStatus</key>
+	<string>standaloneCubitBottom</string>
+	<key>immediateAnimationSaturation</key>
+	<string>priorityLikeBuffer</string>
+	<key>statelessDuringObserver</key>
+	<string>interfaceOrState</string>
+</dict>
+</plist>

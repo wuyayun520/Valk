@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeFramework</key>
+	<string>discardedKernelHue</string>
+	<key>desktopMetadataStatus</key>
+	<string>symbolPatternOffset</string>
+	<key>interpolationInTier</key>
+	<string>shaderParameterTail</string>
+	<key>mapPhaseRate</key>
+	<string>symmetricSignEdge</string>
+	<key>offsetExceptType</key>
+	<string>switchWithoutParam</string>
+	<key>pageviewFromOperation</key>
+	<string>streamStatePadding</string>
+</dict>
+</plist>

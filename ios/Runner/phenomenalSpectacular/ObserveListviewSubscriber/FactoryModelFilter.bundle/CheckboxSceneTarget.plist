@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheNearLevel</key>
+	<string>sharedFragmentVisible</string>
+	<key>discardedStateSkewx</key>
+	<string>columnParamEdge</string>
+	<key>factoryPerScope</key>
+	<string>constResultTop</string>
+	<key>interactorOutsideScope</key>
+	<string>modalLevelTension</string>
+	<key>transitionAtOperation</key>
+	<string>transformerStyleRight</string>
+</dict>
+</plist>

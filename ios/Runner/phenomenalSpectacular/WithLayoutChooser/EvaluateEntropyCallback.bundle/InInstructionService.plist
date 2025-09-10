@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonParameterForce</key>
+	<string>customizedChecklistName</string>
+	<key>effectBeyondObserver</key>
+	<string>columnViaAdapter</string>
+	<key>grainThanInterpreter</key>
+	<string>multiModelDuration</string>
+	<key>robustAlignmentInterval</key>
+	<string>materialContextVelocity</string>
+	<key>serviceViaFlyweight</key>
+	<string>multiCurveCount</string>
+	<key>streamWithChain</key>
+	<string>fusedAnimationFrequency</string>
+</dict>
+</plist>

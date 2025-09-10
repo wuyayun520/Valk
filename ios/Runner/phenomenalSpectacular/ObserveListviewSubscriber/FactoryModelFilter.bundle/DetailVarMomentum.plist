@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContainerOrientation</key>
+	<string>channelTempleDelay</string>
+	<key>dropdownbuttonLikeMode</key>
+	<string>mobilePhaseRight</string>
+	<key>metadataNearKind</key>
+	<string>listviewDecoratorForce</string>
+	<key>sizeTempleTransparency</key>
+	<string>flexibleGraphColor</string>
+	<key>spriteStageDepth</key>
+	<string>indicatorLevelHead</string>
+</dict>
+</plist>

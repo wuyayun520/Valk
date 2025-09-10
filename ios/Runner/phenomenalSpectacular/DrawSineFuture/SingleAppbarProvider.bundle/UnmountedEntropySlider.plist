@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnimationAppearance</key>
+	<string>characterTypeDirection</string>
+	<key>appbarPlatformShape</key>
+	<string>playbackNearStage</string>
+	<key>assetUntilAction</key>
+	<string>presenterCompositeCount</string>
+	<key>entityCommandLocation</key>
+	<string>brushStructureType</string>
+	<key>grainFacadeSkewy</key>
+	<string>clipperInterpreterOrigin</string>
+	<key>materialLevelOrigin</key>
+	<string>immutableTimerCenter</string>
+	<key>paddingVarDuration</key>
+	<string>persistentBuilderPosition</string>
+	<key>serviceAroundMode</key>
+	<string>autoConfigurationIndex</string>
+	<key>sliderContextSaturation</key>
+	<string>decorationAwayStrategy</string>
+	<key>workflowIncludeJob</key>
+	<string>storeBeyondComposite</string>
+</dict>
+</plist>

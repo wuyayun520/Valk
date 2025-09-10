@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePlatformBehavior</key>
+	<string>clipperNumberShape</string>
+	<key>completerParameterInset</key>
+	<string>segmentAsJob</string>
+	<key>gesturedetectorLevelSpacing</key>
+	<string>controllerNearParameter</string>
+	<key>grainPrototypeOrientation</key>
+	<string>missedSampleDuration</string>
+	<key>groupSingletonFrequency</key>
+	<string>popupScopeFlags</string>
+	<key>intensityAgainstTier</key>
+	<string>serviceOfCycle</string>
+	<key>smallActionTail</key>
+	<string>queueBridgePosition</string>
+	<key>subscriptionOperationOrigin</key>
+	<string>intensitySystemPadding</string>
+</dict>
+</plist>

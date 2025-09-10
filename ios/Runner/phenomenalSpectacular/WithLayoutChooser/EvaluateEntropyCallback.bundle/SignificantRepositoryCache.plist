@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCompositeFrequency</key>
+	<string>localAccessoryShade</string>
+	<key>dedicatedBlocOrigin</key>
+	<string>drawerByFunction</string>
+	<key>globalAnimationAlignment</key>
+	<string>serviceFrameworkOffset</string>
+	<key>grainAtForm</key>
+	<string>lostControllerValidation</string>
+	<key>segmentAlongMode</key>
+	<string>difficultSingletonVisibility</string>
+</dict>
+</plist>

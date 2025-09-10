@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTextDelay</key>
+	<string>staticTransitionRight</string>
+	<key>futureObserverName</key>
+	<string>navigatorViaStage</string>
+	<key>singleDelegateDirection</key>
+	<string>prevGesturedetectorFormat</string>
+	<key>sizedboxPlatformContrast</key>
+	<string>workflowOutsideAction</string>
+	<key>tappableScreenOrientation</key>
+	<string>visibleSliderBorder</string>
+</dict>
+</plist>

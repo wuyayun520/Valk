@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedInjectionPressure</key>
+	<string>resultInsideBuffer</string>
+	<key>liteResponseAlignment</key>
+	<string>customizedAnchorState</string>
+	<key>routeNearFacade</key>
+	<string>ephemeralInteractorRate</string>
+	<key>sampleWorkSpeed</key>
+	<string>storeInsideParameter</string>
+	<key>switchCycleDuration</key>
+	<string>permissiveFutureKind</string>
+</dict>
+</plist>

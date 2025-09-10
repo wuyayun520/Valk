@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedInterfaceFeedback</key>
+	<string>rapidCycleHead</string>
+	<key>featureUntilFlyweight</key>
+	<string>dedicatedInterfaceSize</string>
+	<key>functionalReducerOffset</key>
+	<string>gemVariableOrigin</string>
+	<key>granularServiceCoord</key>
+	<string>unsortedRequestMode</string>
+	<key>hashPerVisitor</key>
+	<string>mobxActivityMargin</string>
+	<key>intermediateAwaitIndex</key>
+	<string>bitrateExceptBuffer</string>
+	<key>newestGridSpacing</key>
+	<string>offsetProcessBehavior</string>
+	<key>storageAtFlyweight</key>
+	<string>decorationBeyondState</string>
+	<key>tabbarPerFramework</key>
+	<string>listenerStageTint</string>
+</dict>
+</plist>

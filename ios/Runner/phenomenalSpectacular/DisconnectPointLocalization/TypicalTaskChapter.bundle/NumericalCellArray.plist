@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLabelLocation</key>
+	<string>disabledChannelVisible</string>
+	<key>completerOrMode</key>
+	<string>iterativeChannelSaturation</string>
+	<key>handlerAdapterShape</key>
+	<string>widgetObserverLocation</string>
+	<key>significantBehaviorKind</key>
+	<string>tickerCompositeTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCycleMode</key>
+	<string>slashUntilShape</string>
+	<key>currentNotificationPadding</key>
+	<string>getxStageShape</string>
+	<key>diversifiedLossRotation</key>
+	<string>immutableScrollLeft</string>
+	<key>painterParamVelocity</key>
+	<string>stepJobColor</string>
+	<key>permissivePositionIndex</key>
+	<string>lazyIndicatorOrigin</string>
+	<key>pivotalLayoutFrequency</key>
+	<string>rowTierScale</string>
+	<key>relationalGridviewFrequency</key>
+	<string>compositionalRouterDuration</string>
+	<key>repositoryActivityBehavior</key>
+	<string>asyncParameterBehavior</string>
+	<key>ternaryWithVisitor</key>
+	<string>tappableMethodAlignment</string>
+</dict>
+</plist>

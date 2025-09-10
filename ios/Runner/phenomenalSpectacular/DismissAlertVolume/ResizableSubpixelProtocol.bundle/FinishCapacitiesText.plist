@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandTypeTheme</key>
+	<string>symmetricCurveStatus</string>
+	<key>finalCubitFlags</key>
+	<string>dropdownbuttonPatternInteraction</string>
+	<key>nativeEventStatus</key>
+	<string>observerLevelAlignment</string>
+	<key>responseShapeFeedback</key>
+	<string>textOutsidePhase</string>
+	<key>serviceByStyle</key>
+	<string>screenChainAlignment</string>
+	<key>sineForVar</key>
+	<string>isolateWithState</string>
+	<key>streamAmongSingleton</key>
+	<string>diffableWidgetVisible</string>
+	<key>viewUntilTier</key>
+	<string>iterativeCatalystResponse</string>
+</dict>
+</plist>

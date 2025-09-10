@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonShaderDepth</key>
+	<string>kernelJobColor</string>
+	<key>coordinatorStageType</key>
+	<string>functionalConvolutionVisible</string>
+	<key>criticalAnimationMode</key>
+	<string>timerPrototypeTheme</string>
+	<key>gateModeBehavior</key>
+	<string>integerAndInterpreter</string>
+	<key>inkwellBesideContext</key>
+	<string>loopPlatformName</string>
+	<key>interfaceWithoutState</key>
+	<string>builderInsideProxy</string>
+	<key>masterSystemKind</key>
+	<string>difficultCallbackTail</string>
+	<key>pinchableLoopBehavior</key>
+	<string>textVersusParam</string>
+	<key>statelessInsideLevel</key>
+	<string>deferredCursorSpeed</string>
+</dict>
+</plist>

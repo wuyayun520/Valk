@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDecoratorBottom</key>
+	<string>chapterByComposite</string>
+	<key>mobileLevelInteraction</key>
+	<string>progressbarCycleFrequency</string>
+	<key>prevOffsetRight</key>
+	<string>asyncIndicatorKind</string>
+	<key>repositorySingletonShade</key>
+	<string>significantTextState</string>
+	<key>spriteCompositeRight</key>
+	<string>anchorAmongMode</string>
+	<key>stateFrameworkFormat</key>
+	<string>layerBeyondTemple</string>
+	<key>sustainableWidgetRotation</key>
+	<string>tabviewAlongFunction</string>
+	<key>unactivatedLoopLeft</key>
+	<string>typicalIconMode</string>
+	<key>viewUntilDecorator</key>
+	<string>managerWorkRate</string>
+</dict>
+</plist>

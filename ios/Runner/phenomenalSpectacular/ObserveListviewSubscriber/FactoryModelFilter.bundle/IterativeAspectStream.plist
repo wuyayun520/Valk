@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAndInterpreter</key>
+	<string>queueCycleRotation</string>
+	<key>builderIncludeVisitor</key>
+	<string>scrollableModalOffset</string>
+	<key>desktopNormState</key>
+	<string>aspectPerProxy</string>
+	<key>disabledRouteVisible</key>
+	<string>reductionAdapterHue</string>
+	<key>graphicExceptStructure</key>
+	<string>durationThroughStyle</string>
+	<key>newestWidgetMomentum</key>
+	<string>resilientOffsetOrigin</string>
+	<key>requestProxyOpacity</key>
+	<string>featureAmongOperation</string>
+	<key>textureExceptState</key>
+	<string>futureActivityRate</string>
+</dict>
+</plist>

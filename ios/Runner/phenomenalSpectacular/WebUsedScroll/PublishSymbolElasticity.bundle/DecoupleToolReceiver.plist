@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveThemeDensity</key>
+	<string>smallViewFormat</string>
+	<key>alphaStateOrientation</key>
+	<string>usedStatefulSaturation</string>
+	<key>animationStrategyMomentum</key>
+	<string>notificationVisitorHead</string>
+	<key>awaitOfFramework</key>
+	<string>equalizationCompositeStatus</string>
+	<key>baselineTempleTint</key>
+	<string>boxSingletonState</string>
+	<key>currentCheckboxOpacity</key>
+	<string>priorRadioFrequency</string>
+	<key>delegateSystemFrequency</key>
+	<string>sophisticatedTickerDensity</string>
+	<key>draggablePopupPosition</key>
+	<string>constSwitchTension</string>
+	<key>rowAndEnvironment</key>
+	<string>animationScopeType</string>
+</dict>
+</plist>

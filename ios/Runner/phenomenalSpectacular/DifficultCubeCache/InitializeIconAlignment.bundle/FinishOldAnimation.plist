@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBesideMediator</key>
+	<string>viewCycleLeft</string>
+	<key>behaviorValuePadding</key>
+	<string>sceneAgainstPrototype</string>
+	<key>constraintProxyRotation</key>
+	<string>managerThanMode</string>
+	<key>elasticBlocMomentum</key>
+	<string>appbarBesideCycle</string>
+	<key>monsterAgainstMemento</key>
+	<string>autoInterpolationInterval</string>
+	<key>stepOrSingleton</key>
+	<string>flexibleGiftOffset</string>
+	<key>widgetScopeForce</key>
+	<string>profileWithScope</string>
+</dict>
+</plist>

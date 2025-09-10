@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionDecoratorAlignment</key>
+	<string>localizationPatternTop</string>
+	<key>invisibleOffsetAppearance</key>
+	<string>temporaryGrainBorder</string>
+	<key>largeThemeHue</key>
+	<string>skirtAgainstPlatform</string>
+	<key>loopFacadeKind</key>
+	<string>accessoryAdapterPadding</string>
+	<key>stampOfValue</key>
+	<string>masterDecoratorPosition</string>
+	<key>usedFragmentHue</key>
+	<string>plateVersusForm</string>
+</dict>
+</plist>

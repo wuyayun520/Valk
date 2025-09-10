@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterContainObserver</key>
+	<string>resilientSubscriptionBehavior</string>
+	<key>concreteLayoutSkewx</key>
+	<string>viewOrStage</string>
+	<key>coordinatorInsideChain</key>
+	<string>builderChainVisibility</string>
+	<key>graphAboutActivity</key>
+	<string>backwardSignSkewx</string>
+	<key>precisionContextPressure</key>
+	<string>normVisitorPadding</string>
+	<key>shaderVarInteraction</key>
+	<string>usedFeatureAlignment</string>
+</dict>
+</plist>

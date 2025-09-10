@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAwayType</key>
+	<string>buttonAndState</string>
+	<key>dialogsMethodContrast</key>
+	<string>activityKindBrightness</string>
+	<key>frameValueSkewy</key>
+	<string>cellStructureOrigin</string>
+	<key>indicatorFacadePadding</key>
+	<string>displayableZoneKind</string>
+	<key>integerWithoutSystem</key>
+	<string>pivotalProtocolTail</string>
+	<key>ternaryAboutFacade</key>
+	<string>mainBuilderName</string>
+	<key>variantStrategyHue</key>
+	<string>unactivatedListenerFrequency</string>
+</dict>
+</plist>

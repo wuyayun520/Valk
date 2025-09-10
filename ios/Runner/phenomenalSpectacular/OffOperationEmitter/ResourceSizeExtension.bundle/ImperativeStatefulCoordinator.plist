@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCompositeBehavior</key>
+	<string>dynamicColumnPosition</string>
+	<key>dynamicPriorityAppearance</key>
+	<string>awaitInsideState</string>
+	<key>exceptionAwayChain</key>
+	<string>dropdownbuttonAboutBuffer</string>
+	<key>finalDrawerValidation</key>
+	<string>criticalTabviewEdge</string>
+	<key>inkwellModeTag</key>
+	<string>ignoredReductionInterval</string>
+	<key>interactorContextShape</key>
+	<string>mediumCompositionDirection</string>
+	<key>semanticsIncludeMethod</key>
+	<string>publicInterfaceDepth</string>
+	<key>stateAmongComposite</key>
+	<string>missionAboutBuffer</string>
+	<key>usageSinceTask</key>
+	<string>localizationAsKind</string>
+</dict>
+</plist>

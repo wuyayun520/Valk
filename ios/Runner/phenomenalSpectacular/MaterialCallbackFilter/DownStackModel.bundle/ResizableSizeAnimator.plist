@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMemberMode</key>
+	<string>requestLikePrototype</string>
+	<key>backwardLoopCenter</key>
+	<string>callbackDuringAction</string>
+	<key>brushLikeVar</key>
+	<string>stackNearWork</string>
+	<key>compositionProcessCenter</key>
+	<string>sessionFlyweightContrast</string>
+	<key>instructionLikeMode</key>
+	<string>intermediateAwaitForce</string>
+	<key>petWorkAppearance</key>
+	<string>allocatorMethodInteraction</string>
+	<key>resolverSinceStyle</key>
+	<string>buttonOutsideKind</string>
+	<key>smartGridFormat</key>
+	<string>smartErrorOrientation</string>
+</dict>
+</plist>

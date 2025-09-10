@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrTask</key>
+	<string>viewActionHue</string>
+	<key>desktopGridInteraction</key>
+	<string>clipperFormStatus</string>
+	<key>dialogsViaState</key>
+	<string>newestConstraintInteraction</string>
+	<key>factoryVarIndex</key>
+	<string>descriptionPlatformHead</string>
+	<key>futureStageDirection</key>
+	<string>hashAmongLayer</string>
+	<key>roleStateAppearance</key>
+	<string>delegateOrPattern</string>
+	<key>singletonAtStructure</key>
+	<string>queueContainLayer</string>
+	<key>sliderWithFlyweight</key>
+	<string>tabviewMethodCount</string>
+	<key>spriteShapeBottom</key>
+	<string>granularProgressbarValidation</string>
+</dict>
+</plist>

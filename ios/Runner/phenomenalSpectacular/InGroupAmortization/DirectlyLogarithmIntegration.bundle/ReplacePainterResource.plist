@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAmongMemento</key>
+	<string>modulusAndBridge</string>
+	<key>consumerActionRotation</key>
+	<string>smartTabviewDirection</string>
+	<key>customizedInteractorHue</key>
+	<string>scrollMethodShade</string>
+	<key>listenerTierSpeed</key>
+	<string>swiftOrPrototype</string>
+	<key>methodSystemStatus</key>
+	<string>handlerIncludeNumber</string>
+	<key>presenterThanMode</key>
+	<string>textfieldNumberForce</string>
+	<key>smartAllocatorMode</key>
+	<string>chartScopeSpeed</string>
+	<key>storageFormSaturation</key>
+	<string>collectionEnvironmentMargin</string>
+</dict>
+</plist>

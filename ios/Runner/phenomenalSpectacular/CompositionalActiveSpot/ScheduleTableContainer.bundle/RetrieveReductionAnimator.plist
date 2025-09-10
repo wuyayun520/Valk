@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryActionBrightness</key>
+	<string>storeOfVariable</string>
+	<key>cartesianSubpixelBrightness</key>
+	<string>enabledThemeBorder</string>
+	<key>temporaryFutureRotation</key>
+	<string>optimizerMementoTag</string>
+</dict>
+</plist>

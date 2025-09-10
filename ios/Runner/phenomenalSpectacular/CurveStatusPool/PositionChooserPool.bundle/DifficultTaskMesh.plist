@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderActivityAlignment</key>
+	<string>adaptiveCommandValidation</string>
+	<key>canvasDespiteAction</key>
+	<string>commonConsumerLeft</string>
+	<key>dependencyExceptLayer</key>
+	<string>storageAroundObserver</string>
+	<key>interactorVersusScope</key>
+	<string>advancedFlexCount</string>
+	<key>progressbarViaVisitor</key>
+	<string>marginVersusFramework</string>
+	<key>visibleSegueDistance</key>
+	<string>priorSpotInterval</string>
+</dict>
+</plist>

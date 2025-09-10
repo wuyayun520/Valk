@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorShapeBorder</key>
+	<string>spriteEnvironmentMode</string>
+	<key>providerStageVisible</key>
+	<string>unsortedPositionHue</string>
+	<key>statelessDelegateInset</key>
+	<string>radiusContextTop</string>
+	<key>statelessSkirtResponse</key>
+	<string>completerContextInset</string>
+	<key>streamLayerVisibility</key>
+	<string>entityWithoutOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerValueDepth</key>
+	<string>streamValueAlignment</string>
+	<key>grayscaleExceptInterpreter</key>
+	<string>mediumCupertinoCoord</string>
+	<key>grayscaleOperationType</key>
+	<string>sizeStateFormat</string>
+	<key>pageviewCycleFlags</key>
+	<string>chartAdapterAcceleration</string>
+	<key>segueOfType</key>
+	<string>synchronousClipperResponse</string>
+	<key>semanticChannelValidation</key>
+	<string>delicateCurveTransparency</string>
+	<key>transitionTierBorder</key>
+	<string>cardOperationFrequency</string>
+</dict>
+</plist>

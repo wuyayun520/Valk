@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonJobDelay</key>
+	<string>dynamicAlertAppearance</string>
+	<key>commonAnimationFeedback</key>
+	<string>cosineAtCycle</string>
+	<key>isolateExceptPattern</key>
+	<string>nibInsideTask</string>
+	<key>managerValueContrast</key>
+	<string>keyProviderCoord</string>
+	<key>mobxFormState</key>
+	<string>hierarchicalCellAppearance</string>
+	<key>resolverAmongStyle</key>
+	<string>cartesianFactoryLocation</string>
+	<key>seamlessSubscriptionTransparency</key>
+	<string>heroIncludeValue</string>
+	<key>typicalObserverOffset</key>
+	<string>singlePreviewBound</string>
+</dict>
+</plist>

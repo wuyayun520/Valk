@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandKindTransparency</key>
+	<string>liteSinkSpacing</string>
+	<key>compositionStateFlags</key>
+	<string>flexiblePreviewInset</string>
+	<key>grainPlatformState</key>
+	<string>transitionWorkShade</string>
+	<key>intuitiveLoopDuration</key>
+	<string>painterFlyweightName</string>
+	<key>listenerPrototypeCoord</key>
+	<string>anchorAsLevel</string>
+	<key>routerParameterMode</key>
+	<string>decorationMementoInteraction</string>
+	<key>sliderInState</key>
+	<string>entropyAndMemento</string>
+</dict>
+</plist>

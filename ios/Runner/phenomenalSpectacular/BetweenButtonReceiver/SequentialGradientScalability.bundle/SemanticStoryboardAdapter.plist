@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashAsBridge</key>
+	<string>blocPerStructure</string>
+	<key>normAgainstAdapter</key>
+	<string>commandActionInset</string>
+	<key>providerLayerValidation</key>
+	<string>effectAroundFramework</string>
+	<key>resultOrWork</key>
+	<string>streamShapeCenter</string>
+	<key>scaffoldPhaseFeedback</key>
+	<string>nodeBeyondPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVersusAdapter</key>
+	<string>workflowFormAlignment</string>
+	<key>configurationAmongCommand</key>
+	<string>routerTypeDepth</string>
+	<key>dynamicButtonInset</key>
+	<string>allocatorBesidePrototype</string>
+	<key>secondChannelInset</key>
+	<string>subscriptionFlyweightHue</string>
+</dict>
+</plist>

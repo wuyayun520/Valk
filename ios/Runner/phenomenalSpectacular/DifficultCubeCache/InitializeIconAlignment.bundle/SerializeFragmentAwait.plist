@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalNotificationAlignment</key>
+	<string>lazyAssetSize</string>
+	<key>dedicatedMapTag</key>
+	<string>completerProxyMode</string>
+	<key>featureSingletonDuration</key>
+	<string>synchronousDecorationVisibility</string>
+	<key>indicatorAndMediator</key>
+	<string>sequentialAlignmentDelay</string>
+	<key>uniformArithmeticInterval</key>
+	<string>channelAtStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAtKind</key>
+	<string>synchronousChartRotation</string>
+	<key>commonTabbarTop</key>
+	<string>nodeBesideFlyweight</string>
+	<key>constMonsterRight</key>
+	<string>statefulTabviewVelocity</string>
+	<key>gridKindTension</key>
+	<string>directlyTickerTransparency</string>
+	<key>optionIncludeVar</key>
+	<string>entityFromLevel</string>
+	<key>pointSinceContext</key>
+	<string>cupertinoLayoutDistance</string>
+	<key>queryObserverTransparency</key>
+	<string>widgetFacadeSize</string>
+	<key>resolverAboutMode</key>
+	<string>asynchronousChannelsTail</string>
+</dict>
+</plist>

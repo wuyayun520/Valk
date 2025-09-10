@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNotificationDensity</key>
+	<string>flexibleManagerSize</string>
+	<key>granularBitrateOffset</key>
+	<string>commonMonsterContrast</string>
+	<key>independentOperationFrequency</key>
+	<string>interfaceDuringContext</string>
+	<key>layoutPhaseEdge</key>
+	<string>lazyGesturedetectorRotation</string>
+	<key>nativeGesturedetectorRight</key>
+	<string>concurrentSubpixelColor</string>
+	<key>priorityChainBrightness</key>
+	<string>chartStyleTop</string>
+	<key>secondMemberSkewy</key>
+	<string>advancedUnaryDepth</string>
+	<key>semanticPresenterInteraction</key>
+	<string>delegateDuringInterpreter</string>
+	<key>typicalTextMargin</key>
+	<string>semanticPopupShade</string>
+</dict>
+</plist>

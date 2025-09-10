@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStateTop</key>
+	<string>decorationDecoratorMargin</string>
+	<key>axisBridgeFormat</key>
+	<string>advancedCupertinoResponse</string>
+	<key>containerProcessSkewx</key>
+	<string>sharedUtilMargin</string>
+	<key>keySkinInterval</key>
+	<string>aspectWithContext</string>
+	<key>liteContainerTheme</key>
+	<string>taskAwayPrototype</string>
+	<key>nativeFutureFeedback</key>
+	<string>reusableReducerShade</string>
+	<key>queueDespiteEnvironment</key>
+	<string>petAsObserver</string>
+	<key>sensorParamDuration</key>
+	<string>chapterBeyondComposite</string>
+</dict>
+</plist>

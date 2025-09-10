@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainActionBorder</key>
+	<string>assetOperationDepth</string>
+	<key>integerCycleOrientation</key>
+	<string>criticalQueueSpeed</string>
+	<key>requiredAssetDelay</key>
+	<string>fixedDropdownbuttonFrequency</string>
+	<key>secondProfileRotation</key>
+	<string>repositoryParameterHead</string>
+	<key>timerCompositeMomentum</key>
+	<string>bulletObserverBrightness</string>
+</dict>
+</plist>

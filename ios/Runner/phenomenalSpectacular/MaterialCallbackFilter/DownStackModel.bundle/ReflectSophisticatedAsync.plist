@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateCommandCoord</key>
+	<string>custompaintDecoratorAlignment</string>
+	<key>dependencyContextSaturation</key>
+	<string>popupMediatorEdge</string>
+	<key>intensityDespiteDecorator</key>
+	<string>tappableIndicatorName</string>
+	<key>interactorFunctionKind</key>
+	<string>animationIncludeStage</string>
+	<key>observerAgainstPhase</key>
+	<string>signatureKindSkewy</string>
+	<key>prismaticManagerBorder</key>
+	<string>zoneTaskSpacing</string>
+</dict>
+</plist>

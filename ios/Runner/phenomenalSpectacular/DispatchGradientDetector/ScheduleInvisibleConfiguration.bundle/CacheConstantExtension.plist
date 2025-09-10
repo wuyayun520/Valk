@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderIncludeBridge</key>
+	<string>explicitMethodCount</string>
+	<key>resizableControllerResponse</key>
+	<string>lazyFactoryDirection</string>
+	<key>responsiveChartOrigin</key>
+	<string>interactiveMasterOpacity</string>
+	<key>semanticsAmongActivity</key>
+	<string>cacheShapeIndex</string>
+	<key>sliderValueColor</key>
+	<string>sophisticatedTransitionTag</string>
+</dict>
+</plist>

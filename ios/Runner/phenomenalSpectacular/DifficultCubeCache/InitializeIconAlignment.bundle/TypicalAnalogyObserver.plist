@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThreadBehavior</key>
+	<string>buttonFrameworkSize</string>
+	<key>buttonActionDistance</key>
+	<string>normAtObserver</string>
+	<key>criticalEntityCenter</key>
+	<string>positionedInsideBridge</string>
+	<key>effectExceptMethod</key>
+	<string>repositoryContainShape</string>
+	<key>fixedMapBorder</key>
+	<string>discardedPointRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLayoutInteraction</key>
+	<string>futureWorkKind</string>
+	<key>alignmentWithoutMethod</key>
+	<string>queueBeyondPhase</string>
+	<key>arithmeticTabviewSpeed</key>
+	<string>requestAtMethod</string>
+	<key>customDocumentBottom</key>
+	<string>slashPhaseOffset</string>
+	<key>injectionVisitorFlags</key>
+	<string>activeManagerTop</string>
+</dict>
+</plist>

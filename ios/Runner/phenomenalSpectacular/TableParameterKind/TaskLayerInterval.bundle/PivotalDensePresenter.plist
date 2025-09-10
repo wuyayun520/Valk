@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateInsideStyle</key>
+	<string>controllerSystemSpacing</string>
+	<key>cacheStageMode</key>
+	<string>switchFlyweightFlags</string>
+	<key>completerContainPattern</key>
+	<string>layerThroughChain</string>
+	<key>graphPlatformSpacing</key>
+	<string>nibCompositeVelocity</string>
+	<key>indicatorShapeContrast</key>
+	<string>clipperBesideFacade</string>
+	<key>responseDespiteBuffer</key>
+	<string>isolateAndKind</string>
+</dict>
+</plist>

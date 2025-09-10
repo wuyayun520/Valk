@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTextureOrientation</key>
+	<string>buttonFlyweightDuration</string>
+	<key>declarativeStoreTail</key>
+	<string>configurationAndProxy</string>
+	<key>frameObserverAppearance</key>
+	<string>baseWithPrototype</string>
+	<key>graphicWithoutStage</key>
+	<string>menuSingletonFlags</string>
+	<key>mediaqueryDespiteProxy</key>
+	<string>symmetricAnimationHue</string>
+	<key>painterTierType</key>
+	<string>stampProcessInteraction</string>
+	<key>reactiveAccessoryShade</key>
+	<string>sensorAsJob</string>
+	<key>sceneChainSpacing</key>
+	<string>intermediateEventOrientation</string>
+	<key>sizeOperationOrigin</key>
+	<string>explicitCustompaintInteraction</string>
+	<key>skinExceptForm</key>
+	<string>discardedResourceBound</string>
+</dict>
+</plist>

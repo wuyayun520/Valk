@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParamStyle</key>
+	<string>lostVectorOpacity</string>
+	<key>directCacheDensity</key>
+	<string>primaryProviderInset</string>
+	<key>disparateGroupDensity</key>
+	<string>entropyByMediator</string>
+	<key>displayableChannelSize</key>
+	<string>spotAlongScope</string>
+	<key>progressbarStyleShade</key>
+	<string>painterFlyweightTop</string>
+	<key>reducerForInterpreter</key>
+	<string>injectionPhaseTransparency</string>
+	<key>reusableWidgetVisible</key>
+	<string>normalDelegateTension</string>
+	<key>tangentObserverSkewx</key>
+	<string>controllerViaFramework</string>
+	<key>viewStageDistance</key>
+	<string>newestRouteOrigin</string>
+</dict>
+</plist>

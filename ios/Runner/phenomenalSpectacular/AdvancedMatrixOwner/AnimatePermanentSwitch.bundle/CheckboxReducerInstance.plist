@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPerForm</key>
+	<string>layoutFromMethod</string>
+	<key>eventAsAdapter</key>
+	<string>radiusDuringFlyweight</string>
+	<key>hierarchicalChannelShape</key>
+	<string>mainLabelSpeed</string>
+	<key>localizationFrameworkOrientation</key>
+	<string>loopForStage</string>
+	<key>offsetChainAppearance</key>
+	<string>radioAndVisitor</string>
+	<key>subscriptionAgainstStrategy</key>
+	<string>delicateStorageResponse</string>
+	<key>unaryFlyweightHue</key>
+	<string>utilBufferShape</string>
+	<key>unsortedFrameSkewx</key>
+	<string>crucialRiverpodSkewy</string>
+</dict>
+</plist>

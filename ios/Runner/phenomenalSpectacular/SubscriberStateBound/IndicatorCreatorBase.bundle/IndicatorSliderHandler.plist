@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThroughStage</key>
+	<string>controllerBridgeCenter</string>
+	<key>batchWithLevel</key>
+	<string>resultStructureBehavior</string>
+	<key>capsuleActivityInteraction</key>
+	<string>dedicatedEntityFormat</string>
+	<key>normStyleSize</key>
+	<string>visibleTitleDistance</string>
+	<key>notifierUntilStrategy</key>
+	<string>playbackDuringOperation</string>
+	<key>routeEnvironmentInset</key>
+	<string>associatedDecorationState</string>
+	<key>utilScopeRate</key>
+	<string>tickerTaskTransparency</string>
+</dict>
+</plist>

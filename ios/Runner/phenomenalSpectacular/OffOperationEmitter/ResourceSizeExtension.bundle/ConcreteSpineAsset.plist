@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAlongAdapter</key>
+	<string>sceneKindRight</string>
+	<key>protectedHandlerRate</key>
+	<string>requiredMenuInset</string>
+	<key>smallGemMode</key>
+	<string>textureBesideParameter</string>
+	<key>subsequentInteractorAlignment</key>
+	<string>titleForMediator</string>
+	<key>transitionAroundLevel</key>
+	<string>numericalCoordinatorSpacing</string>
+</dict>
+</plist>

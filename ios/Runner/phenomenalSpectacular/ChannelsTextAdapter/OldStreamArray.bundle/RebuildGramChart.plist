@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncModeDirection</key>
+	<string>retainedStepFormat</string>
+	<key>documentAmongBuffer</key>
+	<string>pinchableSymbolLocation</string>
+	<key>flexPerValue</key>
+	<string>statelessGrainSpacing</string>
+	<key>tableAboutLayer</key>
+	<string>statefulTabbarForce</string>
+	<key>vectorPlatformIndex</key>
+	<string>desktopStoreTension</string>
+</dict>
+</plist>

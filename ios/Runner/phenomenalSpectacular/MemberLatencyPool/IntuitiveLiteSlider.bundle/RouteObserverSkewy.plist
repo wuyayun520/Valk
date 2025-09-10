@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterKindTransparency</key>
+	<string>primaryApertureDensity</string>
+	<key>controllerWithKind</key>
+	<string>collectionForSystem</string>
+	<key>decorationInsideLevel</key>
+	<string>screenAwayFunction</string>
+	<key>futureDecoratorDensity</key>
+	<string>ignoredStampColor</string>
+	<key>isolateCycleSkewx</key>
+	<string>rowKindStyle</string>
+	<key>iterativeTangentPosition</key>
+	<string>opaqueGrainValidation</string>
+	<key>keyThemeDirection</key>
+	<string>repositoryValueCount</string>
+	<key>retainedRequestMargin</key>
+	<string>behaviorJobOffset</string>
+	<key>signatureAsType</key>
+	<string>globalLayoutMargin</string>
+</dict>
+</plist>

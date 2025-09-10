@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerMethodTop</key>
+	<string>declarativeSpineLocation</string>
+	<key>enabledOffsetDistance</key>
+	<string>canvasPerLevel</string>
+	<key>imperativeAnimationDepth</key>
+	<string>resourceShapeSkewy</string>
+	<key>spotMediatorType</key>
+	<string>variantVersusTier</string>
+	<key>stampProcessInset</key>
+	<string>graphWithObserver</string>
+	<key>widgetPatternSaturation</key>
+	<string>responsiveStackCenter</string>
+</dict>
+</plist>

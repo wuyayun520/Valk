@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptFramework</key>
+	<string>numericalChannelsCenter</string>
+	<key>asyncMethodSpeed</key>
+	<string>offsetBufferMomentum</string>
+	<key>currentPriorityOffset</key>
+	<string>cupertinoInteractorHue</string>
+	<key>labelFromCommand</key>
+	<string>kernelCommandTag</string>
+	<key>respectiveMediaDepth</key>
+	<string>tappableMenuContrast</string>
+	<key>serviceParamBottom</key>
+	<string>diffableDescriptorRate</string>
+	<key>tabbarInterpreterTheme</key>
+	<string>gradientInPrototype</string>
+</dict>
+</plist>

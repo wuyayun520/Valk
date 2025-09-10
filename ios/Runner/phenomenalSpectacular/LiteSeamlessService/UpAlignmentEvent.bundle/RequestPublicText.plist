@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedRequestValidation</key>
+	<string>publicCellIndex</string>
+	<key>particleWithoutEnvironment</key>
+	<string>liteButtonLeft</string>
+	<key>persistentSingletonTag</key>
+	<string>spriteLikeAdapter</string>
+	<key>resilientChannelFeedback</key>
+	<string>activatedResourceSpeed</string>
+	<key>semanticsFlyweightSpeed</key>
+	<string>commonBuilderStatus</string>
+	<key>sortedVectorPosition</key>
+	<string>sceneAdapterSkewx</string>
+	<key>temporaryStorageCount</key>
+	<string>navigatorForLevel</string>
+</dict>
+</plist>

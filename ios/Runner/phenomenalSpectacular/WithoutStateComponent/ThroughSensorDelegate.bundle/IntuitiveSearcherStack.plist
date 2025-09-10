@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelContextState</key>
+	<string>petActionVisibility</string>
+	<key>curveVariableBrightness</key>
+	<string>actionLikeNumber</string>
+	<key>dynamicAnimationDistance</key>
+	<string>labelVariableVisible</string>
+	<key>errorBesideValue</key>
+	<string>advancedExtensionDistance</string>
+	<key>eventJobDensity</key>
+	<string>concreteTabbarOpacity</string>
+	<key>progressbarStyleShade</key>
+	<string>stepOutsideParameter</string>
+	<key>segueAwayTier</key>
+	<string>elasticBuilderBehavior</string>
+</dict>
+</plist>

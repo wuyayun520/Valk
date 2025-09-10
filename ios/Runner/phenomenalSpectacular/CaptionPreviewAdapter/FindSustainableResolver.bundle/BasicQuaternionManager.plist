@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerByTask</key>
+	<string>primaryBatchRotation</string>
+	<key>constTechniqueTint</key>
+	<string>activatedHashContrast</string>
+	<key>cursorInsideAdapter</key>
+	<string>musicContainStyle</string>
+	<key>movementAndSystem</key>
+	<string>blocFormOpacity</string>
+	<key>scaleStateBrightness</key>
+	<string>flexInterpreterContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellExceptState</key>
+	<string>curveIncludeMode</string>
+	<key>constraintContextSaturation</key>
+	<string>diffableCompletionIndex</string>
+	<key>dropdownbuttonBridgeType</key>
+	<string>gradientMethodDirection</string>
+	<key>loopWithoutProxy</key>
+	<string>responseActivitySpacing</string>
+	<key>mediumBitrateScale</key>
+	<string>screenAtFunction</string>
+	<key>rowShapeDistance</key>
+	<string>containerFromPlatform</string>
+	<key>symmetricWorkflowPosition</key>
+	<string>cubeStructureBorder</string>
+</dict>
+</plist>

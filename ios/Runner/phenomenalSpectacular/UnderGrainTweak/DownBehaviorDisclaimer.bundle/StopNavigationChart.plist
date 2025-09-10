@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDuringSingleton</key>
+	<string>materialConstraintRate</string>
+	<key>blocPlatformInset</key>
+	<string>directCubitRight</string>
+	<key>borderLikeScope</key>
+	<string>iterativeSubpixelHue</string>
+	<key>cubeAdapterResponse</key>
+	<string>listviewStrategyDensity</string>
+	<key>exponentAlongBridge</key>
+	<string>radioInsideCommand</string>
+	<key>isolateNearState</key>
+	<string>resizableCacheState</string>
+	<key>managerParamHue</key>
+	<string>overlayFormContrast</string>
+	<key>staticExceptionIndex</key>
+	<string>constraintScopeBorder</string>
+</dict>
+</plist>

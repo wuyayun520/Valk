@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSinceMediator</key>
+	<string>protectedTickerTop</string>
+	<key>asyncAgainstTier</key>
+	<string>buttonVersusEnvironment</string>
+	<key>cursorFacadeDirection</key>
+	<string>coordinatorStateOrientation</string>
+	<key>methodOrProcess</key>
+	<string>metadataIncludeState</string>
+	<key>nextCallbackPressure</key>
+	<string>referenceBridgeTransparency</string>
+	<key>responseJobSpeed</key>
+	<string>primaryPositionedMode</string>
+	<key>significantParticleScale</key>
+	<string>touchVariableContrast</string>
+	<key>storageContextPadding</key>
+	<string>compositionThroughMode</string>
+	<key>tappableLabelOpacity</key>
+	<string>containerDespiteObserver</string>
+	<key>transitionBufferVisibility</key>
+	<string>notifierParameterOrigin</string>
+</dict>
+</plist>

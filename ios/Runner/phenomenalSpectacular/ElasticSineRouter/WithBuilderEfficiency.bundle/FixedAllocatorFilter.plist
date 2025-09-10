@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRadioInteraction</key>
+	<string>exceptionLayerDuration</string>
+	<key>discardedInterpolationPressure</key>
+	<string>anchorParamAcceleration</string>
+	<key>discardedTechniquePosition</key>
+	<string>assetAmongOperation</string>
+	<key>managerCommandPadding</key>
+	<string>subtleCursorTheme</string>
+	<key>musicDecoratorMargin</key>
+	<string>decorationBufferCoord</string>
+	<key>viewForPlatform</key>
+	<string>inactiveConsumerTension</string>
+</dict>
+</plist>

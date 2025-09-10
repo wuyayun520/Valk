@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledActionInset</key>
+	<string>fixedSubscriptionMode</string>
+	<key>lazyDelegateRight</key>
+	<string>errorBesideNumber</string>
+	<key>queryAgainstPlatform</key>
+	<string>consumerStatePadding</string>
+	<key>storyboardAlongParameter</key>
+	<string>mainPositionedShape</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStructureHead</key>
+	<string>heapCycleBottom</string>
+	<key>capacitiesInterpreterBehavior</key>
+	<string>lossAtType</string>
+	<key>errorAroundTask</key>
+	<string>gemMediatorDelay</string>
+	<key>handlerModeOrientation</key>
+	<string>cacheStateVisibility</string>
+	<key>labelModeInterval</key>
+	<string>vectorAndLayer</string>
+	<key>masterVarResponse</key>
+	<string>tabbarActionDelay</string>
+	<key>textureProcessStyle</key>
+	<string>missionCommandContrast</string>
+</dict>
+</plist>

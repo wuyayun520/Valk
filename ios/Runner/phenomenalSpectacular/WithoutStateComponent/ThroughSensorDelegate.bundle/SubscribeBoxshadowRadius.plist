@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureForSystem</key>
+	<string>spineAdapterBrightness</string>
+	<key>listenerWorkTail</key>
+	<string>eventOrCycle</string>
+	<key>mutableEventTail</key>
+	<string>seamlessSkinLocation</string>
+	<key>priorPopupPressure</key>
+	<string>commonScaleDistance</string>
+	<key>riverpodValueTag</key>
+	<string>titleFormDistance</string>
+	<key>rowAsPattern</key>
+	<string>sensorLayerBehavior</string>
+	<key>slashBeyondBuffer</key>
+	<string>animationUntilStyle</string>
+	<key>symbolOfMemento</key>
+	<string>actionInObserver</string>
+</dict>
+</plist>

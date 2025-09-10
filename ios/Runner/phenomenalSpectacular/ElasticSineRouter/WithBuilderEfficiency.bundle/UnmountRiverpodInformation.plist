@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSwiftAlignment</key>
+	<string>challengeBufferBottom</string>
+	<key>ephemeralGraphicPadding</key>
+	<string>navigatorTaskAcceleration</string>
+	<key>promiseFacadeDelay</key>
+	<string>permanentContainerScale</string>
+	<key>sceneProcessOpacity</key>
+	<string>nodeIncludeComposite</string>
+	<key>skinFrameworkFlags</key>
+	<string>normalQueryResponse</string>
+	<key>storeFrameworkKind</key>
+	<string>tweenBridgeBrightness</string>
+	<key>storyboardOutsideValue</key>
+	<string>popupAndEnvironment</string>
+	<key>unactivatedKernelFormat</key>
+	<string>semanticStreamBrightness</string>
+</dict>
+</plist>

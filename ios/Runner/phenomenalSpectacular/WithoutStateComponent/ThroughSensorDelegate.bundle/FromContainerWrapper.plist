@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTypeResponse</key>
+	<string>chapterNumberName</string>
+	<key>collectionDuringBridge</key>
+	<string>viewLayerTint</string>
+	<key>consumerLevelFeedback</key>
+	<string>timerIncludeType</string>
+	<key>nibForProxy</key>
+	<string>mobileMementoRate</string>
+	<key>remainderAwayActivity</key>
+	<string>checklistMediatorDelay</string>
+</dict>
+</plist>

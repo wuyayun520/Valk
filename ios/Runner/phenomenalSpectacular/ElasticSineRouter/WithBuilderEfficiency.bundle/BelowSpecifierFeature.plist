@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBufferInset</key>
+	<string>requiredCurvePosition</string>
+	<key>flexibleDocumentVelocity</key>
+	<string>delegateCycleRight</string>
+	<key>positionFrameworkShape</key>
+	<string>lazySessionVisibility</string>
+	<key>presenterBridgeDelay</key>
+	<string>menuInsideCycle</string>
+	<key>progressbarSinceContext</key>
+	<string>listenerBesideTask</string>
+	<key>secondEventVisibility</key>
+	<string>newestAlertRotation</string>
+	<key>segmentFormFeedback</key>
+	<string>contractionWithStructure</string>
+	<key>sharedSwitchPosition</key>
+	<string>gesturedetectorLayerInset</string>
+	<key>specifierCompositeSpacing</key>
+	<string>overlayBeyondScope</string>
+</dict>
+</plist>

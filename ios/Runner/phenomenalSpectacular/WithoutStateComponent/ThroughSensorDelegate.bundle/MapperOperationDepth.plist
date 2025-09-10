@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterEnvironmentTag</key>
+	<string>tableSingletonInset</string>
+	<key>chapterMementoFormat</key>
+	<string>elasticSingletonBorder</string>
+	<key>composableTableType</key>
+	<string>backwardGrainResponse</string>
+	<key>delegateTaskMode</key>
+	<string>newestCompletionBound</string>
+	<key>eagerAlignmentShape</key>
+	<string>otherAnimationDuration</string>
+	<key>flexibleInteractorBorder</key>
+	<string>featureAgainstInterpreter</string>
+	<key>prismaticUtilCenter</key>
+	<string>tappableRemainderInset</string>
+</dict>
+</plist>

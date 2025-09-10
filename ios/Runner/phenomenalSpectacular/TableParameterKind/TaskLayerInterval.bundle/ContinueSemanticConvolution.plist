@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilMethod</key>
+	<string>animatedcontainerWithPlatform</string>
+	<key>finalCompleterInterval</key>
+	<string>touchTaskHead</string>
+	<key>gridFromAction</key>
+	<string>layoutProxyCenter</string>
+	<key>kernelVersusSystem</key>
+	<string>grainPhaseScale</string>
+	<key>observerFromFlyweight</key>
+	<string>tappableProjectSize</string>
+</dict>
+</plist>

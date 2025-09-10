@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOutsideSystem</key>
+	<string>timerFunctionOffset</string>
+	<key>customBrushTag</key>
+	<string>commandSystemValidation</string>
+	<key>handlerInBuffer</key>
+	<string>custompaintThroughPrototype</string>
+	<key>interactiveQueryValidation</key>
+	<string>resultAboutMediator</string>
+	<key>otherSingletonTop</key>
+	<string>similarLayoutRotation</string>
+	<key>pinchableZoneInteraction</key>
+	<string>textureStateState</string>
+	<key>sliderScopeRate</key>
+	<string>multiplicationInShape</string>
+</dict>
+</plist>

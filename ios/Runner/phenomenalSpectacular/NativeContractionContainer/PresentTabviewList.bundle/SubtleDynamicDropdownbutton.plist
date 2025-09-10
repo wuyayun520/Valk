@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoUnaryAlignment</key>
+	<string>dependencyDecoratorTag</string>
+	<key>bufferLikeOperation</key>
+	<string>transitionParameterRotation</string>
+	<key>contractionJobPressure</key>
+	<string>grayscaleBufferSpeed</string>
+	<key>interactorOutsideCommand</key>
+	<string>temporaryNavigationTail</string>
+	<key>layerAsProxy</key>
+	<string>activatedInkwellTail</string>
+	<key>optimizerPatternDuration</key>
+	<string>sessionEnvironmentDistance</string>
+	<key>routeAroundFacade</key>
+	<string>texturePrototypeTail</string>
+	<key>stampTypeTension</key>
+	<string>chartOrContext</string>
+	<key>unaryParameterRotation</key>
+	<string>explicitCompletionShape</string>
+</dict>
+</plist>

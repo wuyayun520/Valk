@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePlatformTag</key>
+	<string>localTextfieldPadding</string>
+	<key>cardStateContrast</key>
+	<string>mediumStampDirection</string>
+	<key>coordinatorSinceMethod</key>
+	<string>cubitMediatorSkewx</string>
+	<key>giftAlongShape</key>
+	<string>similarLayoutAppearance</string>
+	<key>missedCubitPosition</key>
+	<string>requestByProxy</string>
+	<key>statelessDecoratorFeedback</key>
+	<string>paddingStateHue</string>
+</dict>
+</plist>

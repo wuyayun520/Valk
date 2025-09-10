@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStructureInset</key>
+	<string>priorityLayerDensity</string>
+	<key>anchorBeyondForm</key>
+	<string>smartMetadataBorder</string>
+	<key>dependencyStrategyPressure</key>
+	<string>swiftStageBorder</string>
+	<key>intensityViaComposite</key>
+	<string>commandPerPrototype</string>
+	<key>missedErrorVisible</key>
+	<string>missionUntilInterpreter</string>
+	<key>prevButtonLeft</key>
+	<string>animatedSpineCoord</string>
+	<key>radioCompositeShade</key>
+	<string>requestWithBuffer</string>
+	<key>sustainableCapacitiesFeedback</key>
+	<string>gateAtSingleton</string>
+	<key>taskPerStrategy</key>
+	<string>originalMapCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAdapterFeedback</key>
+	<string>entropyBeyondTask</string>
+	<key>deferredCurveFeedback</key>
+	<string>shaderWithMemento</string>
+	<key>labelFlyweightValidation</key>
+	<string>secondGateEdge</string>
+	<key>metadataTempleRight</key>
+	<string>variantMediatorBorder</string>
+	<key>observerTierDelay</key>
+	<string>particleAgainstChain</string>
+</dict>
+</plist>

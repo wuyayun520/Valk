@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondFramework</key>
+	<string>modelPrototypeSkewy</string>
+	<key>fixedButtonType</key>
+	<string>accessibleTaskShade</string>
+	<key>gateFlyweightAppearance</key>
+	<string>tweenPrototypeCount</string>
+	<key>handlerObserverTheme</key>
+	<string>bufferDespiteMemento</string>
+</dict>
+</plist>

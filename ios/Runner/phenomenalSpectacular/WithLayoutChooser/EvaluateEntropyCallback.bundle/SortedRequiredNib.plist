@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeAspectBehavior</key>
+	<string>routerThroughShape</string>
+	<key>entityThroughActivity</key>
+	<string>transitionAdapterInset</string>
+	<key>gridCommandSpacing</key>
+	<string>gemPrototypeShape</string>
+	<key>handlerPlatformStyle</key>
+	<string>symmetricSceneLeft</string>
+	<key>numericalTickerMomentum</key>
+	<string>disabledNotificationKind</string>
+	<key>taskTempleInterval</key>
+	<string>asyncFacadeDistance</string>
+	<key>transformerFlyweightScale</key>
+	<string>finalFactoryTension</string>
+</dict>
+</plist>

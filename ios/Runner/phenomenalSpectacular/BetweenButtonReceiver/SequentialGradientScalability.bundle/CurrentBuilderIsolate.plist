@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFormEdge</key>
+	<string>reducerKindSkewy</string>
+	<key>globalChannelsPadding</key>
+	<string>serviceFrameworkSkewy</string>
+	<key>multiDurationFormat</key>
+	<string>explicitListenerVisible</string>
+	<key>statePatternPosition</key>
+	<string>constraintBridgeHead</string>
+</dict>
+</plist>

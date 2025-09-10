@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAwayActivity</key>
+	<string>immutableSampleDistance</string>
+	<key>interactiveRoutePadding</key>
+	<string>customizedCompleterMargin</string>
+	<key>layerOperationBound</key>
+	<string>skinAmongDecorator</string>
+	<key>newestSpineAlignment</key>
+	<string>promiseSinceObserver</string>
+	<key>particlePatternDensity</key>
+	<string>cubitIncludeBuffer</string>
+	<key>requestTypeSaturation</key>
+	<string>brushAtType</string>
+	<key>stateStrategySaturation</key>
+	<string>apertureStateAlignment</string>
+	<key>unactivatedNavigatorEdge</key>
+	<string>marginContextColor</string>
+</dict>
+</plist>

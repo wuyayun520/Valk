@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStateVisibility</key>
+	<string>chapterSingletonSaturation</string>
+	<key>cursorMementoOpacity</key>
+	<string>customizedAspectBorder</string>
+	<key>momentumNearShape</key>
+	<string>sceneStateFlags</string>
+	<key>multiTextfieldAcceleration</key>
+	<string>fragmentModeFrequency</string>
+	<key>parallelRowValidation</key>
+	<string>eagerProviderSpacing</string>
+	<key>primaryNavigatorCenter</key>
+	<string>reducerMementoDirection</string>
+	<key>richtextStateHead</key>
+	<string>fragmentCycleName</string>
+	<key>rowSystemScale</key>
+	<string>notifierVisitorRotation</string>
+	<key>tabbarTierDirection</key>
+	<string>rowUntilTemple</string>
+</dict>
+</plist>

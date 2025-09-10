@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularListenerBrightness</key>
+	<string>variantProcessInterval</string>
+	<key>lazyPromiseSaturation</key>
+	<string>gridFlyweightTransparency</string>
+	<key>metadataStrategyState</key>
+	<string>navigatorAwayPattern</string>
+	<key>standaloneFutureAlignment</key>
+	<string>imperativeCardContrast</string>
+</dict>
+</plist>

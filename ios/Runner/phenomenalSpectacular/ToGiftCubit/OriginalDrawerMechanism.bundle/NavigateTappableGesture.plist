@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintNearAdapter</key>
+	<string>mediumHashOpacity</string>
+	<key>crucialNodeHue</key>
+	<string>descriptionAgainstPlatform</string>
+	<key>cupertinoHandlerFeedback</key>
+	<string>navigatorVersusContext</string>
+	<key>nextInterfaceEdge</key>
+	<string>sceneInsideActivity</string>
+	<key>queueWithoutProxy</key>
+	<string>consultativeBoxBehavior</string>
+</dict>
+</plist>

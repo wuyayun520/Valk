@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationVersusOperation</key>
+	<string>currentMasterInset</string>
+	<key>frameFunctionRate</key>
+	<string>activityDuringMethod</string>
+	<key>gemContainDecorator</key>
+	<string>profileScopeMode</string>
+	<key>mobxLevelFlags</key>
+	<string>missedPlateDelay</string>
+	<key>numericalDelegateSaturation</key>
+	<string>sequentialMaterialOffset</string>
+	<key>persistentCertificatePadding</key>
+	<string>currentObserverDistance</string>
+	<key>resilientPositionScale</key>
+	<string>desktopSpineMomentum</string>
+	<key>sharedAllocatorState</key>
+	<string>decorationAwayContext</string>
+	<key>skirtVersusDecorator</key>
+	<string>notifierCompositeCenter</string>
+</dict>
+</plist>

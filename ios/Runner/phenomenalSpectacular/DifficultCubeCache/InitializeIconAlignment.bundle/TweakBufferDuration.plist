@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialNotifierTheme</key>
+	<string>storageVarOffset</string>
+	<key>discardedQueueForce</key>
+	<string>offsetCommandInteraction</string>
+	<key>graphicOutsideDecorator</key>
+	<string>delicateInterfaceSpeed</string>
+	<key>movementOperationResponse</key>
+	<string>operationForSingleton</string>
+</dict>
+</plist>

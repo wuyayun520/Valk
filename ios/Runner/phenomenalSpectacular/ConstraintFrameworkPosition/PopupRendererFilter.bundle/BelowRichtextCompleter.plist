@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTouchPosition</key>
+	<string>dynamicSpriteMargin</string>
+	<key>brushAtScope</key>
+	<string>imperativePositionColor</string>
+	<key>containerChainOrigin</key>
+	<string>rowSinceMethod</string>
+	<key>coordinatorBeyondInterpreter</key>
+	<string>assetPatternBehavior</string>
+	<key>cycleSinceProxy</key>
+	<string>missedAllocatorLocation</string>
+	<key>resolverVisitorShade</key>
+	<string>unsortedControllerDepth</string>
+	<key>statefulUsecaseLocation</key>
+	<string>sliderVariableColor</string>
+	<key>switchInterpreterOrigin</key>
+	<string>persistentInterpolationName</string>
+	<key>unactivatedBinaryVisibility</key>
+	<string>binaryOfVisitor</string>
+</dict>
+</plist>

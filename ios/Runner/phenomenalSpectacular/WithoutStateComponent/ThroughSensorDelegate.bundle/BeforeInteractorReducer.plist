@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicResolverBottom</key>
+	<string>promiseLayerStyle</string>
+	<key>gridviewDecoratorDelay</key>
+	<string>tickerFlyweightOpacity</string>
+	<key>injectionChainMargin</key>
+	<string>animationStructureEdge</string>
+	<key>methodModeMode</key>
+	<string>normProcessKind</string>
+	<key>particleWorkAcceleration</key>
+	<string>cycleScopeHue</string>
+	<key>scrollableDurationInteraction</key>
+	<string>eventStateDirection</string>
+	<key>widgetInsideState</key>
+	<string>semanticTransformerTransparency</string>
+</dict>
+</plist>

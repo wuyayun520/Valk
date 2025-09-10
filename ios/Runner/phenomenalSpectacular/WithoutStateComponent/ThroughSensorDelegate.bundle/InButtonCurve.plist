@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptComposite</key>
+	<string>sizeDecoratorDistance</string>
+	<key>concurrentCaptionBehavior</key>
+	<string>handlerThroughAdapter</string>
+	<key>difficultWorkflowStatus</key>
+	<string>scrollableTaskDirection</string>
+	<key>drawerViaBuffer</key>
+	<string>semanticResolverTop</string>
+	<key>errorThroughJob</key>
+	<string>blocContextShade</string>
+	<key>missionNumberState</key>
+	<string>queueTempleAcceleration</string>
+	<key>nodeInterpreterBound</key>
+	<string>specifyTopicName</string>
+	<key>robustStorageColor</key>
+	<string>animationSystemRate</string>
+	<key>transitionShapeAcceleration</key>
+	<string>futureThanMediator</string>
+</dict>
+</plist>

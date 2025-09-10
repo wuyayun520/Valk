@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAlongMediator</key>
+	<string>widgetInAdapter</string>
+	<key>cursorMementoInterval</key>
+	<string>futureCycleHead</string>
+	<key>prevDropdownbuttonDepth</key>
+	<string>futureFlyweightShape</string>
+	<key>semanticTransitionAlignment</key>
+	<string>textPerAdapter</string>
+</dict>
+</plist>

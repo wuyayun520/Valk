@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFeatureSpacing</key>
+	<string>robustRouteStatus</string>
+	<key>baselineStateCount</key>
+	<string>groupParamRotation</string>
+	<key>cupertinoSinceStage</key>
+	<string>directlyRectStyle</string>
+	<key>descriptionParamDistance</key>
+	<string>widgetMementoPadding</string>
+	<key>descriptorMementoStyle</key>
+	<string>notificationCycleRotation</string>
+	<key>marginCycleDirection</key>
+	<string>decorationContextAcceleration</string>
+	<key>subscriptionStyleTint</key>
+	<string>interfaceActionForce</string>
+</dict>
+</plist>

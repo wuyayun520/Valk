@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLayoutDensity</key>
+	<string>sensorPlatformRotation</string>
+	<key>containerPerMediator</key>
+	<string>descriptorLevelPadding</string>
+	<key>dimensionTaskContrast</key>
+	<string>dropdownbuttonAmongSystem</string>
+	<key>gesturedetectorViaTemple</key>
+	<string>mobxWithVariable</string>
+	<key>indicatorActionBound</key>
+	<string>responseContextSkewx</string>
+	<key>layoutOutsideAction</key>
+	<string>sortedRepositoryLocation</string>
+	<key>mobxFormRate</key>
+	<string>frameThroughActivity</string>
+	<key>modalEnvironmentType</key>
+	<string>hardEntityBottom</string>
+	<key>singleTransitionTheme</key>
+	<string>materialLevelPosition</string>
+</dict>
+</plist>

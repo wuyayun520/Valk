@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartByMemento</key>
+	<string>hyperbolicConstraintOrientation</string>
+	<key>iconAndContext</key>
+	<string>completionFromKind</string>
+	<key>lossStrategyName</key>
+	<string>cubitModePosition</string>
+	<key>modelAroundFacade</key>
+	<string>composableTabbarOrigin</string>
+	<key>segmentSystemAlignment</key>
+	<string>characterVisitorTop</string>
+	<key>streamAtOperation</key>
+	<string>backwardSubscriptionState</string>
+</dict>
+</plist>

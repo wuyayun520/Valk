@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableDrawerAcceleration</key>
+	<string>sliderPerMode</string>
+	<key>keyProfileBorder</key>
+	<string>momentumAdapterAppearance</string>
+	<key>requiredNibTop</key>
+	<string>similarRoleSpacing</string>
+	<key>transitionProxyPadding</key>
+	<string>requestAndPhase</string>
+</dict>
+</plist>

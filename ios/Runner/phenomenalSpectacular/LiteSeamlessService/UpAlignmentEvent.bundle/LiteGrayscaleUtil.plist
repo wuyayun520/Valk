@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousUsecaseFrequency</key>
+	<string>movementAtObserver</string>
+	<key>crucialIsolateLocation</key>
+	<string>standaloneSwitchStatus</string>
+	<key>exceptionFromProcess</key>
+	<string>missionViaFramework</string>
+	<key>independentAnimationTag</key>
+	<string>displayableIntegerLocation</string>
+	<key>nodeAmongChain</key>
+	<string>cardThanMediator</string>
+	<key>normBridgeStyle</key>
+	<string>protectedEventMode</string>
+	<key>providerAgainstFlyweight</key>
+	<string>interactiveAwaitPadding</string>
+	<key>remainderAsFramework</key>
+	<string>promiseObserverTag</string>
+	<key>scrollFormMode</key>
+	<string>granularInjectionBrightness</string>
+	<key>sinkAsFramework</key>
+	<string>advancedOptimizerSpacing</string>
+</dict>
+</plist>

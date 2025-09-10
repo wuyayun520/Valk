@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleParticleInteraction</key>
+	<string>metadataPerLevel</string>
+	<key>fixedDrawerSpacing</key>
+	<string>basicButtonEdge</string>
+	<key>getxParameterBrightness</key>
+	<string>actionNearFacade</string>
+	<key>mapKindBottom</key>
+	<string>groupAlongFramework</string>
+	<key>primaryActionDelay</key>
+	<string>apertureAtMode</string>
+	<key>reactiveCommandSkewy</key>
+	<string>coordinatorVarSkewy</string>
+	<key>sensorLevelResponse</key>
+	<string>compositionalMobileResponse</string>
+</dict>
+</plist>

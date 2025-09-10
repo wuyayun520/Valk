@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocNearEnvironment</key>
+	<string>usedLayoutEdge</string>
+	<key>crudeViewDepth</key>
+	<string>navigatorAlongOperation</string>
+	<key>deferredReducerFeedback</key>
+	<string>firstMethodAlignment</string>
+	<key>deferredUsecaseFormat</key>
+	<string>granularRectRotation</string>
+	<key>loopPerJob</key>
+	<string>sliderKindTail</string>
+	<key>marginTierBorder</key>
+	<string>layoutPrototypeDensity</string>
+	<key>sizeOfMemento</key>
+	<string>sceneBufferKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleStyleFrequency</key>
+	<string>playbackUntilPattern</string>
+	<key>descriptorPerLevel</key>
+	<string>requestAgainstJob</string>
+	<key>independentTimerValidation</key>
+	<string>buttonBridgeResponse</string>
+	<key>injectionAndMode</key>
+	<string>geometricOptionOrigin</string>
+	<key>radiusAroundTask</key>
+	<string>tabviewAsMode</string>
+	<key>rectVisitorLeft</key>
+	<string>monsterPerBuffer</string>
+	<key>storeParameterOffset</key>
+	<string>reductionLikeSystem</string>
+	<key>streamDespiteVisitor</key>
+	<string>pointKindDirection</string>
+	<key>utilParamPosition</key>
+	<string>materialVersusTier</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferShapeOffset</key>
+	<string>directCapsuleKind</string>
+	<key>currentHistogramFeedback</key>
+	<string>gramWithoutPattern</string>
+	<key>loopInterpreterInterval</key>
+	<string>tabbarAdapterInteraction</string>
+	<key>reusableSinkFlags</key>
+	<string>histogramCompositeResponse</string>
+	<key>secondTabviewOpacity</key>
+	<string>priorityThroughMode</string>
+	<key>zoneSystemShape</key>
+	<string>protectedOffsetContrast</string>
+</dict>
+</plist>

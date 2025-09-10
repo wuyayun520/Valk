@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureIncludePattern</key>
+	<string>requestUntilCycle</string>
+	<key>clipperAmongStructure</key>
+	<string>providerOrStyle</string>
+	<key>hashPerComposite</key>
+	<string>usecaseViaMemento</string>
+	<key>liteControllerOrigin</key>
+	<string>sharedOptionFormat</string>
+	<key>substantialIsolateHue</key>
+	<string>precisionStageHue</string>
+</dict>
+</plist>

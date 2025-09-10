@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsWithBridge</key>
+	<string>expandedOperationPosition</string>
+	<key>playbackWithLayer</key>
+	<string>metadataCommandFeedback</string>
+	<key>positionSingletonDuration</key>
+	<string>liteThemeShade</string>
+	<key>routerTaskMomentum</key>
+	<string>actionFormTag</string>
+	<key>vectorProcessTheme</key>
+	<string>taskThanAdapter</string>
+</dict>
+</plist>

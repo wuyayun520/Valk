@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedParticleFlags</key>
+	<string>interactiveMaterialFeedback</string>
+	<key>challengeNearPlatform</key>
+	<string>prevImageTransparency</string>
+	<key>disparateNodeBorder</key>
+	<string>notifierEnvironmentOrigin</string>
+	<key>factoryAgainstParam</key>
+	<string>tappableLogEdge</string>
+	<key>particleDespiteTier</key>
+	<string>blocDuringPlatform</string>
+	<key>radiusDespiteActivity</key>
+	<string>providerOrSystem</string>
+	<key>referenceAboutCommand</key>
+	<string>dimensionStructureShape</string>
+	<key>responseOperationInset</key>
+	<string>serviceEnvironmentDepth</string>
+	<key>segmentActionRotation</key>
+	<string>beginnerProviderFormat</string>
+</dict>
+</plist>

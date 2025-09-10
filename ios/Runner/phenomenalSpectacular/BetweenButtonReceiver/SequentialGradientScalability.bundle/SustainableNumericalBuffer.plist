@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterViaShape</key>
+	<string>appbarAndVisitor</string>
+	<key>crudeTransitionPosition</key>
+	<string>sliderLevelSpacing</string>
+	<key>interfaceFormFormat</key>
+	<string>activatedConfigurationTheme</string>
+	<key>resolverAlongPlatform</key>
+	<string>ephemeralIntensityMomentum</string>
+</dict>
+</plist>

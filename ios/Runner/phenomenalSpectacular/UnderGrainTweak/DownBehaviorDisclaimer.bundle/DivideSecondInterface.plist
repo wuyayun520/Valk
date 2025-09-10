@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActionHue</key>
+	<string>progressbarOrJob</string>
+	<key>ephemeralButtonBorder</key>
+	<string>buttonLevelCoord</string>
+	<key>managerStageInteraction</key>
+	<string>cupertinoCupertinoDelay</string>
+	<key>materialTextStyle</key>
+	<string>navigationLevelLeft</string>
+	<key>modalTierBrightness</key>
+	<string>nextPetIndex</string>
+	<key>spriteNumberRight</key>
+	<string>curveOfCycle</string>
+	<key>tabviewDuringPattern</key>
+	<string>methodAmongMethod</string>
+</dict>
+</plist>

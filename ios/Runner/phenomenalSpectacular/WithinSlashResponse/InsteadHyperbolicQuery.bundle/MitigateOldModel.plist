@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticObserverBehavior</key>
+	<string>pointParamCount</string>
+	<key>batchLikeShape</key>
+	<string>dynamicOffsetStatus</string>
+	<key>groupCompositeDuration</key>
+	<string>bitrateThroughStyle</string>
+	<key>inactiveInkwellDepth</key>
+	<string>boxshadowWithChain</string>
+	<key>promiseInsideLayer</key>
+	<string>lastBlocTheme</string>
+	<key>subscriptionDuringObserver</key>
+	<string>exceptionVariableIndex</string>
+</dict>
+</plist>

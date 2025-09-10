@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBeyondScope</key>
+	<string>dynamicHandlerOrigin</string>
+	<key>controllerInsideType</key>
+	<string>staticWidgetAppearance</string>
+	<key>cosineStrategyBrightness</key>
+	<string>disabledStepLocation</string>
+	<key>eagerEventSaturation</key>
+	<string>functionalCubitVelocity</string>
+	<key>precisionPrototypeShape</key>
+	<string>futureNearParam</string>
+	<key>threadShapeStyle</key>
+	<string>significantViewPressure</string>
+</dict>
+</plist>

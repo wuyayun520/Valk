@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledBlocBehavior</key>
+	<string>statefulSpriteRate</string>
+	<key>dynamicUtilRight</key>
+	<string>custompaintThroughProxy</string>
+	<key>metadataCycleVisible</key>
+	<string>brushExceptMode</string>
+	<key>nibDuringPattern</key>
+	<string>playbackExceptFlyweight</string>
+	<key>responseLikeContext</key>
+	<string>cubitIncludeBridge</string>
+	<key>routerExceptCycle</key>
+	<string>equipmentIncludeMethod</string>
+	<key>taskFormCenter</key>
+	<string>reducerOfNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainContextOpacity</key>
+	<string>assetSystemContrast</string>
+	<key>heroStatePadding</key>
+	<string>finalGraphInteraction</string>
+	<key>sceneTaskOffset</key>
+	<string>rectForSingleton</string>
+	<key>webSizeForce</key>
+	<string>groupOrVar</string>
+</dict>
+</plist>

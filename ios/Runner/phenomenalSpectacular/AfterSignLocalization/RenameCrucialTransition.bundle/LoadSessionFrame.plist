@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerScopeSkewy</key>
+	<string>queueVariableDuration</string>
+	<key>channelBeyondObserver</key>
+	<string>touchAboutPhase</string>
+	<key>composableLossDepth</key>
+	<string>exceptionJobDepth</string>
+	<key>groupOutsidePlatform</key>
+	<string>responseSingletonLocation</string>
+	<key>missedTickerFeedback</key>
+	<string>catalystTypeCount</string>
+	<key>projectionTaskCount</key>
+	<string>layoutDespiteBridge</string>
+	<key>techniqueThanStyle</key>
+	<string>asynchronousRouteMargin</string>
+	<key>transformerCompositeFormat</key>
+	<string>localizationByTask</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureForJob</key>
+	<string>finalStackTransparency</string>
+	<key>arithmeticEventTail</key>
+	<string>heapVarSkewy</string>
+	<key>constraintVariableDelay</key>
+	<string>profileStrategyPadding</string>
+	<key>euclideanSkinFormat</key>
+	<string>sensorThroughComposite</string>
+	<key>promiseProxyResponse</key>
+	<string>loopOfVariable</string>
+	<key>rectMethodMode</key>
+	<string>sharedBufferSpeed</string>
+	<key>scaleCycleSkewy</key>
+	<string>bufferPerContext</string>
+	<key>sensorDuringStructure</key>
+	<string>dialogsDuringVar</string>
+	<key>timerSingletonStatus</key>
+	<string>tabbarVersusVisitor</string>
+</dict>
+</plist>

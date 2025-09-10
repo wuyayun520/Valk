@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOutsideSystem</key>
+	<string>accessibleWidgetScale</string>
+	<key>concurrentDecorationInteraction</key>
+	<string>permanentSineSkewx</string>
+	<key>dynamicCoordinatorFrequency</key>
+	<string>exceptionMediatorStyle</string>
+	<key>gridDuringCommand</key>
+	<string>screenNearLayer</string>
+	<key>interfaceObserverCoord</key>
+	<string>radioSinceStrategy</string>
+	<key>localizationStrategyColor</key>
+	<string>compositionScopeLocation</string>
+	<key>managerStyleSkewx</key>
+	<string>completerLayerHue</string>
+	<key>momentumVisitorStatus</key>
+	<string>topicProxyLocation</string>
+	<key>priorAspectCenter</key>
+	<string>fusedAssetAppearance</string>
+	<key>subtleManagerMomentum</key>
+	<string>heroInParam</string>
+</dict>
+</plist>

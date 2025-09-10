@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCertificateAcceleration</key>
+	<string>explicitSampleBorder</string>
+	<key>paddingBeyondType</key>
+	<string>navigatorPlatformBottom</string>
+	<key>primaryMovementStatus</key>
+	<string>dialogsForLevel</string>
+	<key>responseStyleMargin</key>
+	<string>directlyProjectionStatus</string>
+	<key>responsiveProviderBound</key>
+	<string>activatedPrecisionTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellParamSize</key>
+	<string>fixedScrollAcceleration</string>
+	<key>easyInjectionFlags</key>
+	<string>reducerNearFramework</string>
+	<key>flexAroundNumber</key>
+	<string>pointSinceNumber</string>
+	<key>inactiveZoneTheme</key>
+	<string>iterativeOverlayKind</string>
+	<key>inheritedResultRight</key>
+	<string>permanentSpecifierState</string>
+	<key>invisibleLayerDuration</key>
+	<string>storeCompositeDuration</string>
+	<key>radioStyleMomentum</key>
+	<string>tangentProxyVisibility</string>
+</dict>
+</plist>

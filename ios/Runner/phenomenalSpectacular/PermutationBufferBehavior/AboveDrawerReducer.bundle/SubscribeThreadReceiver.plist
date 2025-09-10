@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTaskTheme</key>
+	<string>asyncCubitFrequency</string>
+	<key>gemCompositeBottom</key>
+	<string>parallelGrainValidation</string>
+	<key>singleListenerScale</key>
+	<string>musicStructureName</string>
+	<key>zoneVarRate</key>
+	<string>asyncContainFramework</string>
+</dict>
+</plist>

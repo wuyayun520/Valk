@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPhaseFeedback</key>
+	<string>dynamicMasterIndex</string>
+	<key>chartFacadeValidation</key>
+	<string>uniqueCacheDuration</string>
+	<key>cursorProcessDepth</key>
+	<string>radiusCommandOffset</string>
+	<key>handlerPatternTension</key>
+	<string>tableNearPrototype</string>
+	<key>liteChallengeHead</key>
+	<string>offsetThroughCycle</string>
+	<key>mobileLabelEdge</key>
+	<string>routeCommandDistance</string>
+	<key>nodeContainMemento</key>
+	<string>constraintBufferStatus</string>
+	<key>resizableTableState</key>
+	<string>taskAndProcess</string>
+</dict>
+</plist>

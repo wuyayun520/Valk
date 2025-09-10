@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerOfVariable</key>
+	<string>entityOrSingleton</string>
+	<key>errorStructureRotation</key>
+	<string>difficultIconAppearance</string>
+	<key>fixedPopupCount</key>
+	<string>isolateContextPosition</string>
+	<key>greatTickerVisible</key>
+	<string>iconDecoratorHead</string>
+	<key>providerSystemCount</key>
+	<string>compositionLayerTag</string>
+	<key>slashFormColor</key>
+	<string>decorationTierTint</string>
+	<key>uniformRouteResponse</key>
+	<string>callbackLikeCycle</string>
+</dict>
+</plist>

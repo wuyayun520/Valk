@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsCompositeBottom</key>
+	<string>unsortedBuilderOrientation</string>
+	<key>concurrentRouteAlignment</key>
+	<string>cubitLikeParam</string>
+	<key>discardedVectorBottom</key>
+	<string>textureSingletonKind</string>
+	<key>graphPerPrototype</key>
+	<string>inactivePopupScale</string>
+	<key>logInAction</key>
+	<string>basicPromiseStatus</string>
+	<key>priorityProcessBorder</key>
+	<string>secondIsolateCount</string>
+	<key>sceneIncludePattern</key>
+	<string>backwardCubeKind</string>
+	<key>sliderParameterCoord</key>
+	<string>storeVarInteraction</string>
+	<key>swiftPrototypeBound</key>
+	<string>dropdownbuttonByScope</string>
+</dict>
+</plist>

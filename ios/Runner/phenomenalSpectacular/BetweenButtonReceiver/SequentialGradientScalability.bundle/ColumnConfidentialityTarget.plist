@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicCustompaintVisible</key>
+	<string>screenFromEnvironment</string>
+	<key>layoutPatternCenter</key>
+	<string>vectorByActivity</string>
+	<key>nativeInterpolationCenter</key>
+	<string>reducerForTemple</string>
+	<key>sensorAboutTemple</key>
+	<string>viewValueFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSkinScale</key>
+	<string>axisAndSingleton</string>
+	<key>declarativeStatelessSaturation</key>
+	<string>positionBeyondDecorator</string>
+	<key>frameEnvironmentBottom</key>
+	<string>currentChannelTop</string>
+	<key>positionedShapeTint</key>
+	<string>commandAsShape</string>
+	<key>resolverCommandBrightness</key>
+	<string>widgetSystemFeedback</string>
+	<key>resourceObserverPosition</key>
+	<string>textfieldAwayPrototype</string>
+	<key>spriteVarState</key>
+	<string>currentCurveOrigin</string>
+</dict>
+</plist>

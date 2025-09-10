@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStyleBound</key>
+	<string>lostAwaitTheme</string>
+	<key>exponentFromValue</key>
+	<string>otherDecorationBrightness</string>
+	<key>gridForStyle</key>
+	<string>awaitDuringMode</string>
+	<key>imageAmongDecorator</key>
+	<string>gemParamTop</string>
+	<key>listenerLevelTheme</key>
+	<string>listenerWithSystem</string>
+	<key>routeFrameworkAcceleration</key>
+	<string>flexDecoratorLeft</string>
+</dict>
+</plist>

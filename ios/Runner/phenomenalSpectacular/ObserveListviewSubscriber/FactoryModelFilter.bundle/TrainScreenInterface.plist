@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeOutsideParam</key>
+	<string>baseWithoutTask</string>
+	<key>futureEnvironmentFormat</key>
+	<string>navigationByPrototype</string>
+	<key>resolverLayerBehavior</key>
+	<string>hashAlongParam</string>
+	<key>sizeAndBuffer</key>
+	<string>nextMapTop</string>
+	<key>storeFormAppearance</key>
+	<string>builderAtChain</string>
+</dict>
+</plist>

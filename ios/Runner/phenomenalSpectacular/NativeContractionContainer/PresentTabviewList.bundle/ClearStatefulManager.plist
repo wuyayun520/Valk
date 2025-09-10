@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStrategyTail</key>
+	<string>imageCycleFeedback</string>
+	<key>futurePlatformBound</key>
+	<string>allocatorDuringLevel</string>
+	<key>interfaceFlyweightForce</key>
+	<string>consultativeStatefulColor</string>
+	<key>navigationBufferTension</key>
+	<string>controllerObserverBottom</string>
+	<key>rapidBrushBrightness</key>
+	<string>segmentVarName</string>
+	<key>tweenOutsideStyle</key>
+	<string>gestureVersusSingleton</string>
+	<key>widgetVersusAdapter</key>
+	<string>imperativeToolShape</string>
+</dict>
+</plist>

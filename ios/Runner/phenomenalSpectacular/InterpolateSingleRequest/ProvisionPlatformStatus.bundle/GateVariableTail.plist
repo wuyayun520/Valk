@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMapContrast</key>
+	<string>directlyPreviewType</string>
+	<key>assetIncludeVisitor</key>
+	<string>disabledPaddingRate</string>
+	<key>gateBridgeLocation</key>
+	<string>semanticManagerMode</string>
+	<key>reusableChapterTheme</key>
+	<string>themePerEnvironment</string>
+	<key>temporaryGrainScale</key>
+	<string>temporaryMarginTransparency</string>
+	<key>tweenAwayFunction</key>
+	<string>lossPhaseTint</string>
+</dict>
+</plist>

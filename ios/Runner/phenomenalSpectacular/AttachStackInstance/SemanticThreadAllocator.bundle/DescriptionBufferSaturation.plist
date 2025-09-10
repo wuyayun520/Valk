@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellVariableAppearance</key>
+	<string>materialConfigurationLeft</string>
+	<key>cursorObserverBound</key>
+	<string>expandedCompositeValidation</string>
+	<key>granularScrollTransparency</key>
+	<string>labelInsideSystem</string>
+	<key>mediaContainScope</key>
+	<string>interfaceAgainstFlyweight</string>
+</dict>
+</plist>

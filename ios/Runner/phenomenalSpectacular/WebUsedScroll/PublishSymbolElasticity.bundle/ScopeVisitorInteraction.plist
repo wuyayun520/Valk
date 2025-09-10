@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateIncludePhase</key>
+	<string>gridObserverCenter</string>
+	<key>dependencyAroundState</key>
+	<string>sequentialNibFeedback</string>
+	<key>hierarchicalDrawerTail</key>
+	<string>routeMediatorIndex</string>
+	<key>opaqueFeatureAlignment</key>
+	<string>signatureDecoratorMode</string>
+	<key>parallelPrecisionHue</key>
+	<string>memberOfValue</string>
+	<key>singletonLikeInterpreter</key>
+	<string>primarySampleSpacing</string>
+	<key>topicInOperation</key>
+	<string>similarCheckboxBound</string>
+	<key>workflowOfDecorator</key>
+	<string>controllerProcessDelay</string>
+</dict>
+</plist>

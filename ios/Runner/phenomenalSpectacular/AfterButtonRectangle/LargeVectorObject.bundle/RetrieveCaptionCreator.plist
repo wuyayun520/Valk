@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAroundEnvironment</key>
+	<string>responseAgainstState</string>
+	<key>autoAlertTail</key>
+	<string>eventAlongType</string>
+	<key>configurationOrJob</key>
+	<string>intensityPerAction</string>
+	<key>dependencyByTask</key>
+	<string>listviewActionTheme</string>
+	<key>desktopTextfieldBrightness</key>
+	<string>reactiveCursorRate</string>
+	<key>exponentViaMediator</key>
+	<string>taskExceptState</string>
+	<key>sensorActionDensity</key>
+	<string>resolverAsSingleton</string>
+	<key>specifierVersusAction</key>
+	<string>tableMediatorSpacing</string>
+	<key>stackWithValue</key>
+	<string>routeCommandOrigin</string>
+</dict>
+</plist>

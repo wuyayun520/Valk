@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOfFunction</key>
+	<string>functionalUtilDistance</string>
+	<key>cubitParameterFeedback</key>
+	<string>operationActionCoord</string>
+	<key>enabledLossIndex</key>
+	<string>modelFlyweightTheme</string>
+	<key>fusedProviderShade</key>
+	<string>containerWithShape</string>
+	<key>labelFromMemento</key>
+	<string>painterThanFacade</string>
+</dict>
+</plist>

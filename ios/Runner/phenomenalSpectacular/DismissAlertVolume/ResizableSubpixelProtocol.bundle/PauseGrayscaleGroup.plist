@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCustompaintBorder</key>
+	<string>usedIntensityMargin</string>
+	<key>cursorScopeDirection</key>
+	<string>staticSingletonShape</string>
+	<key>customViewSpeed</key>
+	<string>listviewActionRight</string>
+	<key>effectAlongFramework</key>
+	<string>firstSinkHead</string>
+	<key>explicitHandlerTail</key>
+	<string>taskFromComposite</string>
+	<key>frameVersusBridge</key>
+	<string>standaloneResultSize</string>
+	<key>precisionDecoratorPressure</key>
+	<string>unsortedMethodRight</string>
+</dict>
+</plist>

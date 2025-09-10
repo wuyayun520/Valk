@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateModeForce</key>
+	<string>boxAsFacade</string>
+	<key>seamlessErrorTheme</key>
+	<string>mutableAssetTension</string>
+	<key>standaloneMediaDelay</key>
+	<string>similarConstraintOrientation</string>
+	<key>taskStateBottom</key>
+	<string>singletonViaBridge</string>
+	<key>textureLikePhase</key>
+	<string>zonePlatformOpacity</string>
+</dict>
+</plist>

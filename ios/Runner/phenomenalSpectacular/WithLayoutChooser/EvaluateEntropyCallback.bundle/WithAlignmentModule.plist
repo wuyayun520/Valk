@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndScope</key>
+	<string>normalCatalystFrequency</string>
+	<key>keyRectVisibility</key>
+	<string>builderMethodBehavior</string>
+	<key>menuProcessLeft</key>
+	<string>semanticCardType</string>
+	<key>reducerInterpreterFeedback</key>
+	<string>routerStructureRight</string>
+	<key>resolverAwayChain</key>
+	<string>queryExceptSingleton</string>
+	<key>roleOrShape</key>
+	<string>factoryWithoutVar</string>
+	<key>statelessStateIndex</key>
+	<string>geometricStatefulOrigin</string>
+</dict>
+</plist>

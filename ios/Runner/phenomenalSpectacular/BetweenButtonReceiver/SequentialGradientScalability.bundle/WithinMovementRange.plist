@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVersusCycle</key>
+	<string>originalLayoutCount</string>
+	<key>appbarLikeProxy</key>
+	<string>secondIsolateTail</string>
+	<key>awaitSystemSaturation</key>
+	<string>seamlessRowInteraction</string>
+	<key>baselineAndObserver</key>
+	<string>presenterKindVisibility</string>
+	<key>catalystPerTier</key>
+	<string>actionExceptObserver</string>
+	<key>concreteCurveBrightness</key>
+	<string>scrollableZoneBehavior</string>
+	<key>largeEffectTop</key>
+	<string>chartStageEdge</string>
+	<key>profileAgainstTask</key>
+	<string>localMatrixRight</string>
+	<key>semanticSpecifierAppearance</key>
+	<string>sharedMediaqueryEdge</string>
+	<key>storeTierCenter</key>
+	<string>interfaceInsideFramework</string>
+</dict>
+</plist>

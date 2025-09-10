@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionContextOrigin</key>
+	<string>sessionByAdapter</string>
+	<key>dialogsBeyondShape</key>
+	<string>curveActionVelocity</string>
+	<key>getxFormAcceleration</key>
+	<string>pivotalCompleterSpeed</string>
+	<key>interfaceTierRotation</key>
+	<string>routeWorkOrigin</string>
+	<key>nibVersusChain</key>
+	<string>metadataViaParam</string>
+	<key>optionByStructure</key>
+	<string>offsetSingletonTension</string>
+	<key>providerAroundSingleton</key>
+	<string>autoQueueValidation</string>
+	<key>providerThroughScope</key>
+	<string>streamPlatformInteraction</string>
+	<key>respectiveNavigatorDelay</key>
+	<string>labelCycleDepth</string>
+</dict>
+</plist>

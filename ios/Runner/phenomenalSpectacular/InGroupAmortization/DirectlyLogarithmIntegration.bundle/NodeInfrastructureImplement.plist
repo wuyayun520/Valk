@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGroupHead</key>
+	<string>navigatorActivityIndex</string>
+	<key>dynamicCubitFormat</key>
+	<string>materialCommandLeft</string>
+	<key>exceptionOutsideMemento</key>
+	<string>primaryCatalystResponse</string>
+	<key>imperativeLoopOrigin</key>
+	<string>completionDecoratorHead</string>
+	<key>missedPlateOpacity</key>
+	<string>subtleTransitionScale</string>
+	<key>mobxProcessSpacing</key>
+	<string>sharedNavigatorSpacing</string>
+	<key>newestCoordinatorTop</key>
+	<string>denseSizeSize</string>
+	<key>sortedTouchHead</key>
+	<string>shaderActivityTheme</string>
+	<key>titleStateScale</key>
+	<string>controllerParamHead</string>
+</dict>
+</plist>

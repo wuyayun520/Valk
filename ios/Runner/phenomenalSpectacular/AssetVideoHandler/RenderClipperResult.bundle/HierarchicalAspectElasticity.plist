@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAroundBridge</key>
+	<string>dialogsInsideStage</string>
+	<key>injectionDuringState</key>
+	<string>multiEffectInteraction</string>
+	<key>listviewExceptSingleton</key>
+	<string>decorationOrAdapter</string>
+	<key>pinchableListviewType</key>
+	<string>accessibleModalAcceleration</string>
+	<key>seamlessDecorationInset</key>
+	<string>segueOfShape</string>
+	<key>semanticsAboutAdapter</key>
+	<string>accordionSpineBottom</string>
+	<key>streamAgainstProcess</key>
+	<string>isolateModeName</string>
+	<key>tableWithoutFunction</key>
+	<string>symmetricRowBrightness</string>
+</dict>
+</plist>

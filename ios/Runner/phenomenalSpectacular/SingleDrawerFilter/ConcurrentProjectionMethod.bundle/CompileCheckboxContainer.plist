@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTopicInterval</key>
+	<string>themeStructureContrast</string>
+	<key>flexObserverVisibility</key>
+	<string>usecasePerFlyweight</string>
+	<key>gridPerInterpreter</key>
+	<string>stackAtType</string>
+	<key>groupNumberShade</key>
+	<string>listviewCompositeInterval</string>
+	<key>hyperbolicEffectInset</key>
+	<string>popupAsLayer</string>
+	<key>layoutStateName</key>
+	<string>methodMethodAcceleration</string>
+	<key>multiChecklistPosition</key>
+	<string>blocVersusValue</string>
+	<key>popupBufferRight</key>
+	<string>inactiveTitleValidation</string>
+	<key>unactivatedExpandedTint</key>
+	<string>checkboxParameterTag</string>
+</dict>
+</plist>

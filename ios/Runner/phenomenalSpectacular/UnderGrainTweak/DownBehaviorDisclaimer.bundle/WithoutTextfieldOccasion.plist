@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticValueMargin</key>
+	<string>immediateClipperAlignment</string>
+	<key>currentNavigatorStatus</key>
+	<string>tabviewWithoutProcess</string>
+	<key>offsetContextKind</key>
+	<string>menuFlyweightStyle</string>
+	<key>scrollThroughProxy</key>
+	<string>animationLikeShape</string>
+</dict>
+</plist>

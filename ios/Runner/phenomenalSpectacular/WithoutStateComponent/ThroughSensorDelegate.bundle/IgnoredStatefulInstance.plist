@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletTempleFlags</key>
+	<string>mutableControllerSpeed</string>
+	<key>curveAndSystem</key>
+	<string>previewAdapterBound</string>
+	<key>ephemeralHandlerAcceleration</key>
+	<string>seamlessCoordinatorOffset</string>
+	<key>fusedGemDuration</key>
+	<string>similarCurveForce</string>
+	<key>utilEnvironmentPressure</key>
+	<string>immediateThreadBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelEnvironmentTheme</key>
+	<string>displayableBehaviorStatus</string>
+	<key>clipperPerActivity</key>
+	<string>animatedNibDuration</string>
+	<key>disparateSensorTension</key>
+	<string>enabledContainerColor</string>
+	<key>projectPlatformVisible</key>
+	<string>dependencyAdapterContrast</string>
+	<key>scaleChainAlignment</key>
+	<string>currentScrollRate</string>
+	<key>tabbarByState</key>
+	<string>backwardLoopDistance</string>
+	<key>webGrainTransparency</key>
+	<string>layoutCompositeOrientation</string>
+</dict>
+</plist>

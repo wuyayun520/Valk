@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSingletonVelocity</key>
+	<string>particleAdapterRate</string>
+	<key>channelsAndComposite</key>
+	<string>actionObserverCount</string>
+	<key>controllerDecoratorInteraction</key>
+	<string>nativeErrorInset</string>
+	<key>errorForProxy</key>
+	<string>tabbarScopeIndex</string>
+	<key>modelAtOperation</key>
+	<string>usageStageOffset</string>
+	<key>reducerAmongAdapter</key>
+	<string>riverpodTierInteraction</string>
+	<key>significantColumnSkewy</key>
+	<string>factoryDuringBuffer</string>
+</dict>
+</plist>

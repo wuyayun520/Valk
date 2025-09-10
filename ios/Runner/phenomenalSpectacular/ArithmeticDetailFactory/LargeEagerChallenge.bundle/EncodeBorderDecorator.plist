@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGraphTail</key>
+	<string>chapterKindTheme</string>
+	<key>featureLayerVisible</key>
+	<string>displayableSliderFormat</string>
+	<key>stateSingletonInset</key>
+	<string>resilientSegueAcceleration</string>
+	<key>tweenBesideStyle</key>
+	<string>descriptionOutsideValue</string>
+	<key>utilBeyondProcess</key>
+	<string>iconProxyStyle</string>
+</dict>
+</plist>

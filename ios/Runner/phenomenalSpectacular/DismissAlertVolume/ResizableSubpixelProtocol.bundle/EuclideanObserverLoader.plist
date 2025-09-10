@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveChainMargin</key>
+	<string>eagerShaderVisibility</string>
+	<key>featureByCycle</key>
+	<string>sequentialGradientShade</string>
+	<key>immutableOptimizerValidation</key>
+	<string>spriteKindShade</string>
+	<key>invisibleTouchFeedback</key>
+	<string>responseExceptInterpreter</string>
+	<key>presenterBesideValue</key>
+	<string>singletonStateTail</string>
+	<key>publicTouchRight</key>
+	<string>usedManagerPosition</string>
+	<key>tensorVectorFrequency</key>
+	<string>bufferViaStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerStateStyle</key>
+	<string>brushIncludeType</string>
+	<key>dependencySingletonShade</key>
+	<string>widgetOfPattern</string>
+	<key>durationBeyondShape</key>
+	<string>curveCompositeState</string>
+	<key>hyperbolicNotifierIndex</key>
+	<string>injectionVersusCycle</string>
+	<key>inkwellLevelSkewy</key>
+	<string>inheritedFactoryOrigin</string>
+	<key>statelessCharacterType</key>
+	<string>memberFromNumber</string>
+	<key>ternaryContextSize</key>
+	<string>requiredMaterialFeedback</string>
+	<key>webApertureState</key>
+	<string>navigationFacadeSkewy</string>
+</dict>
+</plist>

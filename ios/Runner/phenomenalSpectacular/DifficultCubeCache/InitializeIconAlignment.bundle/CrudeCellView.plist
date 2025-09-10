@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyLocalizationAcceleration</key>
+	<string>lostPainterName</string>
+	<key>dynamicStorageBrightness</key>
+	<string>themeCommandRight</string>
+	<key>featureScopeAlignment</key>
+	<string>rectAsPlatform</string>
+	<key>liteMenuHue</key>
+	<string>gridCompositeColor</string>
+	<key>materialSingletonMargin</key>
+	<string>boxshadowMethodAlignment</string>
+	<key>promiseAtVisitor</key>
+	<string>containerStructureInteraction</string>
+	<key>scrollableTaskOrientation</key>
+	<string>materialDescriptionDirection</string>
+	<key>similarTransitionTint</key>
+	<string>timerEnvironmentBorder</string>
+	<key>subpixelCommandAppearance</key>
+	<string>boxCommandTint</string>
+</dict>
+</plist>

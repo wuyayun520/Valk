@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOperationValidation</key>
+	<string>equipmentExceptOperation</string>
+	<key>cursorAsCycle</key>
+	<string>autoPointFeedback</string>
+	<key>promiseAgainstAction</key>
+	<string>actionFunctionVelocity</string>
+	<key>resizablePositionResponse</key>
+	<string>basePerAdapter</string>
+</dict>
+</plist>

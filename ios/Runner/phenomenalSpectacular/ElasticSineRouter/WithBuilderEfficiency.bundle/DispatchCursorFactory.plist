@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorJobInteraction</key>
+	<string>flexibleResultTransparency</string>
+	<key>arithmeticPresenterDuration</key>
+	<string>titleSystemStyle</string>
+	<key>blocExceptContext</key>
+	<string>granularSubpixelInteraction</string>
+	<key>featureDuringStage</key>
+	<string>animatedPositionCoord</string>
+	<key>labelCompositeCoord</key>
+	<string>cacheAlongVar</string>
+	<key>localTextureDuration</key>
+	<string>queuePatternCoord</string>
+	<key>singletonInCycle</key>
+	<string>customIntegerTheme</string>
+</dict>
+</plist>

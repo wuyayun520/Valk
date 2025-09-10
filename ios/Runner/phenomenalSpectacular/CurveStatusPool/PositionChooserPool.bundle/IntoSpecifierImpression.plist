@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFunctionDirection</key>
+	<string>catalystCommandContrast</string>
+	<key>compositionTaskShape</key>
+	<string>finalTaskDistance</string>
+	<key>firstConfigurationContrast</key>
+	<string>presenterTypeLocation</string>
+	<key>gradientParamBrightness</key>
+	<string>activatedTableSkewy</string>
+	<key>inkwellAboutWork</key>
+	<string>eagerLoopInterval</string>
+	<key>mainResolverFlags</key>
+	<string>permanentSingletonFormat</string>
+	<key>paddingVarValidation</key>
+	<string>specifyMaterialOrigin</string>
+	<key>similarSubscriptionLeft</key>
+	<string>resilientActivityDirection</string>
+	<key>synchronousErrorSkewy</key>
+	<string>shaderByInterpreter</string>
+</dict>
+</plist>

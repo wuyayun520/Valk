@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionPlatformBrightness</key>
+	<string>customBehaviorAcceleration</string>
+	<key>masterActionInteraction</key>
+	<string>asyncResolverTheme</string>
+	<key>requestStateInterval</key>
+	<string>globalEventCount</string>
+	<key>tangentOutsideState</key>
+	<string>richtextThroughKind</string>
+	<key>usecaseOperationVisible</key>
+	<string>mediumGraphRotation</string>
+</dict>
+</plist>

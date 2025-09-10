@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorKindVelocity</key>
+	<string>subtleFragmentOpacity</string>
+	<key>channelsWorkContrast</key>
+	<string>constContainerHue</string>
+	<key>listenerDespitePlatform</key>
+	<string>extensionEnvironmentTop</string>
+	<key>mediocreDrawerFormat</key>
+	<string>pinchableDependencyBrightness</string>
+	<key>missionAdapterScale</key>
+	<string>localResponseInset</string>
+	<key>spriteValueBorder</key>
+	<string>completionPerMethod</string>
+	<key>stackStructureMode</key>
+	<string>loopThanVar</string>
+	<key>transformerScopeBorder</key>
+	<string>blocSingletonAlignment</string>
+</dict>
+</plist>

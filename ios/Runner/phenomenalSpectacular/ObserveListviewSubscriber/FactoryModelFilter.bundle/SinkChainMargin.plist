@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedStatefulTheme</key>
+	<string>hashWithoutParameter</string>
+	<key>getxJobVisible</key>
+	<string>containerNumberInteraction</string>
+	<key>granularRowValidation</key>
+	<string>specifierLevelSkewy</string>
+	<key>imperativeMemberHue</key>
+	<string>controllerFacadePadding</string>
+	<key>resizableServiceBrightness</key>
+	<string>ephemeralCursorCount</string>
+</dict>
+</plist>

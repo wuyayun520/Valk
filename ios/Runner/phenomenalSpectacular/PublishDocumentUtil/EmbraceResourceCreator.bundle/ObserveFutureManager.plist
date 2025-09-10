@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterFacadeVelocity</key>
+	<string>webMusicStatus</string>
+	<key>columnEnvironmentDistance</key>
+	<string>taskPrototypeFormat</string>
+	<key>gesturePatternSkewy</key>
+	<string>stampPlatformCoord</string>
+	<key>lazyPreviewSaturation</key>
+	<string>autoGrayscaleResponse</string>
+	<key>listenerThroughMediator</key>
+	<string>eagerProviderBehavior</string>
+	<key>nextTransformerIndex</key>
+	<string>storageDuringState</string>
+	<key>precisionAtMediator</key>
+	<string>prismaticCubitCenter</string>
+	<key>screenFacadeName</key>
+	<string>pinchableRadiusRight</string>
+	<key>slashTaskHead</key>
+	<string>imperativeChecklistTension</string>
+</dict>
+</plist>

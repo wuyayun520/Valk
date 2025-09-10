@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstMemento</key>
+	<string>accordionApertureSaturation</string>
+	<key>apertureCommandMode</key>
+	<string>usecaseOperationAlignment</string>
+	<key>primaryStoryboardTension</key>
+	<string>advancedStatefulInteraction</string>
+	<key>singleMenuTop</key>
+	<string>widgetBesideStructure</string>
+	<key>sizeParamFlags</key>
+	<string>diffablePreviewLeft</string>
+	<key>taskTierAppearance</key>
+	<string>sliderVariableType</string>
+	<key>unsortedReducerDepth</key>
+	<string>storageForState</string>
+</dict>
+</plist>

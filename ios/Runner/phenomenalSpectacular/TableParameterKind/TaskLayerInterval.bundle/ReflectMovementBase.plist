@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDespiteParameter</key>
+	<string>reusableSceneDistance</string>
+	<key>directActionBorder</key>
+	<string>inkwellDuringAction</string>
+	<key>localCursorTint</key>
+	<string>navigatorMediatorMargin</string>
+	<key>localEffectLocation</key>
+	<string>prismaticProgressbarFlags</string>
+	<key>providerActionName</key>
+	<string>parallelAwaitHead</string>
+	<key>tabbarParamTransparency</key>
+	<string>methodLevelStatus</string>
+	<key>touchParamPosition</key>
+	<string>asyncLevelInterval</string>
+</dict>
+</plist>

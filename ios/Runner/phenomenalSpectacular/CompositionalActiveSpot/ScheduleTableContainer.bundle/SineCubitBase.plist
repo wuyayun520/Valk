@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOrFlyweight</key>
+	<string>movementDuringLevel</string>
+	<key>callbackCycleTop</key>
+	<string>blocNearProxy</string>
+	<key>decorationUntilMode</key>
+	<string>channelVersusTask</string>
+	<key>fusedCertificatePadding</key>
+	<string>enabledTextfieldInterval</string>
+	<key>keyServiceMode</key>
+	<string>permanentRichtextTop</string>
+	<key>modelDespiteType</key>
+	<string>fragmentInScope</string>
+	<key>navigationEnvironmentBrightness</key>
+	<string>accordionReferenceColor</string>
+	<key>popupAwayContext</key>
+	<string>topicJobContrast</string>
+</dict>
+</plist>

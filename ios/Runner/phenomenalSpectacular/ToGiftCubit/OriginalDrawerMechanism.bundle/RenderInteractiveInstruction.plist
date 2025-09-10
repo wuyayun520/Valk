@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionErrorInteraction</key>
+	<string>entityExceptCycle</string>
+	<key>consultativeHashSkewy</key>
+	<string>completerOrInterpreter</string>
+	<key>integerByState</key>
+	<string>consultativeMobileOffset</string>
+	<key>liteScaleSkewy</key>
+	<string>cardFromValue</string>
+	<key>nextDrawerVisibility</key>
+	<string>textTaskShade</string>
+	<key>rowPatternDepth</key>
+	<string>hyperbolicEntityBorder</string>
+	<key>sliderNumberBrightness</key>
+	<string>navigationTierFlags</string>
+	<key>spriteBeyondMemento</key>
+	<string>statelessResourceSpeed</string>
+</dict>
+</plist>

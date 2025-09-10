@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionParameterEdge</key>
+	<string>accessibleDescriptorIndex</string>
+	<key>alignmentPhaseVisibility</key>
+	<string>requiredTransitionBound</string>
+	<key>allocatorChainTransparency</key>
+	<string>layoutTaskOffset</string>
+	<key>buttonInContext</key>
+	<string>binaryStyleBound</string>
+	<key>curveScopeSkewx</key>
+	<string>descriptorTempleState</string>
+	<key>hashBridgeStatus</key>
+	<string>awaitProcessTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDuringWork</key>
+	<string>standaloneAnchorType</string>
+	<key>hyperbolicToolOrigin</key>
+	<string>dedicatedCurveBehavior</string>
+	<key>nodePrototypeFeedback</key>
+	<string>sizedboxAlongLevel</string>
+	<key>notificationFormAcceleration</key>
+	<string>canvasInterpreterForce</string>
+	<key>radioContextLeft</key>
+	<string>topicJobDelay</string>
+</dict>
+</plist>

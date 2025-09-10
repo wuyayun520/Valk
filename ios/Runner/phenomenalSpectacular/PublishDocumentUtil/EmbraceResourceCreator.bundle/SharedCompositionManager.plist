@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineParamBorder</key>
+	<string>hashPlatformOffset</string>
+	<key>coordinatorAroundActivity</key>
+	<string>granularObserverOrientation</string>
+	<key>coordinatorAroundJob</key>
+	<string>cellParamAlignment</string>
+	<key>cycleTaskStatus</key>
+	<string>immutableStateDistance</string>
+	<key>lazyDropdownbuttonMargin</key>
+	<string>storageLikeLayer</string>
+	<key>listenerStructureDuration</key>
+	<string>delicateFutureTag</string>
+	<key>nibWithEnvironment</key>
+	<string>semanticDimensionVelocity</string>
+	<key>resourceFrameworkTheme</key>
+	<string>multiplicationViaMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStateTheme</key>
+	<string>profileStructureStatus</string>
+	<key>animationScopeCenter</key>
+	<string>titleWorkOpacity</string>
+	<key>cycleDuringTask</key>
+	<string>captionInterpreterDensity</string>
+	<key>pointByLayer</key>
+	<string>reducerAboutFlyweight</string>
+	<key>routerVariableScale</key>
+	<string>stateBeyondPrototype</string>
+	<key>seamlessInterfaceBottom</key>
+	<string>blocLayerLeft</string>
+	<key>spriteByContext</key>
+	<string>storeAgainstStructure</string>
+	<key>staticInteractorVelocity</key>
+	<string>progressbarStageScale</string>
+	<key>vectorMementoStyle</key>
+	<string>groupVisitorAlignment</string>
+</dict>
+</plist>

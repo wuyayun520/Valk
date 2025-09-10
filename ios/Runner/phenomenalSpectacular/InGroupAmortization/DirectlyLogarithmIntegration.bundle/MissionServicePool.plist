@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBeyondMemento</key>
+	<string>characterDecoratorBehavior</string>
+	<key>alphaNumberEdge</key>
+	<string>menuObserverSkewy</string>
+	<key>documentPerObserver</key>
+	<string>textfieldNearFacade</string>
+	<key>explicitDescriptionKind</key>
+	<string>builderNumberVelocity</string>
+	<key>grayscaleAsFacade</key>
+	<string>histogramAlongProcess</string>
+	<key>sortedBuilderSkewy</key>
+	<string>metadataForFacade</string>
+	<key>statefulHandlerPressure</key>
+	<string>hashBridgeInteraction</string>
+	<key>tweenSingletonDuration</key>
+	<string>taskLevelCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityOfBridge</key>
+	<string>mediocreCurveRight</string>
+	<key>fragmentWithScope</key>
+	<string>euclideanTexturePadding</string>
+	<key>gridForObserver</key>
+	<string>cartesianPainterInset</string>
+	<key>hierarchicalInteractorState</key>
+	<string>aspectratioActivityCount</string>
+	<key>hyperbolicCommandCenter</key>
+	<string>completerAgainstAction</string>
+	<key>interactorMethodShade</key>
+	<string>textThanFunction</string>
+	<key>lazyTimerLocation</key>
+	<string>entropyThroughFlyweight</string>
+	<key>masterScopeDirection</key>
+	<string>featureViaMethod</string>
+	<key>nativeNavigatorDuration</key>
+	<string>immediateSliderDelay</string>
+	<key>themeAgainstVar</key>
+	<string>effectViaFramework</string>
+</dict>
+</plist>

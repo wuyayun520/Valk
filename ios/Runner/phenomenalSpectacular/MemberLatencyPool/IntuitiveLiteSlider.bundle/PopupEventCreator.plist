@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerSingletonMomentum</key>
+	<string>pinchableTaskDuration</string>
+	<key>directWidgetScale</key>
+	<string>builderMediatorVelocity</string>
+	<key>indicatorAtType</key>
+	<string>primaryButtonState</string>
+	<key>reducerLayerTransparency</key>
+	<string>integerKindVelocity</string>
+	<key>stampActivityDistance</key>
+	<string>sliderVersusLevel</string>
+	<key>utilStyleDuration</key>
+	<string>delegateFormSize</string>
+</dict>
+</plist>

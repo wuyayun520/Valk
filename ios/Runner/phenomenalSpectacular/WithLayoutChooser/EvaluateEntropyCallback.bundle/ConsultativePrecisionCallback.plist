@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyCommandFrequency</key>
+	<string>toolLayerAcceleration</string>
+	<key>gestureDuringState</key>
+	<string>mutableMediaquerySkewx</string>
+	<key>granularBehaviorMargin</key>
+	<string>mobileTextDensity</string>
+	<key>localizationLayerType</key>
+	<string>accessibleOperationContrast</string>
+	<key>particleActionShade</key>
+	<string>decorationAroundPhase</string>
+	<key>queueDespiteFunction</key>
+	<string>apertureLevelVelocity</string>
+	<key>specifySinkSkewy</key>
+	<string>delicateChannelHue</string>
+	<key>swiftAgainstFramework</key>
+	<string>normalNavigatorBound</string>
+</dict>
+</plist>

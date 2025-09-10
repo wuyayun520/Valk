@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBridgeSaturation</key>
+	<string>opaquePopupHue</string>
+	<key>cubitScopePadding</key>
+	<string>scrollOfValue</string>
+	<key>draggableViewTension</key>
+	<string>nextEffectOrientation</string>
+	<key>equipmentDecoratorInterval</key>
+	<string>arithmeticPerOperation</string>
+	<key>largeCurveTail</key>
+	<string>geometricArithmeticPadding</string>
+	<key>mobxAroundSingleton</key>
+	<string>nativeActionMode</string>
+	<key>routerBesideType</key>
+	<string>chartBesideOperation</string>
+</dict>
+</plist>

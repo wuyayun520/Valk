@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackIncludeScope</key>
+	<string>zoneContainWork</string>
+	<key>cellNearValue</key>
+	<string>normalOffsetPosition</string>
+	<key>serviceForObserver</key>
+	<string>methodPlatformLeft</string>
+	<key>sineAboutPhase</key>
+	<string>promiseSingletonOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledExceptionPressure</key>
+	<string>cacheOutsideForm</string>
+	<key>exceptionWithFlyweight</key>
+	<string>grainAtTask</string>
+	<key>requestAndVisitor</key>
+	<string>commonFragmentForce</string>
+	<key>rowSingletonStyle</key>
+	<string>interactiveSizeCoord</string>
+	<key>secondCurveSpacing</key>
+	<string>explicitAnimatedcontainerDelay</string>
+	<key>sineAroundBridge</key>
+	<string>concreteSliderFlags</string>
+</dict>
+</plist>

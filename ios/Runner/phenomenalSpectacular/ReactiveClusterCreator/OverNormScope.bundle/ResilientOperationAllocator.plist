@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioIncludePlatform</key>
+	<string>originalNodeSize</string>
+	<key>basicHandlerCoord</key>
+	<string>modalProxyBorder</string>
+	<key>blocSystemFeedback</key>
+	<string>mutableTextOrientation</string>
+	<key>concurrentChecklistSaturation</key>
+	<string>memberMediatorIndex</string>
+	<key>globalParticleState</key>
+	<string>reducerStyleShade</string>
+	<key>sliderTypeBottom</key>
+	<string>radioVisitorStatus</string>
+</dict>
+</plist>

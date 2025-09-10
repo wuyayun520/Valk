@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonInterpreterBehavior</key>
+	<string>cartesianNotifierContrast</string>
+	<key>cupertinoWithMode</key>
+	<string>viewTempleBound</string>
+	<key>deferredSwiftValidation</key>
+	<string>decorationAwayMemento</string>
+	<key>grainAboutType</key>
+	<string>observerTypeEdge</string>
+	<key>histogramPhaseDepth</key>
+	<string>declarativeRepositorySpacing</string>
+	<key>intensityOrKind</key>
+	<string>indicatorScopeVelocity</string>
+	<key>sharedCommandShade</key>
+	<string>tabviewDespiteAdapter</string>
+</dict>
+</plist>

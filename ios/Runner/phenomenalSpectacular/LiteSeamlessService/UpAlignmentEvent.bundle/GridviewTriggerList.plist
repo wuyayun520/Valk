@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioUntilStrategy</key>
+	<string>subscriptionAmongComposite</string>
+	<key>buttonStateAppearance</key>
+	<string>interpolationVarBorder</string>
+	<key>nodeChainRight</key>
+	<string>cellProcessLocation</string>
+	<key>stepOutsideEnvironment</key>
+	<string>comprehensiveCardContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityActivityValidation</key>
+	<string>configurationAmongCycle</string>
+	<key>mainCapacitiesValidation</key>
+	<string>hardIndicatorRight</string>
+	<key>modalFrameworkTail</key>
+	<string>resizableCycleBorder</string>
+	<key>pinchableScrollSize</key>
+	<string>persistentMomentumKind</string>
+	<key>radiusOfFacade</key>
+	<string>temporaryAlertState</string>
+	<key>rowDespiteShape</key>
+	<string>mainSpineVelocity</string>
+	<key>ternaryBesideKind</key>
+	<string>usageWithoutVisitor</string>
+</dict>
+</plist>

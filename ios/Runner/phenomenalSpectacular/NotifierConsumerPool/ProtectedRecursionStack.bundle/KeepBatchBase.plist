@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCommandLeft</key>
+	<string>durationCommandShape</string>
+	<key>cardVarTop</key>
+	<string>gemKindAppearance</string>
+	<key>gemStrategyShape</key>
+	<string>binaryContextShade</string>
+	<key>persistentBaseFeedback</key>
+	<string>autoTextureSaturation</string>
+	<key>statelessGestureAppearance</key>
+	<string>diversifiedIsolateEdge</string>
+</dict>
+</plist>

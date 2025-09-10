@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constMaterialSize</key>
+	<string>taskInMethod</string>
+	<key>delegateAboutFramework</key>
+	<string>loopDuringFramework</string>
+	<key>euclideanCardDirection</key>
+	<string>bulletUntilComposite</string>
+	<key>missionContextDelay</key>
+	<string>firstAssetTail</string>
+	<key>normalParticleFrequency</key>
+	<string>iterativePresenterMode</string>
+	<key>retainedListenerTransparency</key>
+	<string>disparateDecorationPressure</string>
+	<key>standaloneGiftResponse</key>
+	<string>decorationWithoutLevel</string>
+</dict>
+</plist>

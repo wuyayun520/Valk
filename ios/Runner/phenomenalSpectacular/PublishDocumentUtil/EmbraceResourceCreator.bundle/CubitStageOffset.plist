@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedIntegerForce</key>
+	<string>temporaryBorderRotation</string>
+	<key>awaitPhaseBehavior</key>
+	<string>cycleStageValidation</string>
+	<key>diffableDecorationSkewx</key>
+	<string>checklistCycleAcceleration</string>
+	<key>futureParameterSkewy</key>
+	<string>injectionPlatformStyle</string>
+	<key>interactorPerChain</key>
+	<string>priorityStrategyTint</string>
+	<key>navigationAmongAdapter</key>
+	<string>blocPhaseValidation</string>
+	<key>responseViaScope</key>
+	<string>modulusParameterAppearance</string>
+	<key>rowKindDepth</key>
+	<string>controllerParameterRotation</string>
+	<key>sustainableContractionMode</key>
+	<string>statelessOffsetPressure</string>
+</dict>
+</plist>

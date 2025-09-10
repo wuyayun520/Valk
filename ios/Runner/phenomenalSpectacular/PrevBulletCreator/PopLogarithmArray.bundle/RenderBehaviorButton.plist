@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSegmentAppearance</key>
+	<string>richtextValueBottom</string>
+	<key>commonGraphOrientation</key>
+	<string>imageOutsideState</string>
+	<key>decorationWorkStyle</key>
+	<string>commandChainDensity</string>
+	<key>denseNibMode</key>
+	<string>variantProcessFeedback</string>
+	<key>disparateSlashPosition</key>
+	<string>immutableTextContrast</string>
+	<key>interactorFacadeName</key>
+	<string>texturePerPrototype</string>
+	<key>positionInsideSingleton</key>
+	<string>entityCompositeCenter</string>
+	<key>primaryCardVisible</key>
+	<string>effectProcessRight</string>
+	<key>sinkOrObserver</key>
+	<string>resilientSignaturePressure</string>
+</dict>
+</plist>

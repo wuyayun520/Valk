@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAlongStrategy</key>
+	<string>factoryActivityBottom</string>
+	<key>currentNotificationInterval</key>
+	<string>observerChainBehavior</string>
+	<key>handlerCompositeOrigin</key>
+	<string>graphicBufferInset</string>
+	<key>layoutPrototypeFlags</key>
+	<string>customModalShape</string>
+	<key>mediumIntensityTheme</key>
+	<string>euclideanPresenterAppearance</string>
+	<key>memberValueScale</key>
+	<string>taskPatternLocation</string>
+	<key>resolverVisitorRotation</key>
+	<string>globalNavigatorRight</string>
+	<key>rowChainOrigin</key>
+	<string>handlerOrParameter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseJobRotation</key>
+	<string>draggableChecklistFlags</string>
+	<key>gemContextBorder</key>
+	<string>immutableServiceInset</string>
+	<key>interactiveParticleSpacing</key>
+	<string>iterativeTaskOrientation</string>
+	<key>keyZoneDensity</key>
+	<string>subscriptionThroughMediator</string>
+	<key>listenerActionShape</key>
+	<string>characterUntilJob</string>
+	<key>spineAroundLevel</key>
+	<string>curveBridgeBound</string>
+</dict>
+</plist>

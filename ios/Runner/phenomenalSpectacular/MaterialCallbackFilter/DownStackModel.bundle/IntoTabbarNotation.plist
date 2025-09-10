@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorProxyContrast</key>
+	<string>advancedBaselineForce</string>
+	<key>containerDespiteMethod</key>
+	<string>boxshadowPhaseTension</string>
+	<key>cupertinoNotifierBrightness</key>
+	<string>accessibleFeatureScale</string>
+	<key>errorContainDecorator</key>
+	<string>hyperbolicAnimationBorder</string>
+	<key>inactiveLayerVisibility</key>
+	<string>priorityInInterpreter</string>
+</dict>
+</plist>

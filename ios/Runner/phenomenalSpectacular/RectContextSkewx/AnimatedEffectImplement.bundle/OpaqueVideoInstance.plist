@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAsKind</key>
+	<string>commonEntityVisibility</string>
+	<key>controllerVersusSingleton</key>
+	<string>synchronousBrushContrast</string>
+	<key>eventBeyondPlatform</key>
+	<string>cartesianModalName</string>
+	<key>gesturedetectorParamInset</key>
+	<string>permissiveGrainCoord</string>
+	<key>menuForComposite</key>
+	<string>errorAroundStage</string>
+	<key>movementFacadeDistance</key>
+	<string>skirtFromFramework</string>
+	<key>navigatorIncludeOperation</key>
+	<string>denseIntegerAppearance</string>
+	<key>relationalCurveBottom</key>
+	<string>denseGridviewOrigin</string>
+	<key>streamFrameworkTint</key>
+	<string>containerPhaseName</string>
+</dict>
+</plist>

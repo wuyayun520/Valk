@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonNavigatorStatus</key>
+	<string>layerEnvironmentTransparency</string>
+	<key>eagerNotifierRotation</key>
+	<string>explicitBaselineOrigin</string>
+	<key>gestureDuringVar</key>
+	<string>associatedBulletDuration</string>
+	<key>handlerStateMargin</key>
+	<string>constNavigationSkewy</string>
+	<key>missionFlyweightVelocity</key>
+	<string>priorTransformerInteraction</string>
+	<key>musicFlyweightTint</key>
+	<string>mobileForContext</string>
+</dict>
+</plist>

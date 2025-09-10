@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonValueColor</key>
+	<string>labelFormDirection</string>
+	<key>cubitOutsideChain</key>
+	<string>usedSpotOrigin</string>
+	<key>decorationParameterHead</key>
+	<string>exceptionContextFeedback</string>
+	<key>disabledSliderContrast</key>
+	<string>sliderNumberPadding</string>
+	<key>euclideanBaseCount</key>
+	<string>easyFactorySpeed</string>
+	<key>finalCollectionBehavior</key>
+	<string>segmentBeyondParameter</string>
+	<key>flexOutsideStrategy</key>
+	<string>statefulParamTint</string>
+	<key>statelessStoreTail</key>
+	<string>getxStatePadding</string>
+</dict>
+</plist>

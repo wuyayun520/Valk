@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseForKind</key>
+	<string>mapCycleOpacity</string>
+	<key>callbackParamForce</key>
+	<string>missionNearParameter</string>
+	<key>cubitModeOffset</key>
+	<string>storeAboutStyle</string>
+	<key>currentAwaitColor</key>
+	<string>viewAsScope</string>
+	<key>heapProcessCoord</key>
+	<string>metadataLevelOrientation</string>
+	<key>notifierSingletonOrigin</key>
+	<string>responseThroughWork</string>
+	<key>particleJobVisibility</key>
+	<string>viewAsFramework</string>
+	<key>playbackThanPhase</key>
+	<string>oldTabbarBorder</string>
+	<key>providerContextOrientation</key>
+	<string>bufferViaMemento</string>
+	<key>queueFunctionMomentum</key>
+	<string>controllerOrAdapter</string>
+</dict>
+</plist>

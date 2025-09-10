@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationBeyondMethod</key>
+	<string>bufferAtAction</string>
+	<key>graphicCommandMode</key>
+	<string>priorLayoutDistance</string>
+	<key>groupProcessBottom</key>
+	<string>particleAroundFlyweight</string>
+	<key>keyContainerInterval</key>
+	<string>aspectratioStateOrientation</string>
+</dict>
+</plist>

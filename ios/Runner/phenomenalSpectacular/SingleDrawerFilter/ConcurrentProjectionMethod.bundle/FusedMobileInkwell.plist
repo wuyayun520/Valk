@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAwayStrategy</key>
+	<string>localCustompaintPadding</string>
+	<key>fusedDelegateContrast</key>
+	<string>musicDecoratorVisible</string>
+	<key>gestureFormVisible</key>
+	<string>constraintDespiteType</string>
+	<key>histogramDecoratorSaturation</key>
+	<string>tabbarOutsideContext</string>
+	<key>intuitiveLossMode</key>
+	<string>textSingletonAlignment</string>
+	<key>notificationByStrategy</key>
+	<string>sharedProviderDensity</string>
+	<key>opaqueSampleLocation</key>
+	<string>radioBesideShape</string>
+	<key>reusableTextRight</key>
+	<string>actionAroundScope</string>
+	<key>sessionStyleTop</key>
+	<string>opaqueChallengeSkewx</string>
+	<key>spotScopeBound</key>
+	<string>navigationAboutType</string>
+</dict>
+</plist>

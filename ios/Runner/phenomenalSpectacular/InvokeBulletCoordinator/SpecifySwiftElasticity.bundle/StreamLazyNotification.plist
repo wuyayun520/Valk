@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeActivity</key>
+	<string>equipmentOrPattern</string>
+	<key>firstEventSpeed</key>
+	<string>prismaticAlertLeft</string>
+	<key>layoutPlatformShade</key>
+	<string>greatReducerTransparency</string>
+	<key>otherIndicatorContrast</key>
+	<string>deferredRemainderOpacity</string>
+	<key>publicSceneTheme</key>
+	<string>webSpineColor</string>
+	<key>statelessReducerTransparency</key>
+	<string>pivotalDelegateTail</string>
+</dict>
+</plist>

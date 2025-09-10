@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationScopePressure</key>
+	<string>globalGradientKind</string>
+	<key>indicatorDuringLayer</key>
+	<string>temporaryRectSaturation</string>
+	<key>movementAroundParam</key>
+	<string>configurationWithoutState</string>
+	<key>sinkValueFormat</key>
+	<string>subsequentResolverSpeed</string>
+</dict>
+</plist>

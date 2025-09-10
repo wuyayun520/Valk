@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondCommand</key>
+	<string>desktopCoordinatorType</string>
+	<key>contractionShapeFlags</key>
+	<string>profileInterpreterInset</string>
+	<key>expandedOperationTint</key>
+	<string>immediateCursorFrequency</string>
+	<key>imageCommandShade</key>
+	<string>groupAboutStructure</string>
+	<key>independentPrecisionCenter</key>
+	<string>mutableColumnType</string>
+	<key>invisibleOptimizerOpacity</key>
+	<string>configurationWithVariable</string>
+	<key>navigationScopeLocation</key>
+	<string>beginnerGrainStatus</string>
+	<key>otherEffectTail</key>
+	<string>switchOfBuffer</string>
+	<key>prismaticActionBehavior</key>
+	<string>staticCardFormat</string>
+</dict>
+</plist>

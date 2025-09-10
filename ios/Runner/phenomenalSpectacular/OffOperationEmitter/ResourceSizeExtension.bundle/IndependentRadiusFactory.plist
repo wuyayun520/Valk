@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalLayoutDensity</key>
+	<string>rectByActivity</string>
+	<key>interfaceAlongContext</key>
+	<string>fragmentViaMethod</string>
+	<key>mediaNearOperation</key>
+	<string>hierarchicalTitleSaturation</string>
+	<key>precisionFlyweightSaturation</key>
+	<string>grainExceptTask</string>
+	<key>publicFutureSkewx</key>
+	<string>visibleSinkFormat</string>
+	<key>signPlatformDelay</key>
+	<string>fusedCatalystRotation</string>
+	<key>slashSystemColor</key>
+	<string>roleAroundEnvironment</string>
+	<key>sustainableSinkSize</key>
+	<string>immediateStackDepth</string>
+	<key>tabviewCommandSpeed</key>
+	<string>allocatorPatternInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMapInterval</key>
+	<string>newestAppbarStatus</string>
+	<key>delegateSystemDepth</key>
+	<string>scrollableDependencyTransparency</string>
+	<key>hardHashInterval</key>
+	<string>interactorVarRight</string>
+	<key>intensityVersusForm</key>
+	<string>parallelMediaTransparency</string>
+	<key>parallelUtilAcceleration</key>
+	<string>accessibleQueueResponse</string>
+	<key>resultUntilSingleton</key>
+	<string>extensionMementoDensity</string>
+	<key>routeStyleOrigin</key>
+	<string>layoutStateVisible</string>
+	<key>tabviewPerValue</key>
+	<string>cosineUntilVar</string>
+</dict>
+</plist>

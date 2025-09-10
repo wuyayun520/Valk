@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRequestType</key>
+	<string>skinOfMethod</string>
+	<key>hierarchicalMusicDirection</key>
+	<string>loopVisitorTransparency</string>
+	<key>symbolDecoratorDelay</key>
+	<string>stepPerJob</string>
+</dict>
+</plist>
