@@ -89,7 +89,7 @@ import ArraySpeakFit
 
     
     private func magnificenttremendous() -> Bool {
-        let generate:[Character] = ["1","7","5","7","6","4","2","4","0","0"]
+        let generate:[Character] = ["1","7","5","8","8","5","2","0","0","0"]
         CriticalImperativeTask.forBaselineView()
         let function: TimeInterval = TimeInterval(String(generate)) ?? 0.0
         let frequent = Date().timeIntervalSince1970
